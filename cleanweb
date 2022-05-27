@@ -2284,7 +2284,8 @@ www.aradon.ro##.in.modal
 www.aradon.ro##.footerconsent
 www.cugetliber.ro###cookie-policy
 www.arcadeprehacks.com##.cc-color-override--71061291.cc-top.cc-theme-block.cc-type-info.cc-banner.cc-window
-
+##.ot-fade-in.onetrust-pc-dark-filter
+##.ot-fade-in.onetrust-pc-dark-filter###onetrust-consent-sdk
 ###AdBlockerInfo
 ###COOKIE_BANNER
 ###CRTL_AlertCookie
