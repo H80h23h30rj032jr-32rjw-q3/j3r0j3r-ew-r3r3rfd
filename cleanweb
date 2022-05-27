@@ -26790,3 +26790,23 @@ www.iqads.ro##nav > ul > li:nth-of-type(10)
 www.peroz.ro##.footer-top-nav-link.gdpr-modal-trigger
 www.posta-romana.ro##.cookie-bar-24I.none.cookies-bar
 www.pornorama.com###disclaimer_background
+www.godaddy.com##.legal-menu > ul > li:nth-of-type(4)
+www.ef.com##.cefcom-footer__privacy-links.cefcom-footer-col > .cefcom-footer__list.cefcom-list > li.cefcom-list__item:nth-of-type(2)
+www.ef.com##li.footer-breadcrumbs-list__item:nth-of-type(2)
+www.onetrust.com##.privacy-links.right.cols > ul > li:nth-of-type(2)
+assured-dp.com##.cookie-notice-container
+assured-dp.com##.text-left.col-inner [href="https://assured-dp.com/cookie-policy/"]
+www.2zeroemission.eu###ct-ultimate-gdpr-cookie-modal
+www.2zeroemission.eu##.ct-ultimate-gdpr-cookie-popup-button-rounded.ct-ultimate-gdpr-cookie-popup-apas-blue.ct-ultimate-gdpr-cookie-popup-apas.ct-ultimate-gdpr-cookie-popup-10-set.ct-ultimate-gdpr-cookie-bottomPanel
+www.2zeroemission.eu##div#ct-ultimate-gdpr-cookie-open.ct-ultimate-gdpr-trigger-modal-round:nth-of-type(3)
+www.2zeroemission.eu##div#ct-ultimate-gdpr-cookie-open.ct-ultimate-gdpr-trigger-modal-round:nth-of-type(4)
+www.2zeroemission.eu###footer-info [href="https://www.2zeroemission.eu/data-privacy-policy-and-cookie-policy/"]
+www.wartsila.com##li.bottom-footer__nav-link-item:nth-of-type(2)
+deviniti.com##.menu-item-41825.current_page_item.page-item-25226.page_item.current-menu-item.menu-item-object-page.menu-item-type-post_type.menu-item
+deviniti.com##.cn-position-bottom.cookie-revoke-hidden.cookie-notice-hidden
+bewleyprimary.org.uk###cliSettingsPopup
+bewleyprimary.org.uk###cookie-law-info-bar
+bewleyprimary.org.uk###cookie-law-info-again
+bewleyprimary.org.uk##.menu-item-838.current_page_item.page-item-836.page_item.current-menu-item.menu-item-object-page.menu-item-type-post_type.menu-item
+legal.here.com##.block--menu-menu-footer.block--menu.block
+erp-recycling.org##.textwidget > ul > li:nth-of-type(2)
