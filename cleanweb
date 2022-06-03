@@ -26844,7 +26844,22 @@ www.ocazii.ro##onetrust-banner-sdk.ot-wo-title.bottom.otFlat
 www.ocazii.ro###onetrust-banner-sdk.ot-wo-title.bottom.otFlat
 www.ocazii.ro#onetrust-consent-sdk
 www.ocazii.ro##onetrust-consent-sdk
-www.ocazii.ro###onetrust-consent-sdk
+www.ocazii.ro###onetrust-consent-sdk 
+useit.ro##div.col:nth-of-type(3)
+useit.ro##article > .top-ad.ads
+useit.ro##.primul-paragraf.post-content > .top-ad.ads
+useit.ro##.article.top-ad.ads
+useit.ro##.normal-ad.ads
+useit.ro##.recom-news > .ads
+cumsa.ro##.wt-cli-cookie-bar-container
+cumsa.ro###cookie-law-info-bar
+cumsa.ro##.cli-bar-popup.cli-modal-content
+doc.ro##.footer-wrapper
+doc.ro##.article-content > div.content-row:nth-of-type(1) > .content-row-title
+||e-steag.ro/4102_2014/1763/modules/stnotification/views/img/demo1cookiesbg.jpg$image
+arhidesign.ro##.top-bottom-padding-20.cookies-warning.text-center.col-xs-12
+supremoffice.ro##.notification.module-notification-137.module-notification.module
+www.youtube.com##.ytp-button.ytp-size-button www.youtube.com##.ytp-button.ytp-miniplayer-button www.youtube.com##.ytp-button.ytp-fullscreen-button www.youtube.com##.ytp-button.ytp-subtitles-button www.youtube.com##button.ytp-button[data-tooltip-target-id=ytp-autonav-toggle-button] www.youtube.com##ytd-button-renderer:has([aria-label="Share"]) www.youtube.com##ytd-button-renderer:has([aria-label="Clip"]) www.youtube.com##ytd-button-renderer:has([aria-label="Thanks"]) www.youtube.com###top-level-buttons-computed #text:not([aria-label]) www.youtube.com###sponsor-button
 consent.yahoo.com##.brandtype-yahoo.theme-2
 www.google.com##.Fgvgjc
 www.google.com###xe7COe
