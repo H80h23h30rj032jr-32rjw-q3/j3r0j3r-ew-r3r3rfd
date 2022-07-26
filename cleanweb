@@ -51,6 +51,89 @@ www.nirsoft.net/utils/chrome_cookies_view.html
 ##.__cookieWrapper
 Prebake Cookie
 Easylist Cookie
+m.digi24.ro##li.footer-bottom-nav-list-item:nth-of-type(2)
+m.dcnews.ro##[href="https://m.dcnews.ro/cookie-policy"]
+evz.ro##.footer-navigation > .row > div.col-md-4:nth-of-type(2)
+jurnalul.ro##.footer_copyright
+m.adevarul.ro##.footer > ul > li:nth-of-type(4)
+www.gandul.ro##.font-weight-600.font-size-14.display-flex > .menu-item-19384745.menu-item-object-page.menu-item-type-post_type.menu-item
+www.cotidianul.ro##.menu-item-369287.menu-item-privacy-policy.menu-item-object-page.menu-item-type-post_type.menu-item
+click.ro##.svelte-1h8h2hj.legal > a.svelte-1h8h2hj
+click.ro##.svelte-1h8h2hj.other
+www.mozilla.org##.mzp-c-footer-terms > li:nth-of-type(2)
+mozilla-firefox.en.softonic.com##div.page-footer__col:nth-of-type(3) > .page-footer__list > li:nth-of-type(5) > .page-footer__link
+mozilla-firefox.en.softonic.com##div.page-footer__col:nth-of-type(3) > .page-footer__list > li:nth-of-type(4) > .page-footer__link
+mozilla-firefox.en.uptodown.com##div:nth-of-type(1) > ul > li:nth-of-type(4)
+mozilla-firefox.en.uptodown.com##div:nth-of-type(1) > ul > li:nth-of-type(3)
+www.softpedia.com##div.copyright:nth-of-type(3)
+www.softpedia.com##a.underline:nth-of-type(2)
+tvron.net###gdpr
+www.malavida.com##[href="javascript:NSMv.handleCookiePoliciesLink()"]
+www.peroz.ro##p.gdpr-iframe-fix.gdpr-social-media.gdpr-placeholder:nth-of-type(5)
+www.peroz.ro##p.gdpr-social-media.gdpr-placeholder:nth-of-type(8)
+www.peroz.ro##p.gdpr-iframe-fix.gdpr-social-media.gdpr-placeholder
+www.libertatea.ro###menu-item-2562077 > [href="https://www.libertatea.ro/despre#publicitate"]
+www.csid.ro###menu-item-19616094 > [href="https://www.csid.ro/politica-de-cookies/"]
+www.csid.ro###menu-item-19616095 > [href="https://www.csid.ro/publicitate/"]
+www.hotnews.ro##[href="https://www.hotnews.ro/info/publicitate"] > div
+www.wired.com##.button__label.kgbwGm.ButtonLabel-eBwykR
+www.bugetul.ro##[href="/cookie-policy/"]
+www.capital.ro##[href="https://www.capital.ro/politica-cookies"]
+www.capital.ro##.change-consent
+www.capital.ro##div.col-md-3:nth-of-type(3) > h6 > strong
+www.smartradio.ro###ot-sdk-btn
+www.smartradio.ro##[href="https://www.smartradio.ro/politica-de-cookies/"]
+monitorulapararii.ro##[href="/about-cookies"]
+monitorulapararii.ro###scrollup
+m.vidio.com##.homepageCategory-module_smartBanner__2iW14.smartBanner-module_wrapper__2gdiG
+streema.com##.src-components-notifications-__style-module___notification
+www.directv.com##.footer-rebrand-mobile > li:nth-of-type(6)
+www.directv.com##.footer-rebrand-mobile > li:nth-of-type(5)
+static-homepage-en.pluto.tv##.footer-do-not-sell-my-personal-information.jss205
+www.manutd.com##.footer__menu__links > ul > li:nth-of-type(6)
+canale.live##.category
+www.zoominfo.com##div.footer-bottom-links-item:nth-of-type(3)
+www.zoominfo.com##[href^="/about-zoominfo/privacy-manage-profile"]
+stirileprotv.ro##.footer-nav > ul > li:nth-of-type(5)
+stirileprotv.ro##.footer-nav > ul > li:nth-of-type(2)
+spotmedia.ro###mbm-cookie-pro-cookies
+www.bcr.ro##li.site-footer__item:nth-of-type(3)
+www.antena3.ro##footer > .wrap
+ardor.org.ro##[href="https://ardor.org.ro/politica-cookies/"]
+tvhappy.ro##.ads-ribon
+tvhappy.ro##.controller > ul > li:nth-of-type(4)
+www.digi-world.tv##.footer-top-nav-link.gdpr-modal-trigger
+www.tuya.ro##.mx-auto.max-w-screen-xl.md\:mb-0.mb-16.lg\:gap-y-2.gap-y-14.lg\:grid-cols-4.lg\:gridrow.lg\:auto-rows-auto.md\:auto-rows-max.md\:grid-cols-3.grid-cols-1.grid > .leading-8.text-sm > li:nth-of-type(3)
+www.tuya.ro##.fa-w-14.fa-whatsapp.svg-inline--fa
+www.tuya.ro##[href="https://wa.me/40317199199"]
+www.tuya.ro##.whatsapp-wrapper
+itigic.com##[href="/ro/direct-sales.html"]
+www.hempel.com##.conditions
+www.aflacum.ro##.topCookies > ul
+www.aflacum.ro##.stickyContainer
+www.aflacum.ro##.sticky
+www.aflacum.ro##[href="/cookie.html"]
+www.computerblog.ro##[href="https://www.computerblog.ro/politica-cookies"]
+www.opiniatimisoarei.ro##li:nth-of-type(21) > [href="https://www.opiniatimisoarei.ro/politica-privind-fisierele-cookies"]
+www.roportal.ro##[href="/site/politica-privind-utilizarea-cookie-uri/"]
+dilemaveche.ro##.svelte-fercqp.legal > a.svelte-fercqp:nth-of-type(3)
+dilemaveche.ro###footer_footer > .svelte-fercqp.other > .svelte-fercqp
+www.spatiulconstruit.ro###acord-confidentialitate-popup
+help.f-secure.com##.col-company.col > .list-inline.list-unstyled.text-small.footer-etc > li:nth-of-type(5)
+economedia.ro###menu-item-843 > .nav-link
+flip.ro##.footer-right-center > .menu-wrapper > .list-unstyled.menu > li:nth-of-type(3)
+flip.ro##.footer-right-center > .menu-wrapper > .list-unstyled.menu > li:nth-of-type(4)
+www.tpu.ro##.listType1 > li:nth-of-type(6)
+www.paginademedia.ro##.text-uppercase.list-inline > li:nth-of-type(2)
+www.paginademedia.ro###hai-sus
+www.paginademedia.ro##.text-uppercase.list-inline > li:nth-of-type(10)
+bucovinamedia.ro##.menu-item-16348.td-normal-menu.td-menu-item.menu-item-object-page.menu-item-type-post_type.menu-item > [href="https://bucovinamedia.ro/publicitate/"]
+##.js_smartbanner.smartbanner--android.smartbanner
+##.smartbanner-android.smartbanner
+about.google###cookieBar
+aquaphor.com##.is-show.js-cookies.cookies
+aquaphor.com##.is-show.js-cookies.cookies
+www.nirsoft.net/utils/chrome_cookies_view.html
 protvplus.ro###ot-sdk-bt
 cato.ro##.iqitcookielaw-showed.p-3
 scoala9.ro##h1
@@ -134,6 +217,137 @@ www.brd.ro##.cookie-consent-parent-block.cookie-consent-center.cookie-consent-st
 ib.btrl.ro###cookies-eu-banner
 firstbank.ro###policy-settings-info
 ib.brom.ro###cookie_agr
+www.promotiimars.ro##.cn-position-bottom.cookie-revoke-hidden.cookie-notice-hidden
+alfaomega.tv##div:nth-of-type(4) > .uk-margin-remove-first-child.uk-panel.el-item > .uk-margin-top.uk-panel.el-content > .uk-nav-side.uk-nav-parent-icon.uk-nav > li:nth-of-type(8)
+spynews.ro##.share-buttons
+www.stiripesurse.ro##.smartbanner-info
+www.stiripesurse.ro##.smartbanner-android.smartbanner
+www.mozaiqlgbt.ro##.cn-position-bottom.cookie-revoke-hidden.cookie-notice-hidden
+www.mozaiqlgbt.ro##[href="https://www.mozaiqlgbt.ro/politica-de-confidentialitate-gdpr/"]
+www.g4media.ro###ot-sdk-btn > span
+www.g4media.ro##[href="https://www.g4media.ro/politica-de-cookie-uri"]
+www.g4media.ro##.site-info
+www.trolosport.ro##.moove-gdpr-light-scheme.moove-gdpr-align-center.moove-gdpr-info-bar-hidden
+www.stiridecluj.ro###back-to-top
+mainnews.ro##.cn-position-top.cookie-revoke-hidden.cookie-notice-hidden
+mainnews.ro##.menu-item-1447.menu-item-object-page.menu-item-type-post_type.menu-item
+m.adevarul.ro##.optanon-toggle-display
+www.dataprotection.ro##p > span > span > [href^="http://www.dataprotection.ro/"]
+www.ghacks.net##div.mt--xs--40.ghacks-links--nounderline.col-quarter:nth-of-type(2) > .top-level > li:nth-of-type(6)
+www.ghacks.net##.top-level [href] > span
+www.ghacks.net##div.mt--xs--40.ghacks-links--nounderline.col-quarter:nth-of-type(2) > .top-level > li:nth-of-type(8)
+www.iubenda.com##div.mb-4.col:nth-of-type(2) > .text-xs.pl-2.mb-0.list-unstyled > li:nth-of-type(5)
+www.iubenda.com##.mb-4.justify-content-between.row > div.mb-lg-0.mb-4.col-lg:nth-of-type(1)
+www.iubenda.com##.mb-4.justify-content-between.row > div.mb-lg-0.mb-4.col-lg:nth-of-type(2)
+www.fortinet.com##.bottom-nav.nav > ul > li:nth-of-type(6)
+www.fortinet.com##.bottom-nav.nav > ul > li:nth-of-type(4)
+www.fortinet.com##.bottom-nav.nav > ul > li:nth-of-type(5)
+||www.usa.gov/images/Icon_Alert.png$image
+||www.usa.gov/images/Icon_Alert.png$image
+www.usa.gov##span > div
+www.safewise.com##.disclaimer__disclaimer.text--p-xsmall
+www.citizensadvice.org.uk##.col-sm-6.col-md-3.flex-column > .js-equal-height.flex-row > .main-footer__box > .li--arrow > li:nth-of-type(3)
+m.sfatulmedicului.ro##[href="//m.sfatulmedicului.ro/cookies"]
+m.sfatulmedicului.ro##.optanon-toggle-display
+asociatiaroz.ro##.cookie-notice-container
+emergency-live.com###scrollToTopButton
+emergency-live.com##.ss-ic.s_stk
+www.pcfarm.ro##[href="https://www.pcfarm.ro/gdpr_protectia_datelor.php"]
+www.pcfarm.ro##.clear [href="https://www.avocat-data-protection.eu/"]
+newsmed.ro##.sm\:flex-row.sm\:space-x-5.sm\:space-y-0.lg\:mb-0.space-y-2.mb-3.flex-col.flex > li:nth-of-type(5)
+vitreum.ro##.m-phone__inner
+vitreum.ro##.site-footer
+imamed.ro##.buttonizer-group-0-0-1.buttonizer-group.buttonizer
+imamed.ro###menu-bottom-footer-menu-1 > .menu-item-2614.menu-item-object-page.menu-item-type-post_type.menu-item
+halmasan.ro###_rich_text-70-120 [href="https://halmasan.ro/politica-cookies/"]
+paginadenursing.ro##.menu-item-5331.menu-item-object-page.menu-item-type-post_type.menu-item.menu-item-page-5321
+www.e-neonat.ro##.scw-cookie
+putereaplantelor.ro##.pad5.alert-danger.alert
+putereaplantelor.ro##.pb-2.alert-warning.alert
+putereaplantelor.ro###footer3 > li.border-0.py-2.px-0.list-group-item:nth-of-type(4)
+www.synevo.ro##.menu-item-8816.menu-item-object-page.menu-item-type-post_type.menu-item
+www.standardmed.ro##.menu-item-4272.menu-item-object-page.menu-item-type-post_type.menu-item
+www.agentiadepresamondena.com##.cn-position-bottom.cookie-revoke-hidden.cookie-notice-hidden
+www.agentiadepresamondena.com##.menu-item-119944.menu-item-object-page.menu-item-type-post_type.menu-item
+www.mobilissimo.ro##footer.news > p:nth-of-type(1)
+bioclinica.ro##.ml-auto.navbar-nav > li.nav-item:nth-of-type(5)
+bioclinica.ro##.ml-auto.navbar-nav > li.nav-item:nth-of-type(4)
+||meddoctors.info/themes/images/icon_top.png$image
+meddoctors.info###back-to-top
+retetesivedete.ro##.custom-html-widget.textwidget > ul > li:nth-of-type(3)
+retetesivedete.ro##.custom-html-widget.textwidget > ul > li:nth-of-type(2)
+retetesivedete.ro##.custom-html-widget.textwidget > ul > li:nth-of-type(4)
+femmeboutiquemedical.com###cookie-law-info-bar
+femmeboutiquemedical.com###cookie-law-info-again
+femmeboutiquemedical.com##.cli-modal-body
+femmeboutiquemedical.com###cliSettingsPopup
+femmeboutiquemedical.com###text-14 > .textwidget > p:nth-of-type(3)
+www.exquis.ro##a[href^="/"]:nth-of-type(1)
+www.exquis.ro##[href="/cookie-policy"]
+www.exquis.ro##.custom-html-widget.textwidget > .h6 > [href]
+sfatnaturist.ro##a.poli:nth-of-type(2)
+www.elle.ro###ot-sdk-btn
+www.elle.ro##.menu-item-689974.menu-item-object-page.menu-item-type-post_type.menu-item
+www.elle.ro##.menu-item-690008.menu-item-object-page.menu-item-type-post_type.menu-item
+www.elle.ro##.strawberry-ads--out-of-page.strawberry-ads
+baby.unica.ro##.container > .row > div.col-sm-3:nth-of-type(3) > div:nth-of-type(2)
+www.libertateapentrufemei.ro##.menu-item-46164.menu-item-object-page.menu-item-type-post_type.menu-item
+www.libertateapentrufemei.ro##.mobile-only.banner.hidden-xl.hidden-lg.hidden-md.hidden-sm.mg-top-20.mg-bottom-20.single-branding-mobile.strawberry-ads
+www.libertateapentrufemei.ro##.mg-bottom-desktop40.mg-bottom-30.billboard-1-single.strawberry-ads
+glasul-hd.ro##.cn-position-bottom.cookie-revoke-hidden.cookie-notice-hidden
+glasul-hd.ro##[href="https://glasul-hd.ro/politica-de-confidentialitate/"]
+www.naturisti.ro###about_us > li:nth-of-type(6)
+www.traseepemunte.ro##span > div
+doctoruldedinti.info##.vc_custom_1603493115627.wpb_content_element.wpb_text_column > .wpb_wrapper > p > [href]
+www.scoalarutiera.ro###quiz-login
+www.scoalarutiera.ro###back-top
+www.medisense.ro##.elementor-widget-icon-list.elementor-widget.elementor-list-item-link-full_width.elementor-icon-list--layout-traditional.elementor-element-616906d9.elementor-element > .elementor-widget-container > .elementor-icon-list-items > li.elementor-icon-list-item:nth-of-type(4)
+360medical.ro##.ss-ic.s_stk
+360medical.ro###consent-element
+optica-dr.pirga.ro###cookie-law-info-bar
+optica-dr.pirga.ro###cliSettingsPopup
+de.pons.com##.content-inner > span
+www.apoteca-farmacie.ro##div.col-xs-6.col-sm-6.col-md-3:nth-of-type(3) > .footer-box > .footer-menu-box > li:nth-of-type(1)
+ziarullumina.ro##.copy > [href="/politica-cookie.html"]
+www.scribd.com##div.GridColumn-module_xxs_2__L2HPM.GridColumn-module_xs_2__lfNOB.GridColumn-module_s_2__1-ptI.GridColumn-module_m_8__3ZSLb.GridColumn-module_l_12__FvEF8.GridColumn-module_xl_12__YZ-Rh.GridColumn-module_hide_above_s__NbVNC.GridColumn-module_hide_above_m__zwIrv.GridColumn-module_hide_above_l__UT1-z.GridColumn-module_hide_above_xl__erar5.GridColumn-module_wrapper__soqyu:nth-of-type(2) > ._1qWxWb > ._20k9iQ > li:nth-of-type(4)
+ocuvista.ro##.cli-modal-body > .cli-tab-container.cli-container-fluid
+ocuvista.ro###cookie-law-info-bar
+ocuvista.ro##.cli-modal-dialog
+crucearosie.ro##.c-layout-go2top
+www.viata-medicala.ro##.inner-controller > ul > li:nth-of-type(5)
+www.viata-medicala.ro##.inner-controller > ul > li:nth-of-type(4)
+www.scoala-auto-dicu.ro##.cn-position-bottom.cookie-revoke-hidden.cookie-notice-hidden
+www.scoala-auto-dicu.ro##[href="politica-de-confidentialitate"]
+www.royalcanin.com##.ot-sdk-show-settings
+www.asimed.net###custom_html-14 > .widget-wrap.widget_text > .custom-html-widget.textwidget > li:nth-of-type(2)
+vorbeste-romaneste.ro##.v2.bottom
+www.odat.ro###admania_top
+clinicaromgermed.ro###cookie-law-info-bar
+clinicaromgermed.ro###cliSettingsPopup
+protectiamuncii-evaluarerisc.ro##.position-fixed.pix-cookie-banner
+protectiamuncii-evaluarerisc.ro##.active.default.back_to_top.bg-gray-2.fly.rounded-circle.shadow-hover.shadow
+protectiamuncii-evaluarerisc.ro##.elementor-widget-text-editor.elementor-widget.elementor-element-d2592f1.elementor-element > .elementor-widget-container
+www.chibzuintza.ro##.cn-position-bottom.cookie-revoke-hidden.cookie-notice-hidden
+lataifas.ro##.menu-item-161945.menu-item-object-page.menu-item-type-post_type.menu-item
+www.avantaje.ro##.menu-item-308314.menu-item-object-page.menu-item-type-post_type.menu-item
+sportbull.ro##.menu-item-647.menu-item-object-page.menu-item-type-post_type.menu-item
+www.stiri247.com##.cookies-warning
+comenzi.farmaciatei.ro##div.footer-column.col-md-3.col-sm-6.col-12:nth-of-type(2) > .links > li:nth-of-type(3)
+styleguide.ro##.back-to-top
+newsweek.ro##.hidden.z-10.p-4.items-center.justify-center.flex-wrap.flex.w-full.pin-b.text-white.bg-nw.fixed
+newsweek.ro##li:nth-of-type(5)
+newsweek.ro##.mt-2.text-center.mx-auto
+newsweek.ro##li.mb-2:nth-of-type(3)
+zin.ro##.menu-item-4499.td-normal-menu.td-menu-item.menu-item-object-page.menu-item-type-post_type.menu-item
+as.ro###digitalag-sticky
+www.profit.ro##.menu > li:nth-of-type(5)
+www.profit.ro##.menu > li:nth-of-type(4)
+www.profit.ro##.menu > li:nth-of-type(2)
+all4romania.eu##[href="https://all4romania.eu/politica-privind-fisierele-cookies/"]
+www.national.ro##.cn-position-bottom.cookie-revoke-hidden.cookie-notice-hidden
+botosani24.ro##.cn-position-bottom.cookie-revoke-hidden.cookie-notice-hidden
+botosani24.ro##[href="https://botosani24.ro/politica-cookie-uri"]
+www.kanald.ro##li.list-inline-item:nth-of-type(10)
 www.otpbank.ro##.clearfix.sliding-popup-top
 www.otpbank.ro##.in.modal-backdrop
 www.cursbnr.ro###notification_cookies
