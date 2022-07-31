@@ -52,44 +52,22 @@ www.nirsoft.net/utils/chrome_cookies_view.html
 Prebake Cookie
 Easylist Cookie
 www.axn.ro###footer-legal > .container-fluid > .row
-
-! 2022-07-30 https://foodstory.ro
 foodstory.ro##[href="https://foodstory.ro/politica-cookies"]
-
-! 2022-07-30 https://iscoada.com
 iscoada.com##a.px-2.text-dark.text-decoration-none:nth-of-type(1)
-
-! 2022-07-30 https://qatium.com
 qatium.com###menu-item-5865 > [href="https://qatium.com/cookie-policy/"]
-
-! 2022-07-30 https://www.slabsaugras.ro
 www.slabsaugras.ro##[href="https://www.slabsaugras.ro/publicitate/"]
-
-! 2022-07-30 https://www.apanovabucuresti.ro
 www.apanovabucuresti.ro##p.mb-3.p-footer.color-dark:nth-of-type(3)
-
-! 2022-07-30 https://www.gds.ro
 www.gds.ro##[href="/politica-de-cookie-uri"]
 www.gds.ro###menu-item-531485 > [href="/publicitate"]
 www.gds.ro###menu-item-531518 > [href="/publicitate"]
-
-! 2022-07-30 https://www.bricodepot.ro
 www.bricodepot.ro##[href^="https://gdpr.kfplc.com/#/SAR"]
 www.bricodepot.ro##div.item.mobile-collapsible:nth-of-type(1) > div:nth-of-type(2) > ul > li:nth-of-type(6)
 www.bricodepot.ro##body > span:nth-of-type(1)
-
-! 2022-07-30 https://crystal-water.ro
 ||crystal-water.ro/wp-content/plugins/click-to-chat-for-whatsapp/new/inc/assets/img/whatsapp-logo.svg$image
-
-! 2022-07-30 https://filtro.ro
 filtro.ro##[href="https://filtro.ro/politica-de-utilizare-cookie-uri"]
 filtro.ro##.menu-item-12871.menu-item-privacy-policy.menu-item-object-page.menu-item-type-post_type.menu-item
-
-! 2022-07-30 https://a1.ro
 a1.ro##.ads-ribon
 a1.ro##.linkuri-utile > li:nth-of-type(1)
-
-! 2022-07-30 https://catine.ro
 catine.ro##.menu-item-108.menu-item-object-page.menu-item-type-post_type.menu-item
 catine.ro###nav_menu-4
 catine.ro##.article.ads-div
