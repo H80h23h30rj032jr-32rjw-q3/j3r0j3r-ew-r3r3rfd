@@ -51,6 +51,93 @@ www.nirsoft.net/utils/chrome_cookies_view.html
 ##.__cookieWrapper
 Prebake Cookie
 Easylist Cookie
+www.axn.ro###footer-legal > .container-fluid > .row
+
+! 2022-07-30 https://foodstory.ro
+foodstory.ro##[href="https://foodstory.ro/politica-cookies"]
+
+! 2022-07-30 https://iscoada.com
+iscoada.com##a.px-2.text-dark.text-decoration-none:nth-of-type(1)
+
+! 2022-07-30 https://qatium.com
+qatium.com###menu-item-5865 > [href="https://qatium.com/cookie-policy/"]
+
+! 2022-07-30 https://www.slabsaugras.ro
+www.slabsaugras.ro##[href="https://www.slabsaugras.ro/publicitate/"]
+
+! 2022-07-30 https://www.apanovabucuresti.ro
+www.apanovabucuresti.ro##p.mb-3.p-footer.color-dark:nth-of-type(3)
+
+! 2022-07-30 https://www.gds.ro
+www.gds.ro##[href="/politica-de-cookie-uri"]
+www.gds.ro###menu-item-531485 > [href="/publicitate"]
+www.gds.ro###menu-item-531518 > [href="/publicitate"]
+
+! 2022-07-30 https://www.bricodepot.ro
+www.bricodepot.ro##[href^="https://gdpr.kfplc.com/#/SAR"]
+www.bricodepot.ro##div.item.mobile-collapsible:nth-of-type(1) > div:nth-of-type(2) > ul > li:nth-of-type(6)
+www.bricodepot.ro##body > span:nth-of-type(1)
+
+! 2022-07-30 https://crystal-water.ro
+||crystal-water.ro/wp-content/plugins/click-to-chat-for-whatsapp/new/inc/assets/img/whatsapp-logo.svg$image
+
+! 2022-07-30 https://filtro.ro
+filtro.ro##[href="https://filtro.ro/politica-de-utilizare-cookie-uri"]
+filtro.ro##.menu-item-12871.menu-item-privacy-policy.menu-item-object-page.menu-item-type-post_type.menu-item
+
+! 2022-07-30 https://a1.ro
+a1.ro##.ads-ribon
+a1.ro##.linkuri-utile > li:nth-of-type(1)
+
+! 2022-07-30 https://catine.ro
+catine.ro##.menu-item-108.menu-item-object-page.menu-item-type-post_type.menu-item
+catine.ro###nav_menu-4
+catine.ro##.article.ads-div
+catine.ro###citestesi1 > .normal-ad.ads-div
+catine.ro##.top-ad.ads-div
+catine.ro##article.article-block.container:nth-of-type(2) > .article-column > .post-content > .related-in-article > .normal-ad.ads-div
+onlineradiobox.com###panel_mobile_playmarket
+www.kpop.ro##.menu-item-5856.menu-item-object-page.menu-item-type-post_type.menu-item
+virginradio.ro##.optanon-toggle-display.btn
+virginradio.ro##.menu-item-100.menu-item-object-custom.menu-item-type-custom.menu-item
+www.liutilities.com##[href="/privacy-policy/"]
+shop.radiozu.ro##div.flex__item:nth-of-type(2) > .site-footer__section > .site-footer__list > li.site-footer__list-item:nth-of-type(1)
+www.kpopmap.com##.clearfix.foot-menu > li:nth-of-type(3)
+icanlive.tv##[href="https://icanlive.tv/advertise-with-us.html"]
+www.internet-radio.com##.list-unstyled > li:nth-of-type(6)
+www.osano.com##div.col-md-2.col-4:nth-of-type(5) > .c-mt-7.footer-navigation > .c-mt-3.list-unstyled.footer-navigation__nav-list > li.c-mt-2.nav-item:nth-of-type(1)
+www.osano.com##div.col-md-2.col-4:nth-of-type(5) > .c-mt-7.footer-navigation > .c-mt-3.list-unstyled.footer-navigation__nav-list > li.c-mt-2.nav-item:nth-of-type(4) > .d-.p-0.nav-link
+www.canva.com##body > span:nth-of-type(2)
+developer.mozilla.org##li.footer-moz-item:nth-of-type(2)
+www.educative.io###ed-cookie-settings
+dzone.com##.col-xs-12.top-section > div.col-sm-6.col-xs-12:nth-of-type(2)
+stackoverflow.com##div.site-footer--col:nth-of-type(2) > .-list > li:nth-of-type(2)
+stackoverflow.com###consent-footer-link
+stackoverflow.com##.-list > li:nth-of-type(9)
+www.planetminecraft.com##a[href^="/contact/"]:nth-of-type(3) > span
+marcus-biel.com##.cn-position-bottom.cookie-revoke-hidden.cookie-notice-hidden
+www.codespeedy.com##div.col-sm-4:nth-of-type(3)
+www.oracle.com##.u10-links > li:nth-of-type(5)
+www.oracle.com##.u10-links > li:nth-of-type(3)
+www.softwaretestinghelp.com##p:nth-of-type(1) > strong:nth-of-type(2)
+www.softwaretestinghelp.com##.copyright-bar > p:nth-of-type(1) > strong:nth-of-type(1)
+quizlet.com##.SiteFooter-socialLinks.SiteFooter-section > div.SiteFooter-sectionLink:nth-of-type(9)
+quizlet.com##.SiteFooter-socialLinks.SiteFooter-section > div.SiteFooter-sectionLink:nth-of-type(7)
+www.thoughtco.com###onetrust-consent-sdk
+www.thoughtco.com##li.footer-links-item:nth-of-type(4)
+www.thoughtco.com##li.footer-links-item:nth-of-type(2)
+www.programiz.com##div.col-xs-6.col-md-3.col-lg-2:nth-of-type(4) > .footer__link-area > .footer__links > li.footer__links__nodes:nth-of-type(4)
+docs.aws.amazon.com##.awsui_font-weight-default_18wu0_dj6ht_261.awsui_font-size-body-s_18wu0_dj6ht_338.awsui_color-default_18wu0_dj6ht_205.awsui_box_18wu0_dj6ht_205.awsui_root_18wu0_dj6ht_93.Mqu9U3WvifiGESiuQO8mOQ\=\=._5c6unKZLmVTsucPLiZBmlw\=\=
+www.linkedin.com##li.papabear\:w-auto.papabear\:justify-center.w-50\%.relative.p-1.justify-start.flex-shrink-0.flex.text-color-text-low-emphasis.text-xs.font-sans.li-footer__item:nth-of-type(6) > .focus\:text-color-link-focus.hover\:text-color-link-hover.text-color-text-low-emphasis.font-bold.text-xs.font-sans.items-center.flex.li-footer__item-link
+www.doctorulzilei.ro##.menu-item-87230.menu-item-object-page.menu-item-type-post_type.menu-item
+www.doctorulzilei.ro##.menu-item-87231.menu-item-object-page.menu-item-type-post_type.menu-item
+stiai.net##.menu-footer-container
+dozadesanatate.ro##li.jsx-1355873396.legal-links__item:nth-of-type(4)
+www.monden.ro##.menu-item-69432.menu-item-object-custom.menu-item-type-custom.menu-item
+www.monden.ro##.menu-item-37776.menu-item-object-page.menu-item-type-post_type.menu-item
+clinica-hope.ro##.cnb-right.cnb-single.cnb-text.cnb-zindex-1.cnb-zoom-100.call-now-button
+www.booking.com##.u-padding-bottom\:20.site-footer__legal
+stirileprotv.ro##.under-footer
 m.digi24.ro##li.footer-bottom-nav-list-item:nth-of-type(2)
 m.dcnews.ro##[href="https://m.dcnews.ro/cookie-policy"]
 evz.ro##.footer-navigation > .row > div.col-md-4:nth-of-type(2)
