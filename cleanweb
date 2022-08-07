@@ -51,6 +51,53 @@ www.nirsoft.net/utils/chrome_cookies_view.html
 ##.__cookieWrapper
 Prebake Cookie
 Easylist Cookie
+www.camere-ascunse.ro##.whatsappfloat
+www.andreeatrandafirescu.ro###toTop
+www.unica.ro##.menu-item-204518.menu-item-object-page.menu-item-type-post_type.menu-item
+www.unica.ro##.menu-item-156974.menu-item-object-page.menu-item-type-post_type.menu-item
+ro.linkedin.com##li.li-footer__item:nth-of-type(6)
+cookieinfoscript.com##.copyright > li:nth-of-type(3)
+cookieinfoscript.com##.copyright > li:nth-of-type(1)
+2gdpr.com##[href="/ads"]
+www.stiripesurse.ro##div.banner-mobile:nth-of-type(3)
+www.stiripesurse.ro##div.banner-mobile:nth-of-type(2)
+zutv.ro##.ads-ribon
+www.fair-arbeiten.eu##.open.matomo-optout-bar
+www.codulmuncii.ro###footer_responsive > .left.footer_slink > [href="/cookies.html"]
+www.startupcafe.ro##.first > [href="https://www.startupcafe.ro/oferta-publicitate-2019.htm"]
+www.avocatnet.ro##[href="/Publicitate*3.html"]
+www.risco.ro##body > span:nth-of-type(2)
+www.ziaruldevrancea.ro##.bara-info > .grup-spatiere > a.cu-spatiere:nth-of-type(3)
+www.ziaruldevrancea.ro##.bara-info > .grup-spatiere > a.cu-spatiere:nth-of-type(4)
+portalhr.ro##[href="https://portalhr.ro/politica-privind-cookies/"]
+legeaz.net##p.centru:nth-of-type(3)
+ec.europa.eu##.ecl-footer-standardised__section9.ecl-footer-standardised__section > .ecl-footer-standardised__list > li.ecl-footer-standardised__list-item:nth-of-type(2)
+lege5.ro##.product_more > ul > li:nth-of-type(4)
+diasporaro.co.uk##[href="/cookies/"]
+diasporaro.co.uk##[href="/advertising/"]
+! 2022-08-05 https://www.petreanu.ro
+financialintelligence.ro##[href="https://financialintelligence.ro/publicitate/"]
+www.undelucram.ro##.site-link-col1.site-link-footer > li:nth-of-type(6)
+www.undelucram.ro##.site-link-col1.site-link-footer > li:nth-of-type(5)
+www.infoactual.ro##[href="https://www.infoactual.ro/politica-cookies"]
+cere.ong###scroll-button
+www.indaco.ro##[href="/setari-cookie/"]
+www.indaco.ro##[href="/informarea-gdpr/"]
+m.ebihoreanul.ro###to-top
+spotmedia.ro##.jet-nav__item.jet-nav__item-4424.menu-item-object-page.menu-item-type-post_type.menu-item
+www.greenpeace.org##li:nth-of-type(6) > [href="https://www.greenpeace.org/romania/confidentialitate-si-cookies/"]
+unimedia.info##.mrf-footer--unscrolled.mrf-fixedElement
+unimedia.info###mrf-paywallPopup
+unimedia.info##li.mrf-customFooter__linkItem:nth-of-type(2)
+www.snppc.ro##.links
+www.prosport.ro##.menu > ul > .menu-item-18927149.menu-item-object-page.menu-item-type-post_type.menu-item > [href="https://www.prosport.ro/gdpr"]
+www.edupedu.ro##.textwidget > p:nth-of-type(3)
+sapientia.ro##[href="https://sapientia.ro/ro/politica-cookie"]
+letrico.ro###copy > span
+www.autovit.ro##article.e155brbm0.ooa-biizpf:nth-of-type(3) > ul > li:nth-of-type(7)
+www.autovit.ro##article.e155brbm0.ooa-biizpf:nth-of-type(3) > ul > li:nth-of-type(6)
+www.autovit.ro##article.e155brbm0.ooa-biizpf:nth-of-type(3) > ul > li:nth-of-type(4) > .eu5v0x0.ooa-1pot720-Text
+www.clinicaoananicolau.ro##body > div:nth-of-type(2)
 www.axn.ro###footer-legal > .container-fluid > .row
 foodstory.ro##[href="https://foodstory.ro/politica-cookies"]
 iscoada.com##a.px-2.text-dark.text-decoration-none:nth-of-type(1)
