@@ -134,6 +134,24 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+centruldepresa.ro##.bootstrap.cn-bottom
+centruldepresa.ro##[href="https://centruldepresa.ro/despre-cookies"]
+www.profm.ro##.gdpr-modal-trigger.footer-nav-link
+www.digifm.ro##.gdpr-iframe-fix.gdpr-social-media.gdpr-placeholder
+bucurestiri.ro##[href="https://bucurestiri.ro/cookies/"]
+cluj24.ro###menu-item-29 > [href="https://cluj24.ro/cluj24-ro-politica-privind-utilizarea-cookies"]
+yve.ro##[href="https://yve.ro/prelucrarea-datelor-cu-caracter-personal/"]
+yve.ro###menu-item-100742 > [href="https://yve.ro/cookies/"]
+www.protv.ro##.mt-xs-0.mt-sm-0.mt-md-0.mt-lg-0.mt-2.mr-auto.navbar-nav > li.nav-item:nth-of-type(3)
+www.protv.ro###backtotop
+voyo.protv.ro##[href="https://voyo.protv.ro/politica-de-cookies"]
+voyo.protv.ro##.js-footer-optanon
+www.sport.ro##[href="https://www.sport.ro/politica-cookies"]
+adevarul.ro###gid-ads--424366728-Adevarul2022-Adevarul_Underphoto
+adevarul.ro###gid-ads--424366728-Adevarul2022-Adevarul_InArticle1
+adevarul.ro###b-e831011f-6001-46eb-b1a6-30bc8afe724f > .svelte-b4f4kz.blockContainer-co-0.flex-grow0.flex-row.blockContainer.block
+adevarul.ro##.svelte-1wb4m60.other
+adevarul.ro##a.svelte-1wb4m60:nth-of-type(3)
 m.fr.aliexpress.com###voyager-gdpr
 bigtube55.org###modal-stream > .modal-dialog
 www.agerpres.ro##.back_to_top
