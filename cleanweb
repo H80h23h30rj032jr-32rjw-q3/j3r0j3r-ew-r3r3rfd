@@ -134,6 +134,24 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+www.animeazu.net##[href="https://discord.gg/fcaVH39NKt"]
+www.animesimatrix.ro##[href="https://www.animesimatrix.ro/regulament/"]
+www.animesimatrix.ro##.custom-html-widget.textwidget > center
+wien-subs.moe##.show.fade.modal
+a-evolution.ro###darkenwrapper > .phpbb_alert
+animeschedule.net###custom-consent-wrapper
+animeschedule.net##.footer-discord.footer-link.footer-element
+www.crunchyroll.com##.erc-footer-do-not-sell-item.erc-footer-section-item > .as > .text.text--is-m--pqiL-.text--gq6o-
+www.crunchyroll.com##.erc-footer-more-stuff-section-shell.erc-footer-section > .list > li.erc-footer-section-item:nth-of-type(6)
+anime4life.ro##.discord.surprise
+deseneanime.ro##.feedback-btn
+aoi-fansub.eu##[href="https://discord.gg/msa7TgzSdU"]
+aoi-fansub.eu##div.section.widget_text:nth-of-type(3)
+aoi-fansub.eu##.floatingchat-container-wrap-mobi
+www.filmeonline.biz###sidebar
+efilme.net##.gmr-hide.gmr-ontop
+foxi.ro##.scroll-top
+byunika.com##.footer_copy > .container > .mobile-one.one.column > .mcb-column-inner
 centruldepresa.ro##.bootstrap.cn-bottom
 centruldepresa.ro##[href="https://centruldepresa.ro/despre-cookies"]
 www.profm.ro##.gdpr-modal-trigger.footer-nav-link
