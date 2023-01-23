@@ -134,6 +134,36 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+www.huffpost.com##a.undefined.site-footer__corp-link.site-footer__link:nth-of-type(2)
+www.huffpost.com##a.undefined.site-footer__corp-link.site-footer__link:nth-of-type(14)
+www.wabi.tv##.text-center.justify-content-center.w-100.zindex-higher.position-fixed.ad-fixed-bottom.ad-footer-flex-leaderboard.ad-flex-leaderboard.ad-type-flex-leaderboard.flex-column.d-flex.\|.arc-ad
+www.wabi.tv##div.pt-3.px-3.align-self-center.\|.footer-link:nth-of-type(7)
+www.ky3.com##div.pt-3.px-3.align-self-center.\|.footer-link:nth-of-type(7)
+www.kake.com##.Footer-rightsText
+www.franklymedia.com##.wp-block-navigation.has-white-color.has-text-color.wp-container-35.is-layout-flex.is-vertical > .wp-block-navigation__container > li.wp-block-navigation-link.wp-block-navigation-item.has-white-color.has-text-color:nth-of-type(1)
+www.fox6now.com##.footer-upper.section-nav > .inner > .menu-sales-\&-advertising > ul > li.nav-item:nth-of-type(2)
+sanangelolive.com###block-footer > .menu > li.menu-item:nth-of-type(2)
+sanangelolive.com##.block-block-content7ba6c257-0ef4-4a6a-9a06-9e2e0d037790.block-block-content.block--block-content\:7ba6c257-0ef4-4a6a-9a06-9e2e0d037790.block--region-footer-top.block--block-content.block
+sanangelolive.com##.block-block-content31d1bec4-2573-4848-b5cd-6f6e2c7ee83b.block-block-content.block--block-content\:31d1bec4-2573-4848-b5cd-6f6e2c7ee83b.block--region-footer-bottom.block--block-content.block
+www.masslive.com##p.footer__disclaimer-text:nth-of-type(2)
+www.masslive.com##.footer__disclaimer-column--2.footer__disclaimer-column
+www.advancelocal.com##.elementor-widget-text-editor.elementor-widget.elementor-element-9feb86c.elementor-element > .elementor-widget-container > p
+www.fox10phoenix.com##.footer-upper.section-nav > .inner > .menu-about-us > ul > li.nav-item:nth-of-type(1)
+tucson.com##a:nth-of-type(4)
+tucson.com###footer-col-three-nav_menu > li:nth-of-type(1)
+omaha.com##a:nth-of-type(4)
+omaha.com###footer-col-three-nav_menu > li:nth-of-type(3)
+greensboro.com##a:nth-of-type(4)
+greensboro.com###footer-col-three-nav_menu > li:nth-of-type(2)
+greensboro.com###footer-col-three-nav_menu > li:nth-of-type(3)
+news.usni.org###menu-primary-navigation-2 > .menu-item-10786.menu-item-object-page.menu-item-type-post_type.menu-item > [href="https://news.usni.org/advertise"]
+www.conservativedailynews.com##.textwidget > ul > li:nth-of-type(1)
+www.military.com##.block--system-menu-block-mobile-primary.block.nav--mobile > .menu > li:nth-of-type(2)
+www.military.com##.text--small.footer--meta
+www.science.org##ul.mb-0.flex-column.d-flex.footer__sitemap__list.list-unstyled:nth-of-type(7) > li.mb-1.footer__sitemap__list-item:nth-of-type(2)
+roanoke.com##a:nth-of-type(4)
+roanoke.com###footer-col-two-nav_menu > li:nth-of-type(1)
+ro.xhamster.com##div.footer-column.footer__column:nth-of-type(3) > .footer-menu.footer-column__menu > li.footer-menu__item:nth-of-type(3)
 www.xnxx.com###footer > p:nth-of-type(2)
 www.porn.com##div.is-active.col-lg-3.col-sm-6.col-12:nth-of-type(2) > .footer__link_list > a.footer__link:nth-of-type(2)
 redporn.porn###totop
