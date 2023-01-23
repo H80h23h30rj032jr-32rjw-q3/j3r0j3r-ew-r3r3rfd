@@ -134,6 +134,38 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+www.xnxx.com###footer > p:nth-of-type(2)
+www.porn.com##div.is-active.col-lg-3.col-sm-6.col-12:nth-of-type(2) > .footer__link_list > a.footer__link:nth-of-type(2)
+redporn.porn###totop
+redporn.porn##[href="/cookie-policy"]
+hd-porn.video##.footer
+www.superporn.com##.clearfix.content.footer > p:nth-of-type(2)
+www.eporner.com##.footnav1 > li:nth-of-type(3)
+www.youteenporn.net##.footer > .removeAdLink
+www.porndig.com##.footer_wrapper_page_homepage.footer_wrapper > div:nth-of-type(2) > span:nth-of-type(6)
+gamcore.com##[href="/advertise"]
+ro.xhamster18.desi##div.footer-column.footer__column:nth-of-type(3) > .footer-menu.footer-column__menu > li.footer-menu__item:nth-of-type(3)
+securityaffairs.co###cookie-law-info-bar
+securityaffairs.co###cookie-law-info-again
+securityaffairs.co###cliSettingsPopup
+pubmed.ncbi.nlm.nih.gov##body > span
+dan.com##.application--components--cookie-popup
+observatornews.ro##ul:nth-of-type(1) > li:nth-of-type(10)
+www.stirilekanald.ro##.global > div:nth-of-type(3)
+www.stirilekanald.ro##.utile.list-unstyled > li:nth-of-type(5)
+www.stirilekanald.ro##.utile.list-unstyled > li:nth-of-type(2)
+m.ziare.com##.mm-categories > [href="https://ziare.com/cariere"]
+m.ziare.com##.mm-categories > [href="https://ziare.com/publicitate/"]
+spynews.ro##ul > li:nth-of-type(9)
+spynews.ro##.controller > ul > li:nth-of-type(6)
+spynews.ro##.controller > ul > li:nth-of-type(2)
+spynews.ro##.controller > ul > li:nth-of-type(1)
+www.ziarulevenimentul.ro##.copyright > p
+alephnews.ro###menu-pagini-1 > .menu-item-36.menu-item-object-page.menu-item-type-post_type.menu-item > [href="https://alephnews.ro/politica-de-cookies/"]
+alephnews.ro##.footer-social-meta
+alephnews.ro##.right.widget-area
+alephnews.ro##.widget_custom_html.widget.widget_text
+www.capital.ro##div.container:nth-of-type(7) > .row > .col-md-4
 www.animeazu.net##[href="https://discord.gg/fcaVH39NKt"]
 www.animesimatrix.ro##[href="https://www.animesimatrix.ro/regulament/"]
 www.animesimatrix.ro##.custom-html-widget.textwidget > center
