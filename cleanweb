@@ -1169,13 +1169,10 @@ tensquaregames.com##.cookie-message.widget_text
 education.minecraft.net###cookie-banner
 www.bibliotheek.nl##.bar.modalwindow-container
 www.bibliotheek.nl##.cookieBar-filler
-! 2021-04-24 https://www.okazii.ro
 www.okazii.ro##.overlayc
 www.okazii.ro###cookie-bar
-! 2021-04-24 https://magazine.okazii.ro
 magazine.okazii.ro###cookie-bar
 magazine.okazii.ro##.overlayc
-! 2021-04-24 https://ajutor.okazii.ro
 ajutor.okazii.ro##.cn-position-bottom.cookie-revoke-hidden.cookie-notice-hidden
 www.eurialocazii.ro###divCookie
 www.ocaziituristice.ro##.bottom.fixed
@@ -1583,7 +1580,6 @@ www.napofarm.ro##.fullwidth-notice.floated-icon.center-notice.header-notice
 fmcagro.ro##.active.cookiebar
 www.alegesanatos.ro###slideMenuM
 www.nutrivita.ro###footer
-M
 www.nutrivita.ro###footer
 www.nestlebaby.ro###layer-popin
 www.nestlebaby.ro###layer
@@ -1619,9 +1615,6 @@ www.ambient.ro###gdps_container_55
 hhtotal.ro##.w3-highway-green.w3-padding.w3-center.w3-bar
 hhtotal.ro##.w3-display-container.w3-bottom.w3-highway-blue.w3-panel
 www.isomat.ro###gdpr-container-background-fixed
-
->>> https://raw.githubusercontent.com/Qttrex/q/main/adblock.txt <<<
-
 ##.js_smartbanner.smartbanner--android.smartbanner
 ##.smartbanner-android.smartbanner
 about.google###cookieBar
@@ -2683,8 +2676,6 @@ support.google.com##[src*="https://ogs.google.com/widget/callout?prid=19022645&p
 ogs.google.com##[src*="https://ogs.google.com/widget/callout?prid=19022645&pgid=1151720448&puid=43a541cbad6c87d4&cce=1&bc=1&origin=https%3A%2F%2Fsupport.google.com&cn=callout&pid=117&spid=117&hl=en"]
 realtimesupport.clients6.google.com##[src*="https://ogs.google.com/widget/callout?prid=19022645&pgid=1151720448&puid=43a541cbad6c87d4&cce=1&bc=1&origin=https%3A%2F%2Fsupport.google.com&cn=callout&pid=117&spid=117&hl=en"]
 www.delimano.ro###cookie-monster
-www.digi-animalworld.tv##.article-page.section-nospace-top
-www.digi-animalworld.tv##.active.gdpr
 blgmind.org.uk##footer
 www.afectiuni-neurodegenerative.ro##.avada-footer-scripts
 www.cautamilf.ro###overlay-content
@@ -27483,7 +27474,6 @@ bewleyprimary.org.uk###cookie-law-info-again
 bewleyprimary.org.uk##.menu-item-838.current_page_item.page-item-836.page_item.current-menu-item.menu-item-object-page.menu-item-type-post_type.menu-item
 legal.here.com##.block--menu-menu-footer.block--menu.block
 erp-recycling.org##.textwidget > ul > li:nth-of-type(2)
-! 2022-05-27 https://www.okazii.ro
 www.okazii.ro##.ot-sdk-container
 www.okazii.ro#.ot-sdk-container
 www.okazii.ro###.ot-sdk-container
