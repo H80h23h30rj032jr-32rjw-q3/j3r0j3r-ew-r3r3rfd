@@ -160,8 +160,6 @@ ad-g.doubleclick.net
 ad.doubleclick.net 
 2mdn.net 
 2975c.v.fwmrm.net
-
-googleads.g.doubleclick.net
 static.doubleclick.net
 fonts.googleapis.com
 geolocation.onetrust.com
@@ -191,7 +189,6 @@ b.cdnst.net
 fundingchoicesmessages.google.com
 prebid.the-ozone-project.com
 co.uk.edgekey.net
-lh3.googleusercontent.com
 cdn.optimizely.com
 ichef.bbc.co.uk
 static.files.bbci.co.uk
@@ -204,13 +201,10 @@ cumm.top
 pugsgivehug.com
 UniDeals
 trafficjunky
-yt3.ggpht.com
-https://yt3.ggpht.com
 https://www.googleadservices.com/pagead/
 Consent-O-Matric
 hoba
 hoba.localdomain
-
 jquery0[.]com
 greatbonus[.]life
 prizes-for-u[.]life
@@ -228,7 +222,6 @@ ecar.allsunstates[.]com
 demand.sageyogatherapies[.]com
 Lumu.io
 socgholish_loader
-
 adnotbad.com
 adserv.info
 jsfuel.com
@@ -251,7 +244,8 @@ tczzzlwpss.com
 terdiparcalpe.info
 tharbadir.com
 thiksikr.com
-tm-offers.gamingadult.com tofretonlepa.info
+tm-offers.gamingadult.com
+tofretonlepa.info
 toftinhapsandrit.info
 tontwiredat.info
 trafficfabrik.com
@@ -301,7 +295,7 @@ adnxs.com
 googletagservices.com
 criteo.com
 1008691.com
-https://play.22topvideos.com
+play.22topvideos.com
 www.youtube.com##.ytp-ce-element
 sportsmansclub.net
 stock888.cn
@@ -324,3 +318,11 @@ gmreg.net
 104.17.24.14
 104.16.51.111
 216.239.34.21
+142.250.4.139:443
+172.253.118.190:443
+216.58.200.14:443
+||youtube.com/pagead/
+||youtube.com/api/stats^
+/v1/log_event
+||youtube.com/ptracking?
+||doubleclick.net^
