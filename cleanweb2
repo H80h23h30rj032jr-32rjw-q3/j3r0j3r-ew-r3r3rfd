@@ -110,7 +110,25 @@ acasa.ro##.span9 > p:nth-of-type(1)
 arhiva.bzi.ro###menu-item-3786695 > [href="https://arhiva.bzi.ro/cookies"]
 ||www.bzi.ro/wp-content/uploads/2019/12/standard-ga.png$image
 www.golfmonthly.com##li.footer__list-item:nth-of-type(6)
-
+comunadeleni.com##.aicon_link.wahout
+comunaschituduca.ro###cliSettingsPopup
+comunaschituduca.ro###cookie-law-info-bar
+comunaschituduca.ro##[href="https://comunaschituduca.ro/politica-privind-utilizarea-de-cookies/"]
+ziarullumina.ro###abn
+radiorenasterea.ro##[href="https://radiorenasterea.ro/politica-de-cookie-uri/"]
+radiorenasterea.ro###cookie-law-info-again
+www.anuntul.ro##.ms-auto.container-btn-salvare-cautare
+psnews.ro##[href="https://psnews.ro/publicitate/"]
+psnews.ro##[href="https://psnews.ro/politica-de-colectare-acord-cookie/"]
+www.romjob.ro##.footer-col-help.footer-col > .footer-list > li:nth-of-type(6)
+carrefour.ro##.mid-row.col-xs-12 > [href="https://carrefour.ro/enable-cookies"]
+carrefour.ro##.mid-row.col-xs-12 > .optanon-show-settings
+www.windowscentral.com###document-footer-content > nav > ul > li:nth-of-type(3)
+www.windowscentral.com##nav > ul > li:nth-of-type(9)
+admanager.google.com
+blockadblock.com
+www.antiadblock.com
+syndication.realsrv.com
 suplimente.shop
 cumm.top
 do-not-tracker.org
