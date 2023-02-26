@@ -1,3 +1,4 @@
+amazon-adsystem.com
 about.ads.microsoft.com
 ads.microsoft.com
 azure.microsoft.com
@@ -74,19 +75,24 @@ cloudflareinsights.com
 connect.idocdn.com
 cdn.embed.ly
 cdn.filimenabrighid.xyz
+csp.withgoogle.com
 nest.com
 onesignal.com
 displayvertising.com
 doubleclick.net
 gstatic.com
+graph.facebook.com
+googleleadservices.com
+googlesyndication.com
 googleads.g.doubleclick.net
 static.doubleclick.net
 securepubads.g.doubleclick.net
+ssl.gstatic.com
+s.amazon-adsystem.com
 geolocation.onetrust.com
 onetrust.com
 physicianurge.com
 o433621.ingest.sentry.io
-s.amazon-adsystem.com
 123.456.789.999
 s7.addthis.com
 static.cloudflareinsights.com
@@ -183,8 +189,6 @@ zontent.powvideo.net
 zugnogne.com
 zuzodoad.com
 marketingplatform.google.com
-googleleadservices.com
-googlesyndication.com
 1008691.com
 play.22topvideos.com
 www.youtube.com##.ytp-ce-element
@@ -270,7 +274,6 @@ rocketme.top
 q.reyden-x.com
 dit.whatsapp.net
 cdn.ampproject.org
-graph.facebook.com
 vouchanalysistonight.com
 d13k7prax1yi04.cloudfront.net
 t1.extreme-dm.com
