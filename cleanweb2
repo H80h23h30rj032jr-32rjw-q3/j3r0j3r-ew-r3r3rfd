@@ -164,6 +164,14 @@ google.com##.consent
 google.com##.banner
 google.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .searchButton.button.basebutton
 google.com##.customButtonContainer
+tvstrada.ro###fCookiescontent
+ilike-it.ro##.optanon-toggle-display
+ilike-it.ro###rectangle2
+ilike-it.ro##section.slide-outside:nth-of-type(6)
+ilike-it.ro###rectangle4
+www.protv.ro###backtotop
+www.protv.ro##.mt-xs-0.mt-sm-0.mt-md-0.mt-lg-0.mt-2.mr-auto.navbar-nav > li.nav-item:nth-of-type(3)
+stirileprotv.ro##.under-footer
 admanager.google.com
 blockadblock.com
 www.antiadblock.com
