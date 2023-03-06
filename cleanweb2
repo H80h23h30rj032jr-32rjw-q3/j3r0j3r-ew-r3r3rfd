@@ -124,6 +124,9 @@ carrefour.ro##.mid-row.col-xs-12 > [href="https://carrefour.ro/enable-cookies"]
 carrefour.ro##.mid-row.col-xs-12 > .optanon-show-settings
 www.windowscentral.com###document-footer-content > nav > ul > li:nth-of-type(3)
 www.windowscentral.com##nav > ul > li:nth-of-type(9)
+www.stiripesurse.ro##body > .social-icons--mobile
+www.rootingsteps.com##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
+forum.softpedia.com###cookienotif
 m.youtube.com##.consent-bump-
 m.youtube.com##.dialog-topbar
 m.youtube.com##.dialog-body-eom
