@@ -134,9 +134,13 @@ m.youtube.com##.eom-accept
 m.youtube.com##.eom-customize > .yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--call-to-action.yt-spec-button-shape-next--outline.yt-spec-button-shape-next > yt-touch-feedback-shape
 m.youtube.com##.privacy-terms
 m.youtube.com##.eom-customize
+m.youtube.com##.show-more-container
 consent.google.com##.contentText
 consent.google.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .searchButton.button.basebutton
 consent.google.com##.customButtonContainer
+google.com##.contentText
+google.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .searchButton.button.basebutton
+google.com##.customButtonContainer
 admanager.google.com
 blockadblock.com
 www.antiadblock.com
