@@ -266,6 +266,16 @@ about.google###cookieBar
 aquaphor.com##.is-show.js-cookies.cookies
 aquaphor.com##.is-show.js-cookies.cookies
 www.nirsoft.net/utils/chrome_cookies_view.html
+m.youtube.com##.consent-bump-
+m.youtube.com##.dialog-topbar
+m.youtube.com##.dialog-body-eom
+m.youtube.com##.eom-accept
+m.youtube.com##.eom-customize > .yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--call-to-action.yt-spec-button-shape-next--outline.yt-spec-button-shape-next > yt-touch-feedback-shape
+m.youtube.com##.privacy-terms
+m.youtube.com##.eom-customize
+consent.google.com##.contentText
+consent.google.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .searchButton.button.basebutton
+consent.google.com##.customButtonContainer
 ##.cookie-message
 ###cookie-message
 ###cookie-container
