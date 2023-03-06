@@ -127,6 +127,25 @@ www.windowscentral.com##nav > ul > li:nth-of-type(9)
 www.stiripesurse.ro##body > .social-icons--mobile
 www.rootingsteps.com##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
 forum.softpedia.com###cookienotif
+www.ghidularadean.ro###ppAskCookies
+penthouseiasi.ro##.scrollup
+www.nwradu.ro##.cn-position-bottom.cookie-revoke-hidden.cookie-notice-hidden
+www.nwradu.ro##div.fl:nth-of-type(3)
+www.nwradu.ro###hai-sus
+www.nwradu.ro###fb_share_mobil
+stirimoldova24.ro###scroll-up
+www.grupopetradesign.com##div.col-md-6:nth-of-type(1)
+m.dcmedical.ro##footer > div:nth-of-type(3)
+dilemaveche.ro##.svelte-fercqp.legal
+dilemaveche.ro###footer_footer > .svelte-fercqp.other
+historia.ro###footer_footer > .svelte-fercqp.other
+historia.ro##.svelte-fercqp.legal
+okmagazine.ro##.svelte-dz1s8x.legal
+okmagazine.ro###footer_footer > .svelte-dz1s8x.other
+adevarul.ro##.svelte-1wb4m60.legal
+adevarul.ro##.svelte-1wb4m60.other
+www.arcadiamedical.ro##html
+www.arcadiamedical.ro##html
 m.youtube.com##.consent-bump-
 m.youtube.com##.dialog-topbar
 m.youtube.com##.dialog-body-eom
@@ -200,6 +219,7 @@ geolocation.onetrust.com
 abs.twimg.com
 appleid.cdn-apple.com
 cdn.jsdelivr.net
+cookiebot.com
 o433621.ingest.sentry.io 
 cdn.cookielaw.org
 cdn.slots.baxter.olx.org
