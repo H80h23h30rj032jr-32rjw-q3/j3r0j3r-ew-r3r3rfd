@@ -124,6 +124,16 @@ carrefour.ro##.mid-row.col-xs-12 > [href="https://carrefour.ro/enable-cookies"]
 carrefour.ro##.mid-row.col-xs-12 > .optanon-show-settings
 www.windowscentral.com###document-footer-content > nav > ul > li:nth-of-type(3)
 www.windowscentral.com##nav > ul > li:nth-of-type(9)
+m.youtube.com##.consent-bump-
+m.youtube.com##.dialog-topbar
+m.youtube.com##.dialog-body-eom
+m.youtube.com##.eom-accept
+m.youtube.com##.eom-customize > .yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--call-to-action.yt-spec-button-shape-next--outline.yt-spec-button-shape-next > yt-touch-feedback-shape
+m.youtube.com##.privacy-terms
+m.youtube.com##.eom-customize
+consent.google.com##.contentText
+consent.google.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .searchButton.button.basebutton
+consent.google.com##.customButtonContainer
 admanager.google.com
 blockadblock.com
 www.antiadblock.com
