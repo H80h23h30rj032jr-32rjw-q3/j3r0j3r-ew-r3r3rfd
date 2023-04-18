@@ -1,3 +1,24 @@
+||accounts.google.com/gsi/iframe/select?client_id=705819728788-b2c1kcs7tst3b7ghv7at0hkqmtc68ckl.apps.googleusercontent.com&auto_select=true&ux_mode=popup&ui_mode=bottom_sheet&as=D1paZgCTX%2FhZs7xpbkK8kA&is_itp=true&channel_id=10e4d4d2a4f6615545cfe38e77b2c5fc6144276157e2b1b12fc65f75f3d66e4a&origin=https%3A%2F%2Fwww.reddit.com$subdocument
+||accounts.google.com/gsi/iframe/select$subdocument
+www.reddit.com###credential_picker_iframe
+m.mediafax.ro##.thumb_list > div:nth-of-type(10)
+m.mediafax.ro##.thumb_list > div:nth-of-type(7)
+www.cotidianul.ro##.mh-copyright-wrap
+www.cotidianul.ro##.optanon-toggle-display
+m.ziuanews.ro##li:nth-of-type(13)
+www.bihon.ro##.footerMenuUl
+www.flashscore.ro##.footer
+www.flashscore.ro##div.selfPromo__boxItemWrapper:nth-of-type(4)
+www.zi-de-zi.ro##.wrapper-outer
+www.zi-de-zi.ro##.cn-position-bottom.cookie-revoke-hidden.cookie-notice-hidden
+baschet.ro##ul.footer-menu:nth-of-type(2)
+flux24.ro##.td-footer-template-wrap
+www.animeazu.net##.back-top
+www.dozaanimata.ro##.active.delay-time-2.all_time.chaty-key-0.chaty-widget-0.chaty-id-0.chaty
+deseneanime.ro##.cookie-notice-visible.cn-effect-fade.cn-position-bottom.cookie-revoke-hidden
+deseneanime.ro##.site-footer
+geeki.ro##.share-buttons-mobile.share-buttons
+geeki.ro##.site-info-layout-2.site-info
 www.craiovaforum.ro##div.td-pb-span4-cf:nth-of-type(1) > .widget_text.widget > .textwidget > .footerLinks > li > dl > dd:nth-of-type(3)
 staging.pariuri1x2.ro##.footer-links > ul > li:nth-of-type(2)
 www.clubic.com##.pb20.pt10.fs15.list-footer
