@@ -19,6 +19,12 @@ deseneanime.ro##.cookie-notice-visible.cn-effect-fade.cn-position-bottom.cookie-
 deseneanime.ro##.site-footer
 geeki.ro##.share-buttons-mobile.share-buttons
 geeki.ro##.site-info-layout-2.site-info
+www.veronikilife.ro##.cookies
+www.drmax.ro###footer-links-2
+www.drmax.ro##div.footer-links__item:nth-of-type(2)
+ec.europa.eu##.ecl-footer__ec
+www.mayoclinic.org##footer:nth-of-type(2)
+www.emag.ro##.footer-copy
 www.craiovaforum.ro##div.td-pb-span4-cf:nth-of-type(1) > .widget_text.widget > .textwidget > .footerLinks > li > dl > dd:nth-of-type(3)
 staging.pariuri1x2.ro##.footer-links > ul > li:nth-of-type(2)
 www.clubic.com##.pb20.pt10.fs15.list-footer
