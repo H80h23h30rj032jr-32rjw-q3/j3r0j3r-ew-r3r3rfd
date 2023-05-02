@@ -169,6 +169,7 @@ consent.yahoo.com##.manage-settings.mng-btn.secondary.btn
 www.yahoo.com##.List\(n\).Colmc\(2\).Pb\(10px\).P\(0\).Mt\(32px\).Mx\(0\)
 www.yahoo.com##.lw-nav-open_D\(n\).uh-mobile-nav-open_D\(n\).SideSlot-open_D\(n\).W\(100\%\).Cl\(b\).YDC-Bottom
 www.google.com##[href="/intl/ro/ads"]
+www.google.com##div.VfXErd:nth-of-type(3)
 www.google.com###gws-output-pages-elements-homepage_additional_languages__als
 www.janssen.com##.block--nodeblock-6679.block--nodeblock.block
 www.janssen.com##.block--nodeblock-81.block--nodeblock.block
