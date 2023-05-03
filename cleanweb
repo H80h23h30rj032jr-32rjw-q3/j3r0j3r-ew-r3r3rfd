@@ -157,10 +157,16 @@ olxro.com
 olx.ro.xyz
 ro-livrare.mobi
 o##.cookiecontent
-www.posta-romana.ro##.col-xs-12.col-sm-12.col-md-12
-www.posta-romana.ro##.social_fix_bar
-www.posta-romana.ro###feedback
 www.posta-romana.ro###buton_anunturi
+www.posta-romana.ro###feedback
+www.posta-romana.ro##div.fn.seo-links:nth-of-type(3)
+www.posta-romana.ro##.social_fix_bar
+www.posta-romana.ro###bannere_track_trace
+www.posta-romana.ro##div.bg-white.widget-faq:nth-of-type(3)
+www.posta-romana.ro##div.bg-white.widget-faq:nth-of-type(5)
+www.posta-romana.ro##div.widget-title:nth-of-type(4)
+www.posta-romana.ro##div.widget-title:nth-of-type(2)
+www.posta-romana.ro###bottomright
 www.cliniciimplantdentar.ro##center > center
 www.dentalist.ro##.eYOUW7.consent-banner-close-button-container
 www.dentalist.ro##.gRqfAK.consent-banner-buttons
