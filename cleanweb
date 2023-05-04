@@ -690,9 +690,6 @@ www.digi-life.tv##.footer-top-nav
 stiri.botosani.ro##.boxed > span
 stiri.botosani.ro##div.row:nth-of-type(2)
 stiri.botosani.ro##.col-md-7 > .right
-www.protv.ro###backtotop
-www.protv.ro##.mt-xs-0.mt-sm-0.mt-md-0.mt-lg-0.mt-2.mr-auto.navbar-nav > li.nav-item:nth-of-type(3)
-stirileprotv.ro##.under-footer
 www.digi-animalworld.tv##.footer-top-nav-link.gdpr-modal-trigger
 m.digi24.ro##li.footer-bottom-nav-list-item:nth-of-type(2)
 www.digi-world.tv##.footer-top-nav-link.gdpr-modal-trigger
@@ -722,9 +719,6 @@ ilike-it.ro##.optanon-toggle-display
 ilike-it.ro###rectangle2
 ilike-it.ro##section.slide-outside:nth-of-type(6)
 ilike-it.ro###rectangle4
-www.protv.ro###backtotop
-www.protv.ro##.mt-xs-0.mt-sm-0.mt-md-0.mt-lg-0.mt-2.mr-auto.navbar-nav > li.nav-item:nth-of-type(3)
-stirileprotv.ro##.under-footer
 www.ghidularadean.ro###ppAskCookies
 penthouseiasi.ro##.scrollup
 www.nwradu.ro##.cn-position-bottom.cookie-revoke-hidden.cookie-notice-hidden
@@ -849,8 +843,6 @@ bucurestiri.ro##[href="https://bucurestiri.ro/cookies/"]
 cluj24.ro###menu-item-29 > [href="https://cluj24.ro/cluj24-ro-politica-privind-utilizarea-cookies"]
 yve.ro##[href="https://yve.ro/prelucrarea-datelor-cu-caracter-personal/"]
 yve.ro###menu-item-100742 > [href="https://yve.ro/cookies/"]
-www.protv.ro##.mt-xs-0.mt-sm-0.mt-md-0.mt-lg-0.mt-2.mr-auto.navbar-nav > li.nav-item:nth-of-type(3)
-www.protv.ro###backtotop
 voyo.protv.ro##[href="https://voyo.protv.ro/politica-de-cookies"]
 voyo.protv.ro##.js-footer-optanon
 www.sport.ro##[href="https://www.sport.ro/politica-cookies"]
@@ -1106,8 +1098,6 @@ www.manutd.com##.footer__menu__links > ul > li:nth-of-type(6)
 canale.live##.category
 www.zoominfo.com##div.footer-bottom-links-item:nth-of-type(3)
 www.zoominfo.com##[href^="/about-zoominfo/privacy-manage-profile"]
-stirileprotv.ro##.footer-nav > ul > li:nth-of-type(5)
-stirileprotv.ro##.footer-nav > ul > li:nth-of-type(2)
 spotmedia.ro###mbm-cookie-pro-cookies
 www.bcr.ro##li.site-footer__item:nth-of-type(3)
 www.antena3.ro##footer > .wrap
@@ -1160,7 +1150,6 @@ www.youtube.com###dialog
 www.youtube.com##.opened
 m.mediafax.ro###ot-sdk-btn
 www.libertatea.ro###ot-sdk-btn
-stirileprotv.ro##.optanon-toggle-display
 www.digionline.ro##.active.gdpr
 m.zf.ro###ot-sdk-btn
 www.tion.ro##.buttonconsent
