@@ -163,6 +163,24 @@ www.cookiebot.com
 onetrust.com
 www.quantcast.com
 quantcast.com
+lifehacker.com##.js_footer-container
+blog.didomi.io##div.footer_col:nth-of-type(4) > div.one_section:nth-of-type(2)
+www.etsy.com##.wt-pt-xs-3.wt-pb-xs-3.wt-pr-xs-4.wt-pl-xs-4.site-footer-tagline-links
+www.etsy.com##.wt-text-white.wt-bg-denim.wt-text-caption.wt-pl-xs-4.wt-pb-md-4.wt-pb-xs-2.wt-pr-xs-4.wt-pt-md-6.wt-pt-xs-2 > .wt-body-max-width
+www.enzuzo.com##.pb-12.pt-6.footer-row.relative
+www.enzuzo.com##.intercom-lightweight-app
+www.enzuzo.com##.scroll-top-active.text-primary.justify-center.items-center.flex.scroll-top.prebuilt-radius
+www.wired.com##.kOCieW.SiteFooterNoticesWrapper-hdskLB
+www.wired.com##.pLZUF.SiteFooterNavigationContactVertical-hkmZAL.eMdckm.NavigationWrapper-ceozlg
+www.lifehacker.com.au##.site-footer > .cntr--align-center.cntr--flex.cntr > .col--no-pad-right.col--auto.col
+www.lexology.com##.toTopBtn
+www.lexology.com##div.col-md-2:nth-of-type(4)
+www.freeprivacypolicy.com##.footer-legal
+www.freeprivacypolicy.com###back_to_top_button
+consent.yahoo.com##.wizard-header
+consent.yahoo.com##.first.content-section
+techcrunch.com##li.menu__item--no-click.menu__item--has-submenu.menu__item:nth-of-type(1) > .menu__submenu.menu
+techcrunch.com##.site-footer
 worldpostalcode.com##.scroll
 worldpostalcode.com##.footer
 coduriro.ro##li:nth-of-type(1)
