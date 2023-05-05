@@ -1,5 +1,13 @@
 www.gstatic.vom
 gstatic.com
+www.bancibancomate.ro##.fc-dialog-overlay
+www.bancibancomate.ro##.fc-choice-dialog.fc-dialog > .fc-dialog-content > .fc-dialog-scrollable-content
+www.bancibancomate.ro##.fc-secondary-button.fc-data-preferences-accept-all.fc-button
+www.bancibancomate.ro##.fc-secondary-button.fc-vendor-preferences-accept-all.fc-button
+www.bancibancomate.ro##.fc-data-preferences-dialog.fc-dialog > .fc-footer-buttons-container > .fc-footer-buttons > .fc-primary-button.fc-confirm-choices.fc-button
+www.bancibancomate.ro##.fc-data-preferences-dialog.fc-dialog > .fc-footer-buttons-container > .fc-footer-buttons
+www.bancibancomate.ro##.fc-data-preferences-dialog.fc-dialog > .fc-footer-buttons-container
+fundingchoicesmessages.google.com
 worldpostalcode.com##.scroll
 worldpostalcode.com##.footer
 coduriro.ro##li:nth-of-type(1)
