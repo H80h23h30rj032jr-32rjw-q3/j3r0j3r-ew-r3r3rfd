@@ -156,7 +156,8 @@ olx-ro.online
 olxro.com
 olx.ro.xyz
 ro-livrare.mobi
-o##.cookiecontent
+voyo.protv.ro##[href="https://voyo.protv.ro/politica-de-cookies"]
+voyo.protv.ro##.js-footer-optanon
 stirileprotv.ro##.footer-nav > ul > li:nth-of-type(4)
 stirileprotv.ro##.under-footer
 www.protv.ro###backtotop
@@ -275,7 +276,6 @@ kanald2.ro##body > div:nth-of-type(4)
 www.radioimpuls.ro##div.footer-column:nth-of-type(2)
 www.kfetele.ro##.col-lg-2.col-12
 www.kfetele.ro##.optanon-show-settings
-ro###mvp-foot-nav
 huff.ro###mvp-foot-wrap
 agora.md##.gap-x-8.auto-cols-max.grid-flow-row.md\:grid-cols-3.dsm\:grid-cols-2.grid-cols-1.grid
 agora.md##.\[\&_a\]\:text-cD52E32.\[\&_a\:hover\]\:underline.mx-auto.d3xl\:w-\[956px\].dxl\:w-\[692px\].md\:w-\[688px\].w-\[366\] > .items-center.flex
@@ -567,7 +567,6 @@ health.kompas.com###contentArticle > .banner-300
 www.popmama.com###footer
 www.sehatq.com##p.css-zmzuoq.chakra-text:nth-of-type(31)
 www.sehatq.com##.css-39svzf
-stirileprotv.ro##.loading.lazy
 www.chemstal.ro##div.col-lg-3.col-md-6.col-sm-6:nth-of-type(2)
 www.chemstal.ro##.float
 www.wordreference.com###announcement
@@ -848,8 +847,6 @@ bucurestiri.ro##[href="https://bucurestiri.ro/cookies/"]
 cluj24.ro###menu-item-29 > [href="https://cluj24.ro/cluj24-ro-politica-privind-utilizarea-cookies"]
 yve.ro##[href="https://yve.ro/prelucrarea-datelor-cu-caracter-personal/"]
 yve.ro###menu-item-100742 > [href="https://yve.ro/cookies/"]
-voyo.protv.ro##[href="https://voyo.protv.ro/politica-de-cookies"]
-voyo.protv.ro##.js-footer-optanon
 www.sport.ro##[href="https://www.sport.ro/politica-cookies"]
 adevarul.ro###gid-ads--424366728-Adevarul2022-Adevarul_Underphoto
 adevarul.ro###gid-ads--424366728-Adevarul2022-Adevarul_InArticle1
@@ -972,7 +969,6 @@ ec.europa.eu##.ecl-footer-standardised__section9.ecl-footer-standardised__sectio
 lege5.ro##.product_more > ul > li:nth-of-type(4)
 diasporaro.co.uk##[href="/cookies/"]
 diasporaro.co.uk##[href="/advertising/"]
-! 2022-08-05 https://www.petreanu.ro
 financialintelligence.ro##[href="https://financialintelligence.ro/publicitate/"]
 www.undelucram.ro##.site-link-col1.site-link-footer > li:nth-of-type(6)
 www.undelucram.ro##.site-link-col1.site-link-footer > li:nth-of-type(5)
