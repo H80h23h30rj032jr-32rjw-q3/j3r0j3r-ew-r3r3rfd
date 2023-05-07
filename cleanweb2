@@ -28,6 +28,12 @@ www.apeaksoft.com##.gotop
 www.apeaksoft.com##ul.active:nth-of-type(4) > li:nth-of-type(6)
 www.apeaksoft.com##.problems_tab > ul
 www.apeaksoft.com##.problems_tab
+.digisport.ro##.js_smartbanner.smartbanner--android.smartbanner
+m.digisport.ro##.gdpr-embed-service.gdpr-social-media.gdpr-placeholder
+m.digisport.ro##.article-story.article > .gdpr-social-media.gdpr-placeholder
+.digisport.ro##.js_smartbanner.smartbanner--android.smartbanner
+m.digisport.ro##.gdpr-embed-service.gdpr-social-media.gdpr-placeholder
+m.digisport.ro##.article-story.article > .gdpr-social-media.gdpr-placeholder
 lifehacker.com##.js_footer-container
 blog.didomi.io##div.footer_col:nth-of-type(4) > div.one_section:nth-of-type(2)
 www.etsy.com##.wt-pt-xs-3.wt-pb-xs-3.wt-pr-xs-4.wt-pl-xs-4.site-footer-tagline-links
