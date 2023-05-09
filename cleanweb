@@ -134,6 +134,13 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+adsninja.ca
+www.bollyinside.com##.td-pb-span4.tdc-inner-column.vc_column_container.wpb_column.tdi_147.vc_column_inner
+www.bollyinside.com###cookie-law-info-again
+www.techrepublic.com##.organization
+www.techrepublic.com##[href="https://technologyadvice.com/privacy-policy/ccpa-opt-out-form/"]
+www.techrepublic.com##.layout-thirds.layout > div:nth-of-type(2)
+www.makeuseof.com##.grid-c1.w-grid-system.footer
 www.zdnet.com##.g-inner-spacing-bottom-large.g-outer-spacing-top-large.c-siteFooter
 techjury.net##.border-t.mt-auto
 www.geeksforgeeks.org##.all-footer-information
