@@ -134,6 +134,23 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+www.chrono24.com##section.inverted.section:nth-of-type(4)
+www.saashub.com##.footer
+resources.workable.com##.footer__notes
+www.producthunt.com##.py-3.px-5.align-center.justify-space-between.flex-row-gap-1.direction-row.flex.styles_banner_over_intercom__dZB1K.styles_banner__h3VxA
+||accounts.google.com/gsi/iframe/select$subdocument
+||accounts.google.com/gsi/iframe/select?client_id=648403538140-p6el61t69925lqu04sb5f86gvsp306or.apps.googleusercontent.com&auto_select=false&ux_mode=popup&ui_mode=bottom_sheet&context=signin&as=RhORFafwCCEtosoMcWT17g&is_itp=true&channel_id=85fdddf3a37a5cd3ec708a8c7980196e49a77bf4d816e98ffa8d9cb634d7fbc7&origin=https%3A%2F%2Fwww.producthunt.com$subdocument
+amazinghiring.com##footer
+www.frf-ajf.ro##body > span
+www.frf-ajf.ro##p:nth-of-type(4)
+www.frf-ajf.ro###totop
+sport.hotnews.ro##.is-footer.hero
+musescore.com##section.ms-footer--section:nth-of-type(4)
+musescore.com##.FwyBv.xUZUO
+musescore.com##.ci5Mr
+www.tsviewer.com##footer
+www.tsviewer.com##.cc_banner-wrapper
+ro.scribd.com##div.Footer-module_verticalColumn__-CR6f:nth-of-type(2)
 adsninja.ca
 www.xda-developers.com##.wrapper.w-footer
 www.nytimes.com##.css-1e1s8k7
