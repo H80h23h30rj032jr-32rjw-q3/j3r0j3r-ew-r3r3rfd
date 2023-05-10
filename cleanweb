@@ -134,6 +134,17 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+www.theguardian.com##.footer__back-to-top
+www.theguardian.com##ul.colophon__list:nth-of-type(1)
+www.howtogeek.com##.container
+arew.org##.wpautoterms-footer
+www.instructables.com###footer
+superuser.com##div.site-footer--col:nth-of-type(2)
+www.wikihow.com###footer_inner
+cybernews.com##.footer__bottom-line
+www.infoworld.com##.crawl-promo-3.crawl-item
+www.infoworld.com##.about
+learn.microsoft.com###footer > .links
 www.chrono24.com##section.inverted.section:nth-of-type(4)
 www.saashub.com##.footer
 resources.workable.com##.footer__notes
