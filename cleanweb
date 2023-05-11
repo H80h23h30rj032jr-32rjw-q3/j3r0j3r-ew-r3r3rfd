@@ -134,6 +134,27 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+dinpopor.ro##.entry-content.g1-typography-xl.g1-content-narrow > div.ai-viewport-3:nth-of-type(1)
+dinpopor.ro##div.ai-viewport-3:nth-of-type(2)
+dinpopor.ro##.g1-row-layout-page.g1-row.g1-prefooter-3cols.g1-prefooter
+dinpopor.ro##.g1-back-to-top-on.g1-back-to-top
+dinpopor.ro###content > .ai-viewport-3
+tabuhighlife.ro##.cc-color-override-732411367.cc-bottom.cc-theme-block.cc-type-info.cc-floating.cc-window
+tabuhighlife.ro##.page-footer
+www.realitatea.net##.show.realitatea-emisiuni-advertiser-container > .article-box-title > [href]
+www.realitatea.net##.realitatea-emisiuni-advertiser
+www.realitatea.net##.realitatea-footer-copyright
+www.arq.ro###cookie-notice
+www.arq.ro##.backtopbutton
+www.arq.ro##.col-sm-9.col-md-4
+www.icetech.ro###cookie-notice
+www.icetech.ro##footer
+adihadean.ro##.show.to-top
+www.eva.ro##.footer_info_container
+www.bbc.com###sp_message_container_783538
+www.bbc.com##.full-screen-bottom.full-screen
+www.bbc.com##footer
+www.bbcearth.com##.footer
 www.grammarcoach.com##.e1plhj370.css-z8bgdq
 finditgeek.com##.whatsapp-float
 finditgeek.com##.back-to-top
