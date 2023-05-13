@@ -134,6 +134,12 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+www.tpu.ro##.pointer.well-sm.well
+www.tpu.ro###footer
+www.google.com##div.VfXErd:nth-of-type(3) > span:nth-of-type(1)
+www.google.com##div.VfXErd:nth-of-type(1) > span:nth-of-type(1)
+www.google.com##.prmo
+www.google.com##div.VfXErd:nth-of-type(2) > span:nth-of-type(2)
 webrate.org##.fc-dialog-overlay
 webrate.org##.fc-choice-dialog.fc-dialog > .fc-dialog-content
 webrate.org##.fc-secondary-button.fc-data-preferences-accept-all.fc-button > .fc-button-label
