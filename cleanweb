@@ -134,6 +134,8 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+www.cancan.ro###svp
+www.cancan.ro##.footer
 www.timesnownews.com###credential_picker_iframe
 www.timesnownews.com###btm-navbar > div:nth-of-type(1)
 www.timesnownews.com##._3aZ8j
