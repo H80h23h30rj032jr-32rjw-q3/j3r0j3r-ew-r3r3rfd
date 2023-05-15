@@ -16,6 +16,12 @@ adsninja.ca
 branch.io
 www.cancan.ro###svp
 www.cancan.ro##.footer
+www.cancan.ro###svp
+www.cancan.ro##.footer
+m.sfatulmedicului.ro##.view_details
+m.sfatulmedicului.ro###footer-holder
+bpdocs.blueprism.com##.TableStyle-page-layout-footer
+tech.softlaza.com##.gap-8.lg\:grid-cols-4.md\:grid-cols-2.grid-1.grid > div:nth-of-type(2)
 www.timesnownews.com###credential_picker_iframe
 www.timesnownews.com###btm-navbar > div:nth-of-type(1)
 www.timesnownews.com##._3aZ8j
