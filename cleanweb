@@ -134,6 +134,9 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+voxpublica.ro##section.no-spacing.content-section:nth-of-type(1)
+voxpublica.ro##.vc_col-md-4.vc_col-sm-12.vc_column_container.wpb_column.sticky-sidebar
+www.tabu.ro###scroll-to-top
 ipv4.imgur.map.fastly.net
 efeagreatasese.info
 tr-cost.com
