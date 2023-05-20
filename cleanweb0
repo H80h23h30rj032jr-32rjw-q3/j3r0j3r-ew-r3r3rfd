@@ -28,6 +28,8 @@ www.fanatik.ro##.fc-primary-button.fc-cta-consent.fc-button
 www.fanatik.ro##.fc-secondary-button.fc-data-preferences-accept-all.fc-button
 www.fanatik.ro##.fc-secondary-button.fc-vendor-preferences-accept-all.fc-button
 www.fanatik.ro##.fc-dialog-overlay
+www.fanatik.ro##.display-flex
+www.fanatik.ro##nav.navbar--center.navbar:nth-of-type(2)
 voxpublica.ro##section.no-spacing.content-section:nth-of-type(1)
 voxpublica.ro##.vc_col-md-4.vc_col-sm-12.vc_column_container.wpb_column.sticky-sidebar
 www.tabu.ro###scroll-to-top
