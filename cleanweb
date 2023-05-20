@@ -134,6 +134,15 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+www.imobiliare.ro##.bottom-footer-links
+www.ejobs.ro##div.AnimateHeightWithPartials:nth-of-type(3)
+www.tvmania.ro###ot-sdk-btn
+www.tvmania.ro##.col-md-4
+www.fanatik.ro##.fc-choice-dialog.fc-dialog > .fc-dialog-content
+www.fanatik.ro##.fc-primary-button.fc-cta-consent.fc-button
+www.fanatik.ro##.fc-secondary-button.fc-data-preferences-accept-all.fc-button
+www.fanatik.ro##.fc-secondary-button.fc-vendor-preferences-accept-all.fc-button
+www.fanatik.ro##.fc-dialog-overlay
 voxpublica.ro##section.no-spacing.content-section:nth-of-type(1)
 voxpublica.ro##.vc_col-md-4.vc_col-sm-12.vc_column_container.wpb_column.sticky-sidebar
 www.tabu.ro###scroll-to-top
