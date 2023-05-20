@@ -22,6 +22,8 @@ www.imobiliare.ro##.bottom-footer-links
 www.ejobs.ro##div.AnimateHeightWithPartials:nth-of-type(3)
 www.tvmania.ro###ot-sdk-btn
 www.tvmania.ro##.col-md-4
+www.fanatik.com.tr##.fc-consent-root
+www.fanatik.ro##.fc-consent-root
 www.fanatik.ro##.fc-choice-dialog.fc-dialog > .fc-dialog-content
 www.fanatik.ro##.fc-primary-button.fc-cta-consent.fc-button
 www.fanatik.ro##.fc-secondary-button.fc-data-preferences-accept-all.fc-button
