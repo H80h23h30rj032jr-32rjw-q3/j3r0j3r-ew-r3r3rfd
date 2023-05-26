@@ -157,6 +157,57 @@ xml-v4.trafficmoose.com
 trafficmoose.com
 qjidxgzfrpehem.com
 frivolous-copy.pro
+m.youtube.com##.yt-spec-button-shape-next--segmented-end.yt-spec-button-shape-next--icon-button.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next
+m.youtube.com##.consent-bump-
+m.youtube.com##.dialog-topbar
+m.youtube.com##.dialog-body-eom
+m.youtube.com##.eom-accept
+m.youtube.com##.eom-customize > .yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--call-to-action.yt-spec-button-shape-next--outline.yt-spec-button-shape-next > yt-touch-feedback-shape
+m.youtube.com##.privacy-terms
+m.youtube.com##.eom-customize
+m.youtube.com##.show-more-container
+m.youtube.com##.consent-bump-v2-lightbox-header-eom
+m.youtube.com##.consent-bump-v2-lightbox
+consent.youtube.com##.a0gyw
+consent.youtube.com##.Qhg5gf
+consent.youtube.com##.w5himb.FCY2lb > form:nth-of-type(1)
+consent.youtube.com##.G4njw > .rjfsgd
+consent.google.com##.contentText
+consent.google.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .searchButton.button.basebutton
+consent.google.com##.customButtonContainer
+google.com##.contentText
+google.com##.consent
+google.com##.banner
+google.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .searchButton.button.basebutton
+google.com##.customButtonContainer
+www.google.com##[href="/intl/ro/ads"]
+www.google.com##div.VfXErd:nth-of-type(3)
+www.google.com###gws-output-pages-elements-homepage_additional_languages__als
+www.google.com##div.VfXErd:nth-of-type(3) > span:nth-of-type(1)
+www.google.com##div.VfXErd:nth-of-type(1) > span:nth-of-type(1)
+www.google.com##.prmo
+www.google.com##div.VfXErd:nth-of-type(2) > span:nth-of-type(2)
+adblockultimate.net##.back-to-top--show.back-to-top
+slashdot.org##footer.sandiego
+www.2checkout.com###cookie-policy-banner
+thehill.com##.network-footer-advertise.network-item.\|.network-footer__nav-menu__item
+thehill.com##.network-footer__copyright.\|.network-footer__inner > .network-footer__nav-menu > li.network-footer__nav-menu__item:nth-of-type(11)
+thehill.com##.network-footer-privacy-policy.network-item.\|.network-footer__nav-menu__item
+alternativeto.net##.sidebar-layout.jsx-af9fdf898cd87326
+www.pcworld.com###menu-item-100000317-footer-primary
+www.pcworld.com###menu-item-100000313-footer-primary
+www.pcworld.com###menu-item-100000312-footer-primary
+www.pcworld.com###menu-item-100056491-footer-primary
+www.pcworld.com###menu-item-100000328-footer-secondary
+www.pcworld.com###menu-item-100000327-footer-secondary
+www.pcworld.com##.footer-base
+m.facebook.com##div.xdl72j9.x1iorvi4.xjkvuk6.x1e558r4.x150jy0e.xs83m0k.x1iyjqo2.xeuugli.x193iq5w.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619:nth-of-type(2) > .xh8yej3.x1n2onr6.xl56j7k.xdt5ytf.x3nfvp2.x9f619.x1a2a7pz.x1lku1pv.x87ps6o.x13rtm0m.x1e5q0jg.x3x9cwd.x1o1ewxj.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.x1ypdohk.xav7gou.xaqea5y.x1b1mbwd.x6umtig.xjbqb8w.x1i10hfl
+m.facebook.com##.x1ja2u2z.x1n2onr6.x1t2pt76.x10cihs4.xdt5ytf.x78zum5 > div:nth-of-type(2)
+www.businessinsider.com##li.copy-listitem:nth-of-type(7)
+www.businessinsider.com##li.copy-first-listitem:nth-of-type(2)
+play.google.com##div.KvNvKe:nth-of-type(2) > .AU8vyc
+helpdeskgeek.com##.wrap > p:nth-of-type(1)
+www.businessinsider.com##li.copy-listitem:nth-of-type(6)
 www.imobiliare.ro##.bottom-footer-links
 www.ejobs.ro##div.AnimateHeightWithPartials:nth-of-type(3)
 www.tvmania.ro###ot-sdk-btn
@@ -238,10 +289,6 @@ www.ladbible.com##.css-15kj64l-textAlign-margin.footer
 imscan.net###scrollUp
 www.tpu.ro##.pointer.well-sm.well
 www.tpu.ro###footer
-www.google.com##div.VfXErd:nth-of-type(3) > span:nth-of-type(1)
-www.google.com##div.VfXErd:nth-of-type(1) > span:nth-of-type(1)
-www.google.com##.prmo
-www.google.com##div.VfXErd:nth-of-type(2) > span:nth-of-type(2)
 webrate.org##.fc-choice-dialog.fc-dialog > .fc-dialog-content
 webrate.org##.fc-secondary-button.fc-data-preferences-accept-all.fc-button > .fc-button-label
 webrate.org##.fc-secondary-button.fc-data-preferences-accept-all.fc-button
@@ -290,12 +337,6 @@ micromedica.ro###cookie-law-info-bar
 micromedica.ro##.menu-item-5258.menu-item-privacy-policy.menu-item-object-page.menu-item-type-post_type.menu-item
 micromedica.ro##.menu-item-5256.menu-item-object-page.menu-item-type-post_type.menu-item
 smartliving.ro##.footer-bottom
-m.youtube.com##.consent-bump-v2-lightbox-header-eom
-m.youtube.com##.consent-bump-v2-lightbox
-consent.youtube.com##.a0gyw
-consent.youtube.com##.Qhg5gf
-consent.youtube.com##.w5himb.FCY2lb > form:nth-of-type(1)
-consent.youtube.com##.G4njw > .rjfsgd
 geek.ro##.my-3.text-left.footer-widgets > .container > .row > div.col:nth-of-type(4)
 24beauty.ro##.chatbot.ccw_plugin.dd-whatsapp
 24beauty.ro##div.col-footer.col-xs-12.col-sm-6.col-md-2.col2:nth-of-type(3)
@@ -537,9 +578,6 @@ consent.yahoo.com##div.content-section:nth-of-type(2)
 consent.yahoo.com##.manage-settings.mng-btn.secondary.btn
 www.yahoo.com##.List\(n\).Colmc\(2\).Pb\(10px\).P\(0\).Mt\(32px\).Mx\(0\)
 www.yahoo.com##.lw-nav-open_D\(n\).uh-mobile-nav-open_D\(n\).SideSlot-open_D\(n\).W\(100\%\).Cl\(b\).YDC-Bottom
-www.google.com##[href="/intl/ro/ads"]
-www.google.com##div.VfXErd:nth-of-type(3)
-www.google.com###gws-output-pages-elements-homepage_additional_languages__als
 www.avocatnet.ro##footer
 huff.ro###mvp-foot-nav
 huff.ro###mvp-foot-wrap
@@ -1110,22 +1148,6 @@ www.arcadiamedical.ro##html
 www.arcadiamedical.ro##html
 okmagazine.ro###gid-ads--424366728-OKmagazine2022-Okmagazine_Branding
 tvstrada.ro###fCookiescontent
-m.youtube.com##.consent-bump-
-m.youtube.com##.dialog-topbar
-m.youtube.com##.dialog-body-eom
-m.youtube.com##.eom-accept
-m.youtube.com##.eom-customize > .yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--call-to-action.yt-spec-button-shape-next--outline.yt-spec-button-shape-next > yt-touch-feedback-shape
-m.youtube.com##.privacy-terms
-m.youtube.com##.eom-customize
-m.youtube.com##.show-more-container
-consent.google.com##.contentText
-consent.google.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .searchButton.button.basebutton
-consent.google.com##.customButtonContainer
-google.com##.contentText
-google.com##.consent
-google.com##.banner
-google.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .searchButton.button.basebutton
-google.com##.customButtonContainer
 tvstrada.ro###fCookiescontent
 ilike-it.ro##.optanon-toggle-display
 ilike-it.ro###rectangle2
@@ -1156,7 +1178,6 @@ www.avantaje.ro###ot-sdk-btn
 baby.unica.ro##div.col-sm-3:nth-of-type(3)
 m.dcnews.ro##[href="https://m.dcnews.ro/cookie-policy"]
 m.dcnews.ro###ot-sdk-btn > span
-m.youtube.com##.yt-spec-button-shape-next--segmented-end.yt-spec-button-shape-next--icon-button.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next
 admanager.google.com
 blockadblock.com
 www.antiadblock.com
