@@ -136,7 +136,6 @@ www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
 tvqqrycnutpp.com
 www.gstatic.vom
-gstatic.com
 cookiebot.com
 www.cookiebot.com
 onetrust.com
@@ -173,7 +172,7 @@ consent.youtube.com##.w5himb.FCY2lb > form:nth-of-type(1)
 consent.youtube.com##.G4njw > .rjfsgd
 consent.google.com##.contentText
 consent.google.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .searchButton.button.basebutton
-www.google.com##[href="/intl/ro/ads"]
+intl/ro
 adblockultimate.net##.back-to-top--show.back-to-top
 slashdot.org##footer.sandiego
 www.2checkout.com###cookie-policy-banner
@@ -1236,7 +1235,6 @@ assoc-na.associates-amazon.com
 dr3fr5q4g2ul9.cloudfront.net
 123.456.789.999
 d2ef20sk9hi1u3.cloudfront.net
-gstatic.com
 imasdk.googleapis.com
 fonts.gstatic.com
 apis.google.com
