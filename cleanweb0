@@ -205,6 +205,44 @@ m.facebook.com##.x1ja2u2z.x1n2onr6.x1t2pt76.x10cihs4.xdt5ytf.x78zum5 > div:nth-o
 www.businessinsider.com##li.copy-listitem:nth-of-type(7)
 www.businessinsider.com##li.copy-first-listitem:nth-of-type(2)
 play.google.com##div.KvNvKe:nth-of-type(2) > .AU8vyc
+spankbang.com##.modal > h2
+spankbang.com##.modal > p
+spankbang.com##a.parents:nth-of-type(3)
+spankbang.com##a.parents:nth-of-type(2)
+www.dedeman.ro##.application-bar
+favi.ro##.back-to-top-holder
+favi.ro##.info > ul > li:nth-of-type(4)
+www.homepuls.ro##.scrollup > span
+www.homepuls.ro##._show._inner-scroll.modal-slide.modal-popup > .modal-inner-wrap
+www.homepuls.ro##.modals-wrapper
+www.homepuls.ro###scrollToTopButton
+www.homepuls.ro###amamp-footer-block
+www.homepuls.ro###top
+www.patulmeu.ro###scroll-to-top-arrow
+www.patulmeu.ro###about_us > li:nth-of-type(6)
+poohy.ro##.me_contact
+poohy.ro##div.eq_height.col-lg-4.col-sm-6.col-xs-12.footer-column:nth-of-type(3) > .list-unstyled > li:nth-of-type(6)
+www.elefant.ro###disabled-cookies-warning
+www.elefant.ro##[href="/cookies-cms-page.helpdesk.cookies"]
+mobexpert.ro##.popup-display.basel-cookies-popup
+mobexpert.ro##.style1.boost-pfs-filter-scroll-to-top
+mobexpert.ro##.button-show.basel-tooltip.scrollToTop
+ro.vivre.eu##.notification-gdpr
+www.mezoni.ro##.footer__upper
+www.bonami.ro##.Footer_terms__oK93N
+www.bonami.ro##.ScrollToTop_fadeIn__cKcX9.ScrollToTop_showAboveChat__jrEKT.ScrollToTop_scrollToTop__5HWy4
+www.bonami.ro##.MobileNavigation_footer__ZkDoL > a.spacing_reset__yrtBU.Button_interactive__MuB_h.Button_mineshaft__8_uUh.Button_text__fB5Hl.Button_button__Az0ab:nth-of-type(7)
+languages.oup.com##.b-wrp-menu-bottom > .nav-menu > .menu-footer-third-container
+sedo.com###footer-nav-meta > ul > li:nth-of-type(3) > a
+www.biano.ro##.p-0.bg-transparent.max-w-\[83rem\].w-full.z-30.bottom-0.fixed
+theodora.com##p:nth-of-type(3)
+www.stop-neplacniki.si##.shaking.orange.mailing-popup
+www.stop-neplacniki.si###cookie_notification
+www.stop-neplacniki.si##.align-items-start.flex-md-row.flex-column.flex-wrap.d-flex > li:nth-of-type(1)
+yoga-shop.ro##.mm-slideout.aurora-nanobar-firstlogin.aurora-nanobar
+yoga-shop.ro##.sr-cog
+yoga-shop.ro###first-login-nanobar-button
+yoga-shop.ro##a.list-group-item:nth-of-type(6)
 helpdeskgeek.com##.wrap > p:nth-of-type(1)
 www.businessinsider.com##li.copy-listitem:nth-of-type(6)
 www.imobiliare.ro##.bottom-footer-links
