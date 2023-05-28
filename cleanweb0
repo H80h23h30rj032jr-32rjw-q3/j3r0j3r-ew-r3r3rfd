@@ -166,6 +166,7 @@ clients1.google.com
 clients2.google.com
 clients3.google.com
 clients4.google.com
+fpn.firefox.com##li:nth-of-type(4)
 extensionworkshop.com##.mzp-c-footer-secondary.grid-padding-x.grid-x.grid-container
 support.mozilla.org##.mzp-c-footer-secondary
 addons.mozilla.org##.Notice-dismissible.GetFirefoxBanner.Notice-warning.Notice
