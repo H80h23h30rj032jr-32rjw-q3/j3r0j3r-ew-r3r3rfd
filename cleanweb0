@@ -135,6 +135,8 @@ www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
 tvqqrycnutpp.com
+a.realsrv.com
+cdn.tsyndicate.com
 www.gstatic.vom
 cookiebot.com
 www.cookiebot.com
@@ -223,6 +225,12 @@ www.dlsite.com##.c-modal__inner > .c-text
 www.dlsite.com##.l-footer__pageTop
 ci-en.dlsite.com##.notAdult
 ci-en.dlsite.com##.notAdult
+rule34video.com##input.button:nth-of-type(2)
+rule34video.com##.heading_title
+www.cartoonpornvideos.com##.grow.py-1.modal-body
+www.cartoonpornvideos.com##.text-center.mt-4.modal-footer > .mt-4
+www.cartoonpornvideos.com##.show.scroll-top-btn
+hentaivideos.net###head_hv
 www.dedeman.ro##.application-bar
 favi.ro##.back-to-top-holder
 favi.ro##.info > ul > li:nth-of-type(4)
