@@ -14,6 +14,7 @@ www.cylex.se##div:nth-of-type(5)
 www.cylex.sk##div:nth-of-type(5)
 www.cylex.cz##div:nth-of-type(5)
 www.cylex.ro##div:nth-of-type(6)
+cylex.ro##div:nth-of-type(6)
 bucuresti.cylex.ro##div:nth-of-type(6)
 voluntari.cylex.ro##div:nth-of-type(6)
 otopeni.cylex.ro##div:nth-of-type(6)
@@ -409,7 +410,6 @@ onesignal.com
 displayvertising.com
 doubleclick.net
 www.gstatic.vom
-gstatic.com
 graph.facebook.com
 googleleadservices.com
 googlesyndication.com
@@ -1604,8 +1604,6 @@ oixro.com
 olxro.com
 olx.ro.xyz
 ro-livrare.mobi
-www.gstatic.vom
-gstatic.com
 cookiebot.com
 www.cookiebot.com
 onetrust.com
@@ -2230,7 +2228,6 @@ www.avantaje.ro###ot-sdk-btn
 baby.unica.ro##div.col-sm-3:nth-of-type(3)
 m.dcnews.ro##[href="https://m.dcnews.ro/cookie-policy"]
 m.dcnews.ro###ot-sdk-btn > span
-m.youtube.com##.yt-spec-button-shape-next--segmented-end.yt-spec-button-shape-next--icon-button.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next
 admanager.google.com
 tvstrada.ro###fCookiescontent
 ilike-it.ro##.optanon-toggle-display
@@ -2459,7 +2456,6 @@ m.youtube.com##.consent-bump-
 m.youtube.com##.dialog-topbar
 m.youtube.com##.dialog-body-eom
 m.youtube.com##.eom-accept
-m.youtube.com##.eom-customize > .yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--call-to-action.yt-spec-button-shape-next--outline.yt-spec-button-shape-next > yt-touch-feedback-shape
 m.youtube.com##.privacy-terms
 m.youtube.com##.eom-customize
 m.youtube.com##.show-more-container
@@ -2688,7 +2684,6 @@ playtech.ro##.ot_cookie_settings_btn
 forum.softpedia.com###cookienotif
 alephnews.ro###ot-sdk-btn
 nelusabau.wordpress.com##.widget_eu_cookie_law_widget.widget
-https://pdfslide.tips
 pdfslide.tips###cookieConsent
 en.calameo.com##.cookie-alert-text.container
 vtsgroup.com##.minimididesign-cookies
@@ -2706,7 +2701,6 @@ www.ipgroupplc.com###__cookieWrapper
 www.managingip.com###announcements
 www.livescience.com##.css-54yep6
 www.livescience.com##.css-ssqgu5.qc-cmp-cleanslate
-https://www.instagram.com
 www.instagram.com##.Yx5HN.RnEpo
 choice.npr.org###content
 www.theaztectheatre.com##.hide-cookie-setting-button.optanon-alert-box-wrapper
@@ -3018,7 +3012,6 @@ torquemag.io##.opt-in-modal--visible.js-opt-in-modal.opt-in-modal
 blog.bitsrc.io##body > div:nth-of-type(2)
 documents.marketo.com##.hide-accept-button.optanon-alert-box-wrapper
 www.cdp.net##.cookie_dismiss_container.cookie_banner
-https://www.cookiescan.com
 www.cookiescan.com##body > div:nth-of-type(6)
 www.zdnet.com##.ot-fade-in.onetrust-pc-dark-filter
 wordpress.com##.a8c-cookie-banner-v1.a8c-cookie-banner
@@ -3605,6 +3598,7 @@ stirileprotv.ro###rectangle12
 stirileprotv.ro###rectangle13 
 stirileprotv.ro###rectangle14
 https://cookie-clicker2.com/
+cookie-clicker2.com
 www.protv.ro##.optanon-toggle-display
 blog.wilton.com##.justify-content-between.d-flex.sticky-footer
 xtools.pro###CookiesNotify
@@ -3800,7 +3794,6 @@ playtech.ro##.ot_cookie_settings_btn
 forum.softpedia.com###cookienotif
 alephnews.ro###ot-sdk-btn
 nelusabau.wordpress.com##.widget_eu_cookie_law_widget.widget
-https://pdfslide.tips
 pdfslide.tips###cookieConsent
 en.calameo.com##.cookie-alert-text.container
 vtsgroup.com##.minimididesign-cookies
@@ -3818,7 +3811,6 @@ www.ipgroupplc.com###__cookieWrapper
 www.managingip.com###announcements
 www.livescience.com##.css-54yep6
 www.livescience.com##.css-ssqgu5.qc-cmp-cleanslate
-https://www.instagram.com
 www.instagram.com##.Yx5HN.RnEpo
 choice.npr.org###content
 www.theaztectheatre.com##.hide-cookie-setting-button.optanon-alert-box-wrapper
@@ -4015,7 +4007,6 @@ torquemag.io##.opt-in-modal--visible.js-opt-in-modal.opt-in-modal
 blog.bitsrc.io##body > div:nth-of-type(2)
 documents.marketo.com##.hide-accept-button.optanon-alert-box-wrapper
 www.cdp.net##.cookie_dismiss_container.cookie_banner
-https://www.cookiescan.com
 www.cookiescan.com##body > div:nth-of-type(6)
 www.zdnet.com##.ot-fade-in.onetrust-pc-dark-filter
 wordpress.com##.a8c-cookie-banner-v1.a8c-cookie-banner
