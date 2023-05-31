@@ -177,6 +177,9 @@ clients1.google.com
 clients2.google.com
 clients3.google.com
 clients4.google.com
+monitorizari.hotnews.ro##div.footer-row:nth-of-type(1)
+www.apple.com##.ac-gf-footer
+apps.apple.com###ac-globalfooter
 fpn.firefox.com##li:nth-of-type(4)
 extensionworkshop.com##.mzp-c-footer-secondary.grid-padding-x.grid-x.grid-container
 support.mozilla.org##.mzp-c-footer-secondary
