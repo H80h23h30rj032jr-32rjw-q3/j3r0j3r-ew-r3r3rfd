@@ -23,6 +23,26 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+www.dozaanimata.ro##.text-center.alert.ann-home
+www.dozaanimata.ro##.mobile-btn
+veziseriale.org##div.sbox:nth-of-type(8)
+www.lifewire.com##li.footer-links-item:nth-of-type(6)
+outlook.live.com##.legal
+www.microsoft.com##.c-uhff-base
+www.mozilla.org##.mzp-c-sidemenu-main > ul > .mzp-is-current
+www.mozilla.org##.mzp-js-toggle.mzp-c-sidemenu-summary > ul > .mzp-is-current
+www.mozilla.org##h1
+www.bleepingcomputer.com##div.col-md-2:nth-of-type(5) > ul > li:nth-of-type(4)
+docs.automationanywhere.com##.bottomLinks > li:nth-of-type(2)
+www.cpomagazine.com##.clearfix.footer__mob__cols-1.widget-title-default.footer-fs.widget-area-borders-1.site-img-1.site-footer-2.site-footer
+www.beringer.net##.no-underline.uppercase.float-cta
+www.beringer.net##.apexchat_prechat_invitation_wrapper_custom
+www.beringer.net##.apexchat_bar_invitation_wrapper_custom
+mezha.media##.footer_menu
+www.divahair.ro##.basics > ul > li:nth-of-type(1)
+www.divahair.ro##.basics > ul > li:nth-of-type(2)
+www.divahair.ro##.aside.newsletter
+ineed2s.ro
 www.blogger.com
 buzzfeed.com
 gq.com
