@@ -32,6 +32,15 @@ www.microsoft.com##.c-uhff-base
 www.mozilla.org##.mzp-c-sidemenu-main > ul > .mzp-is-current
 www.mozilla.org##.mzp-js-toggle.mzp-c-sidemenu-summary > ul > .mzp-is-current
 www.mozilla.org##h1
+click.aliexpress.com
+www.meta.com##.x14z7tpn.x1dshhg4.x137jj4x.x8lmfi4.x1gnvfkl.x1s0dajt.x1jcwenj.xhuz21x.x3yeff4.x11b69tj.x1p4a80c.x10rn61k.x2lah0s.x1c4vz4f.xdl72j9.x9f619.xh8yej3.x193iq5w
+onesignal.com
+privacy-mgmt.com
+mgmt.com
+cdn.onesignal.com
+cdn.privacy-mgmt.com
+hawk.tomsguide.com
+||cdn.privacy-mgmt.com
 www.bleepingcomputer.com##div.col-md-2:nth-of-type(5) > ul > li:nth-of-type(4)
 docs.automationanywhere.com##.bottomLinks > li:nth-of-type(2)
 www.cpomagazine.com##.clearfix.footer__mob__cols-1.widget-title-default.footer-fs.widget-area-borders-1.site-img-1.site-footer-2.site-footer
@@ -1052,6 +1061,7 @@ securepubads.g.doubleclick.net
 imasdk.googleapis.com
 fundingchoicesmessages.google.com
 www.googletagmanager.com
+m.youtube.com##.yt-core-attributed-string__link--call-to-action-color.yt-core-attributed-string__link--display-type.yt-core-attributed-string__link
 rule34video.com##input.button:nth-of-type(2)
 rule34video.com##.heading_title
 www.cartoonpornvideos.com##.grow.py-1.modal-body
