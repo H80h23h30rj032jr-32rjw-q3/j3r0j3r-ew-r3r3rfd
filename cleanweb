@@ -11,7 +11,6 @@ www.cylex.sk##div:nth-of-type(5)
 www.cylex.cz##div:nth-of-type(5)
 www.cylex.ro##div:nth-of-type(6)
 cylex.ro##div:nth-of-type(6)
-.cylex.ro##div:nth-of-type(6)
 www.new-york.cylex.us.com##div:nth-of-type(6)
 www.cylex.hu##div:nth-of-type(6)
 www.cylex-canada.ca##div:nth-of-type(6)
@@ -32,6 +31,7 @@ www.microsoft.com##.c-uhff-base
 www.mozilla.org##.mzp-c-sidemenu-main > ul > .mzp-is-current
 www.mozilla.org##.mzp-js-toggle.mzp-c-sidemenu-summary > ul > .mzp-is-current
 www.mozilla.org##h1
+support.mozilla.org##.mzp-c-footer-secondary
 click.aliexpress.com
 www.meta.com##.x14z7tpn.x1dshhg4.x137jj4x.x8lmfi4.x1gnvfkl.x1s0dajt.x1jcwenj.xhuz21x.x3yeff4.x11b69tj.x1p4a80c.x10rn61k.x2lah0s.x1c4vz4f.xdl72j9.x9f619.xh8yej3.x193iq5w
 onesignal.com
@@ -218,7 +218,6 @@ amazon-adsystem.com
 about.ads.microsoft.com
 ads.microsoft.com
 azure.microsoft.com
-microsoft.com
 www.linkedin.com
 www.adexchanger.com
 adssettings.google.com
