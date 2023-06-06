@@ -136,6 +136,21 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+apps24.org##p:nth-of-type(2)
+apps24.org###language_picker_des_426
+itstillworks.com##.site-info
+www.imore.com###document-footer
+www.zendesk.com##.fIeFMG.cMaxAB.sc-7b901018-7.Gridstyle__Row-sc-1uhmtis-1.gDsEmO.StyledRow-sc-xjsdg1-0
+www.zendesk.com###__next > div > div:nth-of-type(1)
+www.zendesk.com##div.eyYNAC.cMaxAB.sc-97912cbf-11.Gridstyle__Row-sc-1uhmtis-1.gfjpQg.StyledRow-sc-xjsdg1-0:nth-of-type(4)
+www.zendesk.com##div.eyYNAC.cMaxAB.sc-97912cbf-11.Gridstyle__Row-sc-1uhmtis-1.gfjpQg.StyledRow-sc-xjsdg1-0:nth-of-type(5)
+www.avast.com##body > span:nth-of-type(2)
+www.avast.com##.content-holder
+www.tomsguide.com###document-footer-content > nav
+wethegeek.com##.footer_buttom
+wethegeek.com##.back-to-top
+www.tumblr.com##.PH0PQ
+butterfrogmantis.tumblr.com##.tmblr-iframe--loaded.tmblr-iframe--gdpr-banner.tmblr-iframe
 buzzfeed.com
 gq.com
 google-analytics.com
