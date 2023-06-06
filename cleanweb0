@@ -192,6 +192,9 @@ clients1.google.com
 clients2.google.com
 clients3.google.com
 clients4.google.com
+www.nytimes.com##.dc360270
+www.animax.co.jp##.o-footer
+romanialibera.ro###ot-sdk-btn
 www.dozaanimata.ro##.text-center.alert.ann-home
 www.dozaanimata.ro##.mobile-btn
 veziseriale.org##div.sbox:nth-of-type(8)
