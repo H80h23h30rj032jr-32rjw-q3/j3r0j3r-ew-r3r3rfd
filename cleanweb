@@ -22,6 +22,25 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+www.visele.ro###footer > strong
+www.visele.ro##body > strong
+erogames.com##.disclaimer-wrapper
+erogames.com##.popup-main--disclaimer.popup-main > .logo-img
+www.apkhentai.com##.show.smoothscroll-top
+www.nutaku.net##.txt-u.txt-center
+www.bing.com###ftrLnks > li:nth-of-type(3)
+news.sky.com##div.sdc-news-footer__row:nth-of-type(3)
+news.sky.com##li.sdc-news-footer__list-item:nth-of-type(9)
+www.news.com.au##.footer_external-links_cookie-policy
+www.news.com.au###fixed-ad
+www.news.com.au##.footer_disclaimer_text
+www.news.com.au##.help-support.mobile-navigation_li > .mobile-navigation_ul > li.mobile-navigation_li:nth-of-type(4)
+apnews.com##.Component-nav-0-2-3 > .Component-list-0-2-10 > li:nth-of-type(5)
+www.mirror.co.uk##.footer__section-secondary
+www.nbcnews.com##.links__wrap > li:nth-of-type(5)
+www.huffpost.com##.corp-links.site-footer__links
+www.cnet.com##.c-siteFooter_list-col.c-siteFooter_list
+www.military.com##.block--system-menu-block-mobile-secondary.block.nav--mobile
 www.westernmassnews.com##div.pt-3.px-3.align-self-center.\|.footer-link:nth-of-type(9)
 www.westernmassnews.com##.pt-0.small.card-footer
 www.westernmassnews.com##div.align-self-center.col-lg-3.col-md-4.col-sm-6.col-6.\|.footer-link:nth-of-type(6)
