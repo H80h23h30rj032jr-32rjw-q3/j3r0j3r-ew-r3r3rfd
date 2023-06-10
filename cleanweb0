@@ -136,6 +136,44 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+www.westernmassnews.com##div.pt-3.px-3.align-self-center.\|.footer-link:nth-of-type(9)
+www.westernmassnews.com##.pt-0.small.card-footer
+www.westernmassnews.com##div.align-self-center.col-lg-3.col-md-4.col-sm-6.col-6.\|.footer-link:nth-of-type(6)
+oanow.com###site-copyright-container
+oanow.com###footer-col-two-nav_menu > li:nth-of-type(1)
+www.foxla.com##.footer-lower
+www.foxla.com##.footer-upper.section-nav > .inner > .menu-about-us > ul > li.nav-item:nth-of-type(7)
+www.cnbc.com##li.CNBCFooter-footerOption:nth-of-type(14)
+www.glassdoor.com##li.pb-sm.order-2.col-md-2.col-sm-3.col-6.styles__footer__menuLinks:nth-of-type(4)
+www.glassdoor.com##li.pb-sm.order-2.col-md-2.col-sm-3.col-6.styles__footer__menuLinks:nth-of-type(5) > ul > li:nth-of-type(1)
+www.healthline.com##.css-d2oo9m
+www.healthline.com##.css-1dytfcg
+www.medlife.ro##.container.float-button-scroll
+www.avast.com##.footer-subwrapper.col
+itseasytech.com##.menu-item-3489.menu-item-object-page.menu-item-type-post_type.menu-item
+www.fornetti.com##span
+www.dailybusiness.ro##div.mg-bottom-20.strawberry-ad-card:nth-of-type(2)
+www.dailybusiness.ro##div.mg-bottom-20.strawberry-ad-card:nth-of-type(5)
+www.dailybusiness.ro##div.mg-bottom-20.strawberry-ad-card:nth-of-type(4)
+franchising.info.ro###footerNav > li:nth-of-type(2)
+franchising.info.ro##div.nlm.site-map-item.col-md-12.col-md-4:nth-of-type(6) > li > .list-icons-sm.list-icons.list > li:nth-of-type(2)
+apkcombo.com##.share-button
+forneti.com.cutestat.com##.footer
+varecha.pravda.sk##.clearfix.container.varechasuperpage > div.row:nth-of-type(3)
+www.monstersandcritics.com##.menu-item-652321.menu-item-object-page.menu-item-type-post_type.menu-item
+itigic.com###main-ezcmp
+itigic.com###secondary-links
+itigic.com###ez-cookie-template > h2
+itigic.com##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
+itigic.com##.mh-copyright-wrap
+review42.com##.menu-item-3563.menu-item-object-custom.menu-item-type-custom.menu-item
+www.newsweek.com##div.footer-4col-text:nth-of-type(3)
+www.newsweek.com##div.footer-4col-text:nth-of-type(4)
+h30434.www3.hp.com##.lia-top-quilt.lia-quilt-layout-two-column-main-side.lia-quilt-forum-topic-page-topic-pagev2.lia-quilt > .lia-quilt-row-header.lia-quilt-row
+www.reactionarytimes.com##.share-buttons-mobile.share-buttons
+www.npr.org##.npr-footer__module--secondary.npr-footer__module
+appuals.com##.dark-widgetized-area.dark-skin.site-footer
+www.businessinsider.com##li.copy-listitem:nth-of-type(7)
 apps24.org##p:nth-of-type(2)
 apps24.org###language_picker_des_426
 itstillworks.com##.site-info
