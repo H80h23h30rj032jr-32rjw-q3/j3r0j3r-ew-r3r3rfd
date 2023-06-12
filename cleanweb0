@@ -27,6 +27,38 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+www.stiripesurse.ro##.mobile-app-download
+www.sciencedirect.com###els-footer-cookie-message
+www.sciencedirect.com##li:nth-of-type(4)
+www.sciencedirect.com##li:nth-of-type(7)
+dentocare.ro##div.vc_column_container.wpb_column.vc_col-sm-3:nth-of-type(4) > .vc_column-inner > .wpb_wrapper > .wpb_text_column
+dentocare.ro##div.vc_column_container.wpb_column.vc_col-sm-3:nth-of-type(4)
+www.dentalpremier.ro###sticky-footer
+www.dentalpremier.ro##.site-info-text-color-white.site-info
+www.medici-stomatologi.ro###cookbox
+www.medici-stomatologi.ro###container > div:nth-of-type(4)
+www.medici-stomatologi.ro###footer
+www.stomatologie-nonstop.ro##.footer_mobile_btn
+www.stomatologie-nonstop.ro##.mrgin_footer.copyright_bottom
+www.medsana.ro##footer
+www.clinicaaesthetica.ro##.phone.bounce.animated
+www.clinicaaesthetica.ro##.btn-secondary.btn
+www.clinicaaesthetica.ro###main > span
+www.flymedi.com##.copyright
+www.neoclinique.ro###footer
+cliniciledrleahu.ro##.ssb-anim-slide.ssb-btns-right
+cliniciledrleahu.ro##.fixed-padding.footer-copyright.bg-color
+www.ozono.ro##div.iq-mb-20.col-sm-12.col-lg-3:nth-of-type(2)
+www.ozono.ro##.appointment-mobil
+infooradea.ro##.site-footer
+infooradea.ro###cookie-law-info-again
+www.velvetdental.ro##.wp-call-button
+www.velvetdental.ro##.row-container.style-color-178134-bg.vc_row
+roger24.de##.footer-bottom.nd-region
+premierdenta.com##.cn-position-bottom.cookie-revoke-hidden.cookie-notice-hidden
+premierdenta.com##.back-to-top-link.position-fixed.position-sticky.pe-auto.p-0.justify-content-center.align-items-center.d-flex.rounded-cricle.shadows.btn-secondary.btn
+premierdenta.com##.container.handheld-widget-menu > div.columns:nth-of-type(2)
+www.powershow.com##a.link:nth-of-type(3)
 spotmedia.ro###mah-adoceanthinkdigitalrokmpfmvmnpm
 spotmedia.ro##div.mbm-adszone-container-margin.mbm-min-height-620.mbm-aotd-supercontainer-pub:nth-of-type(4)
 spotmedia.ro##div.mbm-adszone-container-margin.mbm-min-height-620.mbm-aotd-supercontainer-pub:nth-of-type(2)
