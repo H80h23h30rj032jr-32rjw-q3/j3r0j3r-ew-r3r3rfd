@@ -22,6 +22,17 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+connect.mozilla.org##.lia-cookie-banner-alert-text-v1 > .lia-cookie-banner-alert-accept
+connect.mozilla.org##.lia-component-gdprcookiebanner-widget-cookie-banner-alert.lia-cookie-banner-alert
+connect.mozilla.org##.content-bottom
+psnews.ro##.site-footer
+bravesoftware.com
+firefoxsoftware.com
+chromesoftware.com
+operasoftware.com
+edgesoftware.com
+puffinwoftware.com
+torsoftware.com
 www.stiripesurse.ro##.mobile-app-download
 www.sciencedirect.com###els-footer-cookie-message
 www.sciencedirect.com##li:nth-of-type(4)
