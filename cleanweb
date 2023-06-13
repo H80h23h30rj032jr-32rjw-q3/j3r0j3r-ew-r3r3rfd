@@ -22,6 +22,17 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+www.okazii.ro###onetrust-consent-sdk
+www.okazii.ro##onetrust-consent-sdk
+okazii.ro##onetrust-consent-sdk
+okazii.ro###onetrust-consent-sdk
+okazii.ro###cookie
+www.okazii.ro###onetrust-accept-btn-handler
+www.okazii.ro###onetrust-button-group
+www.okazii.ro###onetrust-policy
+www.okazii.ro###cookie
+www.wifistore.ro##div.footer__block:nth-of-type(1) > .footer__menu
+www.gomag.ro##.cookiePolicyGomag
 connect.mozilla.org##.lia-cookie-banner-alert-text-v1 > .lia-cookie-banner-alert-accept
 connect.mozilla.org##.lia-component-gdprcookiebanner-widget-cookie-banner-alert.lia-cookie-banner-alert
 connect.mozilla.org##.content-bottom
@@ -187,6 +198,7 @@ www.mozilla.org##.mzp-js-toggle.mzp-c-sidemenu-summary > ul > .mzp-is-current
 www.mozilla.org##h1
 support.mozilla.org##.mzp-c-footer-secondary
 click.aliexpress.com
+s.aliexpress.com
 www.meta.com##.x14z7tpn.x1dshhg4.x137jj4x.x8lmfi4.x1gnvfkl.x1s0dajt.x1jcwenj.xhuz21x.x3yeff4.x11b69tj.x1p4a80c.x10rn61k.x2lah0s.x1c4vz4f.xdl72j9.x9f619.xh8yej3.x193iq5w
 scoala9.ro##footer.xs > .content > div.row.menu > .column > [href="/politica-de-cookies/"]
 www.ziarulincomod.ro##.menu-item-150201.menu-item-object-page.menu-item-type-post_type.menu-item
