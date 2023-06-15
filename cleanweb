@@ -22,6 +22,20 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+www.apavital.ro##.footer-bottom
+www.apavital.ro##.pojo-a11y-toolbar-toggle
+www.bzi.ro##.text-center > .menu > ul
+www.stireadeiasi.ro###cookie-law-info-again
+www.7est.ro##.td-container-wrap.td-sub-footer-container
+www.reporteris.ro###jsn-gotoplink
+www.ziarulevenimentul.ro##.icon-bar
+www.livearad.ro##.gdpr-privacy-preferences.gdpr
+www.livearad.ro##.footer-social-remove-circle.penci-lazy.penci-footer-social-media
+www.livearad.ro##.gdpr-general-confirmation.gdpr
+newsiasi.ro##.td-container-wrap.td-sub-footer-container
+www.iasi4u.ro##.cn-position-bottom.cookie-revoke-hidden.cookie-notice-hidden
+m.imdb.com##.footer__links.ipc-page-content-container--center.ipc-page-content-container
+www.mumsnet.com##div.border-opacity-50.col-span-12.border-white.border-t:nth-of-type(3)
 www.okazii.ro###onetrust-consent-sdk
 www.okazii.ro##onetrust-consent-sdk
 okazii.ro##onetrust-consent-sdk
