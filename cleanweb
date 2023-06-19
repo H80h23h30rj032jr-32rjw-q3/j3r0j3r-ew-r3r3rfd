@@ -567,6 +567,15 @@ cokiepro.org
 cookie-cdn.cookiepro.com
 criteo.com
 cxsense.com
+! ||consent.google.com^
+google.*##[id^="eob_"]
+||accounts.google.com/gsi/*$xhr,script,3p
+www.google.*##^script:has-text(consentCookiePayload)
+www.google.*##+js(acis, document.cookie, YES+)
+google.*##+js(aeld, DOMContentLoaded, CONSENT)
+||consent.google.com^
+facebook.com##[aria-label*="Marketplace"]
+facebook.com##Sponsored
 consent.google.com
 consent.youtube.com
 co.uk.edgekey.net
