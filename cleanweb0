@@ -1,7 +1,3 @@
-dancu-holboca-iasi.cylex.ro##div:nth-of-type(6)
-valea-adanca.cylex.ro##div:nth-of-type(6)
-letcani.cylex.ro##div:nth-of-type(6)
-holboca.cylex.ro##div:nth-of-type(6)
 www.cylex.com.ve##div:nth-of-type(5)
 www.cylex.us.com##div:nth-of-type(6)
 www.cylex-uk.co.uk##div:nth-of-type(6)
@@ -27,6 +23,10 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+thedroidguy.com##.menu-item-1227802.menu-item-object-custom.menu-item-type-custom.menu-item
+www.songkick.com##div.col-3:nth-of-type(2) > ul > li:nth-of-type(8)
+www.gorillaz.com##.mobile-menu-footer > .copyright-links > span.link:nth-of-type(7)
+hunterspub.ro##.menu-item-1466.menu-item-object-page.menu-item-type-post_type.menu-item
 www.apavital.ro##.footer-bottom
 www.apavital.ro##.pojo-a11y-toolbar-toggle
 www.bzi.ro##.text-center > .menu > ul
@@ -469,172 +469,8 @@ www.dieoff.org##.age-verif-allow-buttons-button.age-verif-allow-buttons-no
 www.dieoff.org##.age-verif-caption
 adultgameson.com##.active.pos_right.w-toplink
 edition.cnn.com##.footer__links
-washagames.itch.io##.line
-washagames.itch.io##.formatted > p:nth-of-type(1)
-washagames.itch.io##.formatted > p:nth-of-type(2)
-washagames.itch.io##.base_widget.content_warning_widget
-shikashidev.itch.io##.formatted > p:nth-of-type(1)
-shikashidev.itch.io##.formatted > p:nth-of-type(2)
-shikashidev.itch.io##.line
-shikashidev.itch.io##.base_widget.content_warning_widget
-runeygames.itch.io##.line
-runeygames.itch.io##.formatted > p:nth-of-type(1)
-runeygames.itch.io##.formatted > p:nth-of-type(2)
-runeygames.itch.io##.base_widget.content_warning_widget
-caribdis.itch.io##.formatted > p:nth-of-type(2)
-caribdis.itch.io##.formatted > p:nth-of-type(1)
-caribdis.itch.io##.line > [href="https://itch.io/"]
-caribdis.itch.io##.line
-caribdis.itch.io##.base_widget.content_warning_widget
-thearcadean.itch.io##.formatted > p:nth-of-type(1)
-thearcadean.itch.io##.formatted > p:nth-of-type(2)
-thearcadean.itch.io##.line
-thearcadean.itch.io##.base_widget.content_warning_widget
-hotpink.itch.io##.formatted > p:nth-of-type(2)
-hotpink.itch.io##.formatted > p:nth-of-type(1)
-hotpink.itch.io##.base_widget.content_warning_widget
-hotpurple.itch.io##.base_widget.content_warning_widget
-hotwhite.itch.io##.base_widget.content_warning_widget
-hotgrey.itch.io##.base_widget.content_warning_widget
-hotblue.itch.io##.base_widget.content_warning_widget
-hotred.itch.io##.base_widget.content_warning_widget
-hotdark.itch.io##.base_widget.content_warning_widget
-hotblack.itch.io##.base_widget.content_warning_widget
-hotgreen.itch.io##.base_widget.content_warning_widget
-hotyellow.itch.io##.base_widget.content_warning_widget
-hotorange.itch.io##.base_widget.content_warning_widget
-hotbrown.itch.io##.base_widget.content_warning_widget
-kamuo.itch.io##.line
-kamuo.itch.io##.formatted > p:nth-of-type(1)
-kamuo.itch.io##.formatted > p:nth-of-type(2)
-kamuo.itch.io##.base_widget.content_warning_widget
-jestur.itch.io##.line
-jestur.itch.io##.formatzimoncoldres
-hestur.itch.io##.base_widget.content_warning_widget
-zimoncoldres.itch.io##.formatted > p:nth-of-type(1)
-zimoncoldres.itch.io##.formatted > p:nth-of-type(2)
-zimoncoldres.itch.io##.line
-zimoncoldres.itch.io##.base_widget.content_warning_widget
-zuneku-h-studio.itch.io##.formatted > p:nth-of-type(2)
-zuneku-h-studio.itch.io##.formatted > p:nth-of-type(1)
-zuneku-h-studio.itch.io##.line > [href="https://itch.io/"]
-zuneku-h-studio.itch.io##.line
-zuneku-h-studio.itch.io##.base_widget.content_warning_widget
-mofu.itch.io##.formatted > p:nth-of-type(1)
-mofu.itch.io##.formatted > p:nth-of-type(2)
-mofu.itch.io##.line
-mofu.itch.io##.base_widget.content_warning_widget
-incontinentcell.itch.io##.formatted > p:nth-of-type(1)
-incontinentcell.itch.io##.formatted > p:nth-of-type(2)
-incontinentcell.itch.io##.line
-incontimemtcell.itch.io##.base_widget.content_warning_widget
-shinlalala.itch.io##.formatted > p:nth-of-type(1)
-shinlalala.itch.io##.line
-shinlalala.itch.io##.formatted > p:nth-of-type(2)
-shinlalala.itch.io##.base_widget.content_warning_widget
-remo-wind.itch.io##.base_widget.content_warning_widget
-ncrow.itch.io##.base_widget.content_warning_widget
-indivi.itch.io##.formatted > p:nth-of-type(2)
-indivi.itch.io##.formatted > p:nth-of-type(1)
-indivi.itch.io##.line
-indivi.itch.io##.base_widget.content_warning_widget
-carrotscritters.itch.io##.base_widget.content_warning_widget
-cinswitch.itch.io##.base_widget.content_warning_widget
-pinkmochidango.itch.io##.base_widget.content_warning_widget
-pixelgamesx.itch.io##.base_widget.content_warning_widget
-outbreakgames.itch.io##.base_widget.content_warning_widget
-vimstudios.itch.io##.base_widget.content_warning_widget
-komisari.itch.io##.base_widget.content_warning_widget
-classy-lemon.itch.io##.base_widget.content_warning_widget
-ingeniusstudios.itch.io##.base_widget.content_warning_widget
-minoh.itch.io##.base_widget.content_warning_widget
-sirensdomain.itch.io##.base_widget.content_warning_widget
-momoirosoft.itch.io##.base_widget.content_warning_widget
-feyada.itch.io##.base_widget.content_warning_widget
-jestur.itch.io##.base_widget.content_warning_widget
-slim-games.itch.io##.base_widget.content_warning_widget
-dpmaker.itch.io##.base_widget.content_warning_widget
-itch.io##.base_widget.youtube_mobile_banner_widget
-dotartnsfw.itch.io##.base_widget.content_warning_widget
-dicpic-studio.itch.io##.base_widget.content_warning_widget
-astrokaen.itch.io##.base_widget.content_warning_widget
-kaitosi11.itch.io##.base_widget.content_warning_widget
-zuneku-h-studio.itch.io##.base_widget.content_warning_widget
-farmguy.itch.io##.base_widget.content_warning_widget
-mirthal.itch.io##.base_widget.content_warning_widget
-mofu.itch.io##.base_widget.content_warning_widget
-incontinentcell.itch.io##.base_widget.content_warning_widget
-juicyeliot.itch.io##.base_widget.content_warning_widget
-eroniverse.itch.io##.base_widget.content_warning_widget
-moraion.itch.io##.base_widget.content_warning_widget
-perverteer.itch.io##.base_widget.content_warning_widget
-carrotscritters.itch.io##.base_widget.content_warning_widget
-succumdev.itch.io##.base_widget.content_warning_widget
-young-and-naughty.itch.io##.base_widget.content_warning_widget
-indivi.itch.io##.base_widget.content_warning_widget
-vimstudios.itch.io##.base_widget.content_warning_widget
-pinkmochidango.itch.io##.base_widget.content_warning_widget
-pixelgamesx.itch.io##.base_widget.content_warning_widget
-st-hot-dog-king.itch.io##.base_widget.content_warning_widget
-nijukozo.itch.io##.base_widget.content_warning_widget
-story-anon.itch.io##.base_widget.content_warning_widget
-m-rabbit.itch.io##.base_widget.content_warning_widget
-395games.itch.io##.base_widget.content_warning_widget
-hatchet-games.itch.io##.base_widget.content_warning_widget
-fymm-game.itch.io##.base_widget.content_warning_widget
-dawn-chorus.itch.io##.base_widget.content_warning_widget
-cinswitch.itch.io##.base_widget.content_warning_widget
-4minutewarning.itch.io##.base_widget.content_warning_widget
-stawer.itch.io##.base_widget.content_warning_widget
-mrsilverlust.itch.io##.base_widget.content_warning_widget
-13leagues.itch.io##.base_widget.content_warning_widget
-furrgroup.itch.io##.base_widget.content_warning_widget
-flexiblemedia.itch.io##.base_widget.content_warning_widget
-salty-01.itch.io##.base_widget.content_warning_widget
-kredyn.itch.io##.base_widget.content_warning_widget
-akkasenpai.itch.io##.base_widget.content_warning_widget
-mikiraus.itch.io##.base_widget.content_warning_widget
-mister-rooster.itch.io##.base_widget.content_warning_widget
-nsfwclubgames.itch.io##.base_widget.content_warning_widget
-bohohon.itch.io##.base_widget.content_warning_widget
 itch.io##.footer
 itch.io##.base_widget.content_warning_widget
-veins.itch.io##.base_widget.content_warning_widget
-fouzi94.itch.io##.base_widget.content_warning_widget
-runeygames.itch.io##.base_widget.content_warning_widget
-zimoncoldres.itch.io##.base_widget.content_warning_widget
-ginkgost.itch.io##.base_widget.content_warning_widget
-moxieloaf.itch.io##.base_widget.content_warning_widget
-aura-dev.itch.io##.base_widget.content_warning_widget
-pachipoi.itch.io##.base_widget.content_warning_widget
-outbreakgames.itch.io##.base_widget.content_warning_widget
-eccma417.itch.io##.base_widget.content_warning_widget
-jennyvipham.itch.io##.base_widget.content_warning_widget
-devilsdad.itch.io##.base_widget.content_warning_widget
-airell.itch.io##.base_widget.content_warning_widget
-bokundev.itch.io##.base_widget.content_warning_widget
-ahegames.itch.io##.base_widget.content_warning_widget
-daraus.itch.io##.base_widget.content_warning_widget
-mrdracosaurus.itch.io##.base_widget.content_warning_widget
-arcaneplaza.itch.io##.base_widget.content_warning_widget
-dammitbird.itch.io##.base_widget.content_warning_widget
-kyrieru.itch.io##.base_widget.content_warning_widget
-hotpink.itch.io##.base_widget.content_warning_widget
-teamdeaddeer.itch.io##.base_widget.content_warning_widget
-redamz.itch.io##.base_widget.content_warning_widget
-vosmug.itch.io##.base_widget.content_warning_widget
-darx24.itch.io##.base_widget.content_warning_widget
-hentaiwriter.itch.io##.base_widget.content_warning_widget
-countmoxi.itch.io##.base_widget.content_warning_widget
-kiobe.itch.io##.base_widget.content_warning_widget
-luchetty.itch.io##.base_widget.content_warning_widget
-unusualfish.itch.io##.base_widget.content_warning_widget
-kosmic91.itch.io##.base_widget.content_warning_widget
-alecubicsoft.itch.io##.base_widget.content_warning_widget
-nonoplayer.itch.io##.base_widget.content_warning_widget
-kamuo.itch.io##.base_widget.content_warning_widget
-theodosius.itch.io##.base_widget.content_warning_widget
-quidev.itch.io##.base_widget.content_warning_widget
 static.doubleclick.net
 xgroovy.com##li.open-now:nth-of-type(1)
 xgroovy.com##[href="https://xgroovy.com/info/advertise/"]
