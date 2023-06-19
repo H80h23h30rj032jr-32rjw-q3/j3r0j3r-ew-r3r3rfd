@@ -22,6 +22,10 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+thedroidguy.com##.menu-item-1227802.menu-item-object-custom.menu-item-type-custom.menu-item
+www.songkick.com##div.col-3:nth-of-type(2) > ul > li:nth-of-type(8)
+www.gorillaz.com##.mobile-menu-footer > .copyright-links > span.link:nth-of-type(7)
+hunterspub.ro##.menu-item-1466.menu-item-object-page.menu-item-type-post_type.menu-item
 www.apavital.ro##.footer-bottom
 www.apavital.ro##.pojo-a11y-toolbar-toggle
 www.bzi.ro##.text-center > .menu > ul
