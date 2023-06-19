@@ -255,6 +255,22 @@ expressdebanat.ro##.qhgel647f799388ca1
 expressdebanat.ro###sidebar-wrapper
 expressdebanat.ro###advertise_widget-2817
 expressdebanat.ro###advertise_widget-1197
+facebook.com##[aria-label*="Marketplace"]
+google.*##[id^="eob_"]
+||accounts.google.com/gsi/*$xhr,script,3p
+! ||consent.google.com^
+www.google.*##^script:has-text(consentCookiePayload)
+www.google.*##+js(acis, document.cookie, YES+)
+google.*##+js(aeld, DOMContentLoaded, CONSENT)
+||consent.google.com^
+www.youtube.*##^script:has-text(consentCookiePayload)
+www.youtube.*##+js(acis, document.cookie, YES+)
+youtube.*##+js(aeld, DOMContentLoaded, CONSENT)
+||consent.youtube.com^
+www.yahoo.*##^script:has-text(consentCookiePayload)
+www.yahoo.*##+js(acis, document.cookie, YES+)
+yahoo.*##+js(aeld, DOMContentLoaded, CONSENT)
+||consent.yahoo.com^
 bannersnack.com
 buzzfeed.com
 gq.com
