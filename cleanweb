@@ -484,7 +484,6 @@ googletagmanager.com
 yourbestlandever.com
 d3qygewatvuv28.cloudfront.net
 quic://maxcdn.bootstrapcdn.com
-quic://fonts.gstatic.com
 ||stats.wp.com^
 ebxcdn.com
 adtlgc.com
@@ -1282,7 +1281,6 @@ jocurisiscoruri.com
 personverify.xyz
 kathesygri.com
 trafogon.com
-csi.gstatic.com
 appleid.cdn-apple.com
 tvqqrycnutpp.com
 qjidxgzfrpehem.com
@@ -1296,7 +1294,6 @@ star-mini.c10r.facebook.com
 yourbestlandever.com
 d3qygewatvuv28.cloudfront.net
 maxcdn.bootstrapcdn.com
-fonts.gstatic.com
 ||stats.wp.com^
 control.kochava.com
 kochava.com
@@ -1314,7 +1311,6 @@ securepubads.g.doubleclick.net
 imasdk.googleapis.com
 fundingchoicesmessages.google.com
 www.googletagmanager.com
-m.youtube.com##.yt-core-attributed-string__link--call-to-action-color.yt-core-attributed-string__link--display-type.yt-core-attributed-string__link
 rule34video.com##input.button:nth-of-type(2)
 rule34video.com##.heading_title
 www.cartoonpornvideos.com##.grow.py-1.modal-body
@@ -1546,7 +1542,6 @@ micromedica.ro##.menu-item-5256.menu-item-object-page.menu-item-type-post_type.m
 smartliving.ro##.footer-bottom
 m.youtube.com##.consent-bump-v2-lightbox-header-eom
 m.youtube.com##.consent-bump-v2-lightbox
-m.youtube.com##.icon-add_to_playlist.slim_video_action_bar_renderer_button
 www.xxxlutz.ro##._33HV8mOBeTLHDVcB
 consent.youtube.com##.a0gyw
 consent.youtube.com##.Qhg5gf
@@ -2981,7 +2976,6 @@ www.zdnet.com###onetrust-consent-sdk
 www.vox.com##.m-privacy-consent
 pureforsure.com##.cn-position-bottom.cookie-revoke-hidden.cookie-notice-hidden
 www.secure-d.io##.cookie-consent-banner
-www.youtube.com##ytd-popup-container.ytd-app.style-scope > .ytd-popup-container.style-scope
 www.mediafax.ro###footer
 www.zf.ro###ot-sdk-btn
 www.erasmusplus.ro###EMDE_cookies_warning_cont
@@ -4330,7 +4324,7 @@ www.marketwatch.com###sp_message_container_450644
 www.forbes.com###consent_blackbar
 www.barrons.com###sp_message_container_459650
 ||cdn.privacy-mgmt.com/index.html$subdocument
-||cdn.privacy-mgmt.com/index.html$subdocument
+||cdn.privacy-mgmt.com||
 www.thetimes.co.uk###sp_message_container_479077
 ||cdn.privacy-mgmt.com/index.html?message_id=364840&consentUUID=c7e636a5-53c0-4e2c-ada8-01bfd04a2b04&requestUUID=c2086953-e5a4-44e5-8c47-ec10eff1f302&preload_message=true$subdocument
 www.business-standard.com##.cookies-box
@@ -4703,10 +4697,7 @@ www.magazinitalian.ro##.gdpr_popup
 www.napofarm.ro##.fullwidth-notice.floated-icon.center-notice.header-notice
 fmcagro.ro##.active.cookiebar
 www.alegesanatos.ro###slideMenuM
-www.nutrivita.ro###footer
-www.nutrivita.ro###footer
-www.nestlebaby.ro###layer-popin
-www.nestlebaby.ro###layer
+www.nutrivita.ro###foot
 www.nestlebaby.ro###layer-popin
 www.nestlebaby.ro###layer
 m.click.ro##.optanon-toggle-display
