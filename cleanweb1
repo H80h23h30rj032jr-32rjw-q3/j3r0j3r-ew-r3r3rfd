@@ -140,6 +140,9 @@ m.youtube.com##DIV.companion-ad-body-container
 m.youtube.com##DIV.companion-ad-container
 m.youtube.com##YTM-COMPANION-SLOT.scwnr-content.single-column-watch-next-modern-panels[data-content-type='result']
 m.youtube.com##YTM-COMPANION-AD-RENDERER
+m.youtube.com##IMG#player-thumbnail-overlay
+m.youtube.com##ads
+m.youtube.com##consent
 www.blogger.com
 blogger.googleusercontent.com
 cdn.embed.ly
