@@ -134,6 +134,12 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+m.youtube.com##DIV#player-cinematics-container.player-cinematics
+m.youtube.com##DIV.player-size.player-placeholder
+m.youtube.com##DIV.companion-ad-body-container
+m.youtube.com##DIV.companion-ad-container
+m.youtube.com##YTM-COMPANION-SLOT.scwnr-content.single-column-watch-next-modern-panels[data-content-type='result']
+m.youtube.com##YTM-COMPANION-AD-RENDERER
 www.blogger.com
 blogger.googleusercontent.com
 cdn.embed.ly
