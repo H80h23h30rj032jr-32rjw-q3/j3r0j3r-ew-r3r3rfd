@@ -2118,6 +2118,8 @@ telem.ro###block-750
 telem.ro###block-800
 telem.ro###block-900
 telem.ro###block-1000
+telem.ro###block
+telem.ro###block-
 telem.ro##.aft-sticky-sidebar.widget-area
 www.vocearomilor.ro##.vl-header
 www.studio-l.online##tbody
@@ -4767,8 +4769,6 @@ cookie-script.com###cookiescript_injected
 secureprivacy.ai##.sp-banner-show.lower-cookie-banner
 ads-blocker.com##.top.widget_eu_cookie_law_widget.inner-padding.widget
 m.digi24.ro##.gdpr-iframe-fix.gdpr-social-media.gdpr-placeholder
-consent.youtube.com
-consent.google.com
 uefiscdi.gov.ro###athConsent
 www.antena3.ro##.body
 www.myfitnesspal.it##.jss120
@@ -4802,6 +4802,7 @@ www.google.com##.USRMqe
 rapidgator.net###cookie-dlg
 mega.io##div.fm-dialog-overlay:nth-of-type(141)
 mega.io##div.fm-dialog-overlay:nth-of-type(16)
+mega.io##div.fm-dialog-overlay:nth-of-type
 mega.io##.common-dialogs
 tor.stackexchange.com##.ff-sans.ps-fixed.z-nav-fixed.ws4.sm\:w-auto.p32.sm\:p16.bg-black-750.fc-white.bar-lg.b16.l16.r16.js-consent-banner
 support.google.com##[src*="https://ogs.google.com/widget/callout?prid=19022645&pgid=1151720448&puid=43a541cbad6c87d4&cce=1&bc=1&origin=https%3A%2F%2Fsupport.google.com&cn=callout&pid=117&spid=117&hl=en"]
@@ -13018,6 +13019,4 @@ tyrolia.at##body > form
 motorcycles-motorbikes.com###CQ
 nowtv.it##body > div:not([id]):not([class])[style*="fixed"], body > div:not([id]):not([class])[style*="absolute"]
 almaimotthona.hu##.aszfLayerText
-
-
 
