@@ -27,6 +27,19 @@ acookie.aliexpress.com
 pcookie.aliexpress.com
 click.aliexpress.com
 s.click.aliexpress.com
+www.reddit.com##.m-no.NSFWInterstitial__button
+www.xvideos.com###disclaimer-content > div:nth-of-type(1)
+www.xvideos.com###disclaimer-content > div:nth-of-type(2)
+www.esquire.com##.e1xh2s9r0.css-0
+www.esquire.com##.e1xh2s9r2.css-lqx6q4
+papusisex.ro##.no
+coveryourtracks.eff.org##.back-to
+myshadow.org##.anfooter.afooter
+cdn.privacy-mgmt.com
+privacy-mgmt.com
+cdn.onesignal.com
+static.doubleclick.net
+www.tomsguide.com###sp_message_container_822395
 www.sapteseri.ro###cookie-block
 www.sapteseri.ro##div.col-sm-4.col-xs-12:nth-of-type(3)
 www.sapteseri.ro##.main-footer.col-xs-12
@@ -574,7 +587,6 @@ cokiepro.org
 cookie-cdn.cookiepro.com
 criteo.com
 cxsense.com
-! ||consent.google.com^
 google.*##[id^="eob_"]
 ||accounts.google.com/gsi/*$xhr,script,3p
 www.google.*##^script:has-text(consentCookiePayload)
