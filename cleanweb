@@ -22,14 +22,14 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
-cdn.discordapp.com
-! ||discordapp.com||
-! ||discord.com||
-! ||discordapp.app||
-! ||discordapp.net||
-! ||discordapp.co||
-! ||discord.app||
-! ||discord.net||
+@@||cdn.discordapp.com
+@@||discordapp.com
+@@||discord.com
+@@||discordapp.app
+@@||discordapp.net
+@@||discordapp.co
+@@||discord.app
+@@||discord.net
 s1.wp.com
 againstdata.com##.overlap-100.start-5.bottom-5.position-fixed.shadow-soft-4.rounded-5.w-88.bg-dark
 againstdata.com##.pb-8.pt-4.justify-content-md-between.align-items-center.row
@@ -195,7 +195,6 @@ www.hotnews.ro##[href="/prelucrarea_datelor"] > .info
 www.hotnews.ro###div-sticky
 ||www.hotnews.ro/static/assets/logos/*g$image
 www.reddit.com##.m-no.NSFWInterstitial__button
-www.xvideos.com###disclaimer-content > div:nth-of-type(1)
 www.animesexdoll.net##.vas-actions
 www.animesexdoll.net###verify-age-main
 www.nakedoll.com##.btn-beta.btn
@@ -714,7 +713,6 @@ googletagmanager.com
 yourbestlandever.com
 d3qygewatvuv28.cloudfront.net
 quic://maxcdn.bootstrapcdn.com
-stats.wp.com
 ebxcdn.com
 adtlgc.com
 cxense.com
