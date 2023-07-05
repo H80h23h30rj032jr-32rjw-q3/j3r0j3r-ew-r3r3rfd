@@ -23,6 +23,14 @@ www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
 cdn.discordapp.com
+! discordapp.com
+! discord.com
+! discordapp.app
+! discordapp.net
+! discordapp.co
+! discord.app
+! discord.net
+s1.wp.com
 againstdata.com##.overlap-100.start-5.bottom-5.position-fixed.shadow-soft-4.rounded-5.w-88.bg-dark
 againstdata.com##.pb-8.pt-4.justify-content-md-between.align-items-center.row
 redactia.ro###post-21495 > .mrf-heightLocked.mrf-adv__wrapper--placeholder.mrf-adv__wrapper
@@ -700,7 +708,6 @@ adage.com
 adtlgc.com
 ad.mail.ru
 abc.xyz
-wp.com
 synocdn.com
 icorp.ro
 imasdk.googleapis.com
@@ -708,7 +715,7 @@ googletagmanager.com
 yourbestlandever.com
 d3qygewatvuv28.cloudfront.net
 quic://maxcdn.bootstrapcdn.com
-||stats.wp.com^
+stats.wp.com
 ebxcdn.com
 adtlgc.com
 cxense.com
@@ -759,6 +766,8 @@ ads.google.com
 ads.youtube.com
 ad.youtube.com
 youtubead.com
+adyoutube.com
+adsyoutube.com
 ad-youtube.com
 ads-youtube.com
 youtube-ad.com
@@ -830,6 +839,7 @@ sltube.org
 mail.tvmetr.ru
 tvmetr.ru
 static.doubleclick.com
+static.doubleclick.co
 static.doubleclick.net
 securepubads.g.doubleclick.net
 s.amazon-adsystem.com
@@ -968,7 +978,6 @@ zuzodoad.com
 marketingplatform.google.com
 1008691.com
 play.22topvideos.com
-www.youtube.com##.ytp-ce-element
 sportsmansclub.net
 stock888.cn
 tathli.com
@@ -1517,7 +1526,6 @@ star-mini.c10r.facebook.com
 yourbestlandever.com
 d3qygewatvuv28.cloudfront.net
 maxcdn.bootstrapcdn.com
-||stats.wp.com^
 control.kochava.com
 kochava.com
 xml-v4.trafficmoose.com
@@ -2736,8 +2744,6 @@ www.comisarul.ro###\31 6
 koaha.org##.main-wrapper
 www.wowbiz.ro##.menulist.nav > li.nav-item:nth-of-type(8)
 www.wowbiz.ro##body > div:nth-of-type(3)
-##.js_smartbanner.smartbanner--android.smartbanner
-##.smartbanner-android.smartbanner
 about.google###cookieBar
 aquaphor.com##.is-show.js-cookies.cookies
 aquaphor.com##.is-show.js-cookies.cookies
@@ -2944,8 +2950,6 @@ www.paginademedia.ro##.text-uppercase.list-inline > li:nth-of-type(2)
 www.paginademedia.ro###hai-sus
 www.paginademedia.ro##.text-uppercase.list-inline > li:nth-of-type(10)
 bucovinamedia.ro##.menu-item-16348.td-normal-menu.td-menu-item.menu-item-object-page.menu-item-type-post_type.menu-item > [href="https://bucovinamedia.ro/publicitate/"]
-##.js_smartbanner.smartbanner--android.smartbanner
-##.smartbanner-android.smartbanner
 about.google###cookieBar
 aquaphor.com##.is-show.js-cookies.cookies
 aquaphor.com##.is-show.js-cookies.cookies
@@ -3248,7 +3252,6 @@ www.furaffinity.net###cookie-notificationhttps://blog.thousandeyes.com
 blog.thousandeyes.com###pop-div005274250650429013
 blog.thousandeyes.com###pop-div208907635215274129
 www.opendemocracy.net##.cc-color-override-10616020.cc-bottom.cc-theme-edgeless.cc-type-info.cc-floating.cc-window
-https://weedmaps.com
 weedmaps.com##.coToAz.cookie-banner__BannerContainer-w3t5xo-0
 tech.co##.consent-show.consent-holder
 quotes.tech.co###cookie-policy-bar
@@ -4093,8 +4096,6 @@ www.ambient.ro###gdps_container_55
 hhtotal.ro##.w3-highway-green.w3-padding.w3-center.w3-bar
 hhtotal.ro##.w3-display-container.w3-bottom.w3-highway-blue.w3-panel
 www.isomat.ro###gdpr-container-background-fixed
-##.js_smartbanner.smartbanner--android.smartbanner
-##.smartbanner-android.smartbanner
 about.google###cookieBar
 aquaphor.com##.is-show.js-cookies.cookies
 www.nirsoft.net/utils/chrome_cookies_view.html
