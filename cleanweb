@@ -22,14 +22,14 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
-||cdn.discordapp.com
-||discordapp.com
-||discord.com
-||discordapp.app
-||discordapp.net
-||discordapp.co
-||discord.app
-||discord.net
+||cdn.discordapp.com^
+||discordapp.com^
+||discord.com^
+||discordapp.app^
+||discordapp.net^
+||discordapp.co^
+||discord.app^
+||discord.net^
 againstdata.com##.overlap-100.start-5.bottom-5.position-fixed.shadow-soft-4.rounded-5.w-88.bg-dark
 againstdata.com##.pb-8.pt-4.justify-content-md-between.align-items-center.row
 redactia.ro###post-21495 > .mrf-heightLocked.mrf-adv__wrapper--placeholder.mrf-adv__wrapper
@@ -229,6 +229,7 @@ www.googleadservices.com
 snap.licdn.com
 connect.facebook.net
 static.ads-twitter.com
+static.twimg.com
 bat.bing.com
 www.clarity.ms
 tracking.g2crowd.com
@@ -2613,12 +2614,6 @@ www.hentaiarea.com###disclaimer
 hentaigames.app##.h3.text-primary.text-center
 hentaigames.app##.modal-body > p.text-center:nth-of-type(1)
 adultgamesworld.com###slideApple
-www.xvideos.com###disclaimer-over18
-www.xvideos.com###disclaimer-top
-www.xvideos.com##.disclaimer-enter-gay.btn-primary.btn
-www.xvideos.com##.disclaimer-enter-shemale.btn-primary.btn
-www.xvideos.com##strong
-www.xvideos.com###disclaimer-warning-p
 xhamster.com##.mobile.cookies-modal
 xhamster.com##.parental-bg
 xhamster.com##.square.large2.green.cmd-button-accept-all.button.xh-button
@@ -2631,12 +2626,6 @@ spankbang.porn##a.parents:nth-of-type(1)
 spankbang.porn###age_check_no
 spankbang.porn##.modal > h2
 spankbang.porn###age_check
-www.xvideos.com##.disclaimer-enter-shemale.btn-primary.btn
-www.xvideos.com##.disclaimer-enter-gay.btn-primary.btn
-www.xvideos.com###disclaimer-warning-p
-www.xvideos.com##strong
-www.xvideos.com###disclaimer-over18
-www.xvideos.com##.disclaimer-enter
 bestfreetube.porn###fltd
 www.dlsite.com##.btn-withdraw.btn_no
 www.dlsite.com##.check_top > p:nth-of-type(1)
@@ -3289,9 +3278,6 @@ papusisex.ro##.no
 papusisex.ro##.avwp-av > h2
 papusisex.ro##.avwp-av-overlay
 papusisex.ro##.avwp-av
-www.xvideos.com##.btn-primary.btn
-www.xvideos.com###disclaimer-content > div:nth-of-type(2)
-www.xvideos.com###disclaimer-cookies-p
 www.fuq.com##.grow.py-1.modal-body
 www.fuq.com##.text-center.mt-4.modal-footer > .mt-4
 www.fuq.com##.show.scroll-top-btn
@@ -4522,7 +4508,6 @@ yve.ro##.penci-wrap-gprd-law
 www.viva.ro###ot-sdk-btn
 www.libertateapentrufemei.ro###ot-sdk-btn
 www.omgubuntu.co.uk##.is-active.CookieWarning
-consent.yahoo.com
 www.lifewire.com##.ot-fade-in.onetrust-pc-dark-filter
 www.lifewire.com###onetrust-consent-sdk
 wiki.manjaro.org##.banner-container.mw-cookiewarning-container
