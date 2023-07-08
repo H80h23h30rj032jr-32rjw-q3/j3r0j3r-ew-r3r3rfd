@@ -47,6 +47,10 @@ www.xvideos.com##.disclaimer-enter-gay.btn-primary.btn
 www.xvideos.com###disclaimer-accept_cookies
 www.xvideos.com##.btn-primary.btn
 www.xvideos.com###disclaimer-content > div:nth-of-type(2)
+www.xvideos.com##[href="https://info.xvideos.net/parents/"]
+info.xvideo.net##^responseheader(set-cookie)    
+info.xvideo.net##+js(cookie-remover, CONSENT)
+info.xvideos.net
 www.qbebe.ro##body > .ros
 www.qbebe.ro##article > .billboard
 www.qbebe.ro##.billboard > div
