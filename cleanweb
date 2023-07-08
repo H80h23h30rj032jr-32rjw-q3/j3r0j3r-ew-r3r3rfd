@@ -34,6 +34,9 @@ yahoo.com##^responseheader(set-cookie)
 yahoo.com##+js(cookie-remover, CONSENT)
 consent.yahoo.com##^responseheader(set-cookie)    
 consent.yahoo.com##+js(cookie-remover, CONSENT)
+www.xvideos.com###disclaimer_background
+||cdn77-pic.xvideos-cdn.com/videos/thumbs169l/1e/b1/f7/1eb1f72b1f82635f89897ce31f5e2f10/1eb1f72b1f82635f89897ce31f5e2f10.14.jpg$image
+consent.youtube.com##.w5himb.FCY2lb > .lssxud
 ||cdn.discordapp.com^
 ||discordapp.com^
 ||discord.com^
@@ -42,12 +45,7 @@ consent.yahoo.com##+js(cookie-remover, CONSENT)
 ||discordapp.co^
 ||discord.app^
 ||discord.net^
-www.xvideos.com##.disclaimer-enter-shemale.btn-primary.btn
-www.xvideos.com##.disclaimer-enter-gay.btn-primary.btn
-www.xvideos.com###disclaimer-accept_cookies
-www.xvideos.com##.btn-primary.btn
-www.xvideos.com###disclaimer-content > div:nth-of-type(2)
-www.xvideos.com##[href="https://info.xvideos.net/parents/"]
+www.xvideos.com##.disclaimer
 info.xvideo.net##^responseheader(set-cookie)    
 info.xvideo.net##+js(cookie-remover, CONSENT)
 info.xvideos.net
