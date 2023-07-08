@@ -152,6 +152,11 @@ m.youtube.com##YTM-COMPANION-AD-RENDERER
 m.youtube.com##IMG#player-thumbnail-overlay
 m.youtube.com##ads
 m.youtube.com##consent
+www.xvideos.com##.disclaimer-enter-shemale.btn-primary.btn
+www.xvideos.com##.disclaimer-enter-gay.btn-primary.btn
+www.xvideos.com###disclaimer-accept_cookies
+www.xvideos.com##.btn-primary.btn
+www.xvideos.com###disclaimer-content > div:nth-of-type(2)
 cdn.discordapp.com
 www.qbebe.ro##body > .ros
 www.qbebe.ro##article > .billboard
