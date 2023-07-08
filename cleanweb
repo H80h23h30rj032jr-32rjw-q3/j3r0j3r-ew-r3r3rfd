@@ -37,6 +37,17 @@ consent.yahoo.com##+js(cookie-remover, CONSENT)
 www.xvideos.com###disclaimer_background
 ||cdn77-pic.xvideos-cdn.com/videos/thumbs169l/1e/b1/f7/1eb1f72b1f82635f89897ce31f5e2f10/1eb1f72b1f82635f89897ce31f5e2f10.14.jpg$image
 consent.youtube.com##.w5himb.FCY2lb > .lssxud
+m.youtube.com##.consent-bump-
+m.youtube.com##.dialog-topbar
+m.youtube.com##.dialog-body-eom
+m.youtube.com##.eom-accept
+m.youtube.com##.privacy-terms
+m.youtube.com##.eom-customize
+m.youtube.com##.show-more-container
+consent.youtube.com##.a0gyw
+consent.youtube.com##.Qhg5gf
+consent.youtube.com##.w5himb.FCY2lb > form:nth-of-type(1)
+consent.youtube.com##.G4njw > .rjfsgd
 ||cdn.discordapp.com^
 ||discordapp.com^
 ||discord.com^
