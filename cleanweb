@@ -42,6 +42,11 @@ consent.yahoo.com##+js(cookie-remover, CONSENT)
 ||discordapp.co^
 ||discord.app^
 ||discord.net^
+www.xvideos.com##.disclaimer-enter-shemale.btn-primary.btn
+www.xvideos.com##.disclaimer-enter-gay.btn-primary.btn
+www.xvideos.com###disclaimer-accept_cookies
+www.xvideos.com##.btn-primary.btn
+www.xvideos.com###disclaimer-content > div:nth-of-type(2)
 www.xvideos.com##[href="https://info.xvideos.net/parents/"]
 www.qbebe.ro##body > .ros
 www.qbebe.ro##article > .billboard
