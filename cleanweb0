@@ -34,6 +34,14 @@ yahoo.com##^responseheader(set-cookie)
 yahoo.com##+js(cookie-remover, CONSENT)
 consent.yahoo.com##^responseheader(set-cookie)    
 consent.yahoo.com##+js(cookie-remover, CONSENT)
+www.howtogeek.com##.fLZgds.Button__StyledButton-a1qza5-0
+www.gizmochina.com###cookie-law-info-again
+www.gizmochina.com##.td-scroll-up-visible.td-scroll-up
+www.tenorshare.com##.overflow-hidden.dev-mobile
+www.howtogeek.com##section.huviBA.Frame-sc-1d4hofp-0
+www.howtogeek.com##.fUDRbG.Frame-sc-1d4hofp-0
+www.howtogeek.com###_5ej0WRhf > path:nth-of-type(3)
+www.howtogeek.com##.s7_0LvVr.c8SND4df
 xanimu.com###dclm_modal_content_wrapper > p
 xanimu.com###dclm_modal_content_wrapper > nav > ul > li:nth-of-type(2)
 xanimu.com##.warn-detect-c
@@ -465,8 +473,6 @@ expressdebanat.ro###sidebar-wrapper
 expressdebanat.ro###advertise_widget-2817
 expressdebanat.ro###advertise_widget-1197
 facebook.com##[aria-label*="Marketplace"]
-google.*##[id^="eob_"]
-||accounts.google.com/gsi/*$xhr,script,3p
 www.google.*##^script:has-text(consentCookiePayload)
 www.google.*##+js(acis, document.cookie, YES+)
 google.*##+js(aeld, DOMContentLoaded, CONSENT)
