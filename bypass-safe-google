@@ -1,0 +1,36 @@
+
+
+    // ==UserScript==
+    // @name        Google Disable SafeSearch automatically
+    // @description Disable Google SafeSearch automatically
+    // @namespace   Mikhoul
+    // @include     https://*.google.*/search*
+    // @include     https://*.google.*/imgres*
+    // @include     https://duckduckgo.com/*
+    // @include     https://*.duckduckgo.com/search*
+    // @version     1.01
+    // @grant       none
+    // @namespace   karasiq
+    // ==/UserScript==
+    var url = window.location.href;
+    var safe = "&safe=off";
+    if(url.indexOf(safe) == -1){
+      url += safe;
+      window.location = url;
+    }
+
+
+
+    function duckduckgoDisableSafeSearch() {
+      var button = document.querySelector("div.dropdown--safe-search a");
+      if (button && button.text.contains("Strict")) {
+        button.click();
+        var offButton = document.querySelector("div.modal--dropdown--safe-search a[data-value='-2']");
+        if (offButton) offButton.click();
+      }
+    }
+
+    if (document && document.addEventListener) {
+      document.addEventListener("DOMContentLoaded", duckduckgoDisableSafeSearch, false);
+    }
+
