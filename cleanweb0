@@ -42,6 +42,16 @@ www.howtogeek.com##section.huviBA.Frame-sc-1d4hofp-0
 www.howtogeek.com##.fUDRbG.Frame-sc-1d4hofp-0
 www.howtogeek.com###_5ej0WRhf > path:nth-of-type(3)
 www.howtogeek.com##.s7_0LvVr.c8SND4df
+www.howtogeek.com##.fNttYA.bngVoi.a__sc-3vtlsk-3.Card__CardFooter-sc-1s2p2gv-3
+www.howtogeek.com##section.huviBA.Frame-sc-1d4hofp-0
+www.howtogeek.com##.fLZgds.Button__StyledButton-a1qza5-0
+www.howtogeek.com##[href^="https://getadmiral.com/pb/"] > svg
+www.howtogeek.com##[href^="https://getadmiral.com/pb/"]
+www.howtogeek.com##p.bhkuoz.Text-azid7f-0:nth-of-type(2)
+www.howtogeek.com##p.bhkuoz.Text-azid7f-0:nth-of-type(1)
+www.howtogeek.com##.ccdgWR.cXghWF.a__sc-3vtlsk-2.Card__CardBody-sc-1s2p2gv-2
+xvideo.net##^responseheader(set-cookie)    
+xvideo.net##+js(cookie-remover, CONSENT)
 xanimu.com###dclm_modal_content_wrapper > p
 xanimu.com###dclm_modal_content_wrapper > nav > ul > li:nth-of-type(2)
 xanimu.com##.warn-detect-c
