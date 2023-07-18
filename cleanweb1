@@ -152,6 +152,22 @@ m.youtube.com##YTM-COMPANION-AD-RENDERER
 m.youtube.com##IMG#player-thumbnail-overlay
 m.youtube.com##ads
 m.youtube.com##consent
+xanimu.com###dclm_modal_content_wrapper > p
+xanimu.com###dclm_modal_content_wrapper > nav > ul > li:nth-of-type(2)
+xanimu.com##.warn-detect-c
+www.pornhub.com###footerMenu_advertising
+www.pornhub.com##li:nth-of-type(4) > .footerLinksVisible.footerInfoContent > a.infoAnchor:nth-of-type(5)
+hentai.tv##section:nth-of-type(3) > .group > li:nth-of-type(5)
+hentai.tv##.scale-100.z-40.m-1.border-0.text-xl.rounded-full.p-2.transition.transform.bottom-3.right-3.btn.bg-gold-500.fixed.bktp
+hentaidude.com###back2Top
+nhentai.net###challenge-error-title
+xhamster.com##div.footer-column.footer__column:nth-of-type(3)
+www.eporner.com###admobilefoot
+henti.mobi##.active.go-to-top
+www.redtube.com##li.footer_links_item:nth-of-type(9)
+hentai2w.com##footer
+hentai2w.com###scrollUp
+nakedteens.fun##.foot
 www.xvideos.com##.disclaimer-enter-shemale.btn-primary.btn
 www.xvideos.com##.disclaimer-enter-gay.btn-primary.btn
 www.xvideos.com###disclaimer-accept_cookies
