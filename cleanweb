@@ -64,6 +64,14 @@ www.redtube.com##li.footer_links_item:nth-of-type(9)
 hentai2w.com##footer
 hentai2w.com###scrollUp
 nakedteens.fun##.foot
+www.howtogeek.com##.fLZgds.Button__StyledButton-a1qza5-0
+www.gizmochina.com###cookie-law-info-again
+www.gizmochina.com##.td-scroll-up-visible.td-scroll-up
+www.tenorshare.com##.overflow-hidden.dev-mobile
+www.howtogeek.com##section.huviBA.Frame-sc-1d4hofp-0
+www.howtogeek.com##.fUDRbG.Frame-sc-1d4hofp-0
+www.howtogeek.com###_5ej0WRhf > path:nth-of-type(3)
+www.howtogeek.com##.s7_0LvVr.c8SND4df
 ||cdn.discordapp.com^
 ||discordapp.com^
 ||discord.com^
@@ -292,11 +300,9 @@ automizely-analytics.com
 static.cloudflareinsights.com
 www.googletagmanager.com
 ws.zoominfo.com
-accounts.google.com
 www.google-analytics.com
 www.googleadservices.com
 snap.licdn.com
-connect.facebook.net
 static.ads-twitter.com
 static.twimg.com
 bat.bing.com
@@ -877,6 +883,8 @@ www.acezip.net
 bbc.gscontxt.net
 bypassadblock.com
 bypassadblock.org
+bylassadblock.co
+bypassadblock.net
 b.cdnst.net
 cdn.cookielaw.org
 cookielaw.org
@@ -889,8 +897,6 @@ cokiepro.org
 cookie-cdn.cookiepro.com
 criteo.com
 cxsense.com
-google.*##[id^="eob_"]
-||accounts.google.com/gsi/*$xhr,script,3p
 www.google.*##^script:has-text(consentCookiePayload)
 www.google.*##+js(acis, document.cookie, YES+)
 google.*##+js(aeld, DOMContentLoaded, CONSENT)
@@ -914,7 +920,6 @@ doubleclick.net
 www.gstatic.vom
 gstatic.vom
 graph.facebook.com
-googleleadservices.com
 googlesyndication.com
 googleads.g.doubleclick.net
 sltube.org
