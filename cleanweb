@@ -22,6 +22,7 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+tvron.net###gdpr
 youtube.com##^responseheader(set-cookie)    
 youtube.com##+js(cookie-remover, CONSENT)
 consent.youtube.com##^responseheader(set-cookie)    
