@@ -1,3 +1,57 @@
+Firefox shield:
+17982773 q2
+toolkit.telemetry.coverage.opt-out (?)
+browser.privatebrowsing.autostart (true)
+browser.vpn_promo.enabled (false)
+privacy.trackingprotection.enabled
+privacy.trackingprotection.pbmode.enabled
+browser.tab.animate (false)
+browser.panorama.animate_zoom (false)
+network.dns.disablePrefetch (true)
+network.prefetch-next (false)
+Change network.http.speculative-parallel-limit to 0
+devtools.onboarding.telemetry.logged = false
+toolkit.telemetry.updatePing.enabled = false
+browser.newtabpage.activity-stream.feeds.telemetry = false
+browser.newtabpage.activity-stream.telemetry = false
+browser.ping-centre.telemetry = false toolkit.telemetry.bhrPing.enabled = false toolkit.telemetry.enabled = false toolkit.telemetry.firstShutdownPing.enabled = false toolkit.telemetry.hybridContent.enabled = false toolkit.telemetry.newProfilePing.enabled = false toolkit.telemetry.reportingpolicy.firstRun = false toolkit.telemetry.shutdownPingSender.enabled = false
+toolkit.telemetry.unified = false toolkit.telemetry.updatePing.enabled = false toolkit.telemetry.reportingpolicy.firstRun = false
+toolkit.telemetry.unified = false toolkit.telemetry.archive.enabled = false devtools.onboarding.telemetry.logged = false
+toolkit.telemetry.bhrPing.enabled = false datareporting.healthreport.uploadEnabled = false datareporting.policy.dataSubmissionEnabled = false datareporting.sessions.current.clean = true datareporting.healthreport.uploadEnabled = false datareporting.policy.dataSubmissionEnabled = false datareporting.sessions.current.clean = true
+browser.newtabpage.activity-stream.feeds.telemetry
+browser.newtabpage.activity-stream.telemetry
+browser.ping-centre.telemetry
+toolkit.telemetry.archive.enabled
+toolkit.telemetry.bhrPing.enabled
+toolkit.telemetry.enabled
+toolkit.telemetry.firstShutdownPing.enabled
+toolkit.telemetry.hybridContent.enabled
+toolkit.telemetry.newProfilePing.enabled
+toolkit.telemetry.reportingpolicy.firstRun
+toolkit.telemetry.shutdownPingSender.enabled
+toolkit.telemetry.unified
+toolkit.telemetry.updatePing.enabled
+
+false:
+experiments.activeExperiment
+experiments.enabled
+experiments.supported
+network.allow-experiments
+
+about:preferences#privacy
+
+create & enable(true):
+toolkit.telemetry.coverage.opt-out
+
+cookiebanners.service.mode and/or cookiebanners.service.mode.privateBrowsing to either 1 (rejects all cookies if possible, otherwise does nothing) or 2 (rejects all cookies if possible...)
+
+You can set 'cookiebanners.ui.desktop.enabled' = 'true' A new option is visible under settings - security.
+
+on/off = value '1' for 'cookiebanners.service.mode' & 'cookiebanners.service.mode.privateBrowsing'
+
+
+https://greasyfork.org/scripts/460680-youtube-tools-all-in-one-local-download-mp3-mp4-higt-quality-return-dislikes-and-more/code/Youtube%20Tools%20All%20in%20one%20local%20download%20mp3%20mp4%20HIGT%20QUALITY%20return%20dislikes%20and%20more.user.js
+
 https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt (!!!)
 https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt (!!!)
 https://raw.githubusercontent.com/Rudloff/adblock-imokwithcookies/master/filters.txt    (!!!)
