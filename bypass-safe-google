@@ -30,7 +30,7 @@
 
     function duckduckgoDisableSafeSearch() {
       var button = document.querySelector("div.dropdown--safe-search a");
-      if (button && button.text.contains("Strict")) {
+      if (button && button.text.contains("Moderate")) {
         button.click();
         var offButton = document.querySelector("div.modal--dropdown--safe-search a[data-value='-2']");
         if (offButton) offButton.click();
