@@ -49,6 +49,7 @@ consent.youtube.com##.a0gyw
 consent.youtube.com##.Qhg5gf
 consent.youtube.com##.w5himb.FCY2lb > form:nth-of-type(1)
 consent.youtube.com##.G4njw > .rjfsgd
+appuals.com##.show-top-button.go-to-top-button
 xanimu.com###dclm_modal_content_wrapper > p
 xanimu.com###dclm_modal_content_wrapper > nav > ul > li:nth-of-type(2)
 xanimu.com##.warn-detect-c
@@ -938,11 +939,8 @@ cxsense.com
 www.google.*##^script:has-text(consentCookiePayload)
 www.google.*##+js(acis, document.cookie, YES+)
 google.*##+js(aeld, DOMContentLoaded, CONSENT)
-||consent.google.com^
 facebook.com##[aria-label*="Marketplace"]
 facebook.com##Sponsored
-consent.google.com
-consent.youtube.com
 co.uk.edgekey.net
 cdn.optimizely.com
 cumm.top
