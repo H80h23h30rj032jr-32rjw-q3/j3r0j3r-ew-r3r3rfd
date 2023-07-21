@@ -8,8 +8,7 @@
     // @include     https://*.google.*/imgres*
     // @include     https://duckduckgo.com/imgres*
     // @include     https://duckduckgo.com/search*
-                    https://duckduckgo.com/?q=*&t=fpas&ia=answer
-    // @include     https://duckduckgo.com/?q=*&t=fpas&ia=web
+    // @include     https://duckduckgo.com/?q=&t=fpas
     // @include     https://bing.*/imgres*
     // @include     https://bing.*/search*
     // @include     https://www.bing.com/search?q=*&form=QBLH&sp=-1&ghc=1&lq=0&pq=porn&sc=10-4&qs=n&sk=&cvid=D26ED5C80C874851B80A233A20C725E7&ghsh=0&ghacc=0&ghpl=
