@@ -4,8 +4,9 @@
 // @version      0.1.3
 // @description  Set off safesearch on Bing, DuckDuckGo, Yep, You, Yahoo, Ecosia, Qwant, Metager, Startpage, brave
 // @author       You
-// @match        https://*.google.*/search*
-// @match        https://*.google.*/imgres*
+
+// @include        https://*.google.*/search*
+// @include        https://*.google.*/imgres*
 // @match        https://www.bing.com/search?*
 // @match        https://www.bing.com/images/search?*
 // @match        https://www.bing.com/videos/search?*
