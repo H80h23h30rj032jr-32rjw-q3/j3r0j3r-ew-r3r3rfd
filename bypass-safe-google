@@ -8,6 +8,7 @@
     // @include     https://*.google.*/imgres*
     // @include     https://duckduckgo.com/imgres*
     // @include     https://duckduckgo.com/search*
+                    https://duckduckgo.com/?q=*&t=fpas&ia=answer
     // @include     https://duckduckgo.com/?q=*&t=fpas&ia=web
     // @include     https://bing.*/imgres*
     // @include     https://bing.*/search*
