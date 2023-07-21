@@ -4,6 +4,8 @@
 // @version      0.1.3
 // @description  Set off safesearch on Bing, DuckDuckGo, Yep, You, Yahoo, Ecosia, Qwant, Metager, Startpage, brave
 // @author       You
+// @match        https://*.google.*/search*
+// @match        https://*.google.*/imgres*
 // @match        https://www.bing.com/search?*
 // @match        https://www.bing.com/images/search?*
 // @match        https://www.bing.com/videos/search?*
@@ -20,7 +22,15 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bing.com
 // @grant        none
 // @run-at       document-start
+// @version     1.01
+
 // ==/UserScript==
+    var url = window.location.href;
+    var safe = "&safe=off";
+    if(url.indexOf(safe) == -1){
+      url += safe;
+      window.location = url;
+    }
 
 (function() {
     'use strict';
