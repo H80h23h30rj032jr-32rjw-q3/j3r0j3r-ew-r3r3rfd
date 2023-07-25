@@ -34,6 +34,9 @@ yahoo.com##^responseheader(set-cookie)
 yahoo.com##+js(cookie-remover, CONSENT)
 consent.yahoo.com##^responseheader(set-cookie)    
 consent.yahoo.com##+js(cookie-remover, CONSENT)
+consent.yahoo.com###consent-text
+consent.yahoo.com##._yb_1ool5._yb_b9sct
+||gothub.com
 appuals.com##.show-top-button.go-to-top-button
 www.ionos.com##.btn-top.btn
 www.computerhope.com###tt
