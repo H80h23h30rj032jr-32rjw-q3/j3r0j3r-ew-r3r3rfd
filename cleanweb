@@ -35,6 +35,44 @@ yahoo.com##^responseheader(set-cookie)
 yahoo.com##+js(cookie-remover, CONSENT)
 consent.yahoo.com##^responseheader(set-cookie)    
 consent.yahoo.com##+js(cookie-remover, CONSENT)
+consent.google.com##.contentText
+consent.google.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .searchButton.button.basebutton
+consent.google.com##.customButtonContainer
+google.com##.contentText
+google.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .searchButton.button.basebutton
+google.com##.customButtonContainer
+||accounts.google.com/gsi/iframe/select?client_id=705819728788-b2c1kcs7tst3b7ghv7at0hkqmtc68ckl.apps.googleusercontent.com&auto_select=true&ux_mode=popup&ui_mode=bottom_sheet&as=D1paZgCTX%2FhZs7xpbkK8kA&is_itp=true&channel_id=10e4d4d2a4f6615545cfe38e77b2c5fc6144276157e2b1b12fc65f75f3d66e4a&origin=https%3A%2F%2Fwww.reddit.com$subdocument
+||accounts.google.com/gsi/iframe/select$subdocument
+consent.yahoo.com##.accept-all.secondary.btn
+consent.yahoo.com##div.content-section:nth-of-type(2)
+consent.yahoo.com##.manage-settings.mng-btn.secondary.btn
+www.yahoo.com##.List\(n\).Colmc\(2\).Pb\(10px\).P\(0\).Mt\(32px\).Mx\(0\)
+www.yahoo.com##.lw-nav-open_D\(n\).uh-mobile-nav-open_D\(n\).SideSlot-open_D\(n\).W\(100\%\).Cl\(b\).YDC-Bottom
+www.google.com##[href="/intl/ro/ads"]
+www.google.com##div.VfXErd:nth-of-type(3)
+www.google.com###gws-output-pages-elements-homepage_additional_languages__als
+www.google.at###pushdown
+www.google.be###pushdown
+www.google.co.uk###pushdown
+www.google.com###pushdown
+www.google.cz###pushdown
+www.google.de###pushdown
+www.google.es###pushdown
+www.google.fr###pushdown
+www.google.gr###pushdown
+www.google.ie###pushdown
+www.google.it###pushdown
+www.google.nl###pushdown
+www.google.pl###pushdown
+www.google.pt###pushdown
+www.google.ru###pushdown
+www.google.si###pushdown
+google.com##[class="gb_hb gb_kb gb_xa"]
+google.com##[class="gb_ib gb_lb gb_ya"]
+google.dk##.fbar
+www.google.com##.USRMqe
+www.google.com##.cookie-section
+www.google.com##.cookie-section
 www.xvideos.com###disclaimer_background
 ||cdn77-pic.xvideos-cdn.com/videos/thumbs169l/1e/b1/f7/1eb1f72b1f82635f89897ce31f5e2f10/1eb1f72b1f82635f89897ce31f5e2f10.14.jpg$image
 consent.youtube.com##.w5himb.FCY2lb > .lssxud
@@ -2068,8 +2106,6 @@ www.lexology.com##.toTopBtn
 www.lexology.com##div.col-md-2:nth-of-type(4)
 www.freeprivacypolicy.com##.footer-legal
 www.freeprivacypolicy.com###back_to_top_button
-consent.yahoo.com##.wizard-header
-consent.yahoo.com##.first.content-section
 techcrunch.com##li.menu__item--no-click.menu__item--has-submenu.menu__item:nth-of-type(1) > .menu__submenu.menu
 techcrunch.com##.site-footer
 worldpostalcode.com##.scroll
@@ -2187,14 +2223,6 @@ www.dailymotion.com##.Overlay__containerActive___2te0I.Overlay__container___2Tqt
 www.dailymotion.com##li.FooterPrimaryList__listItem___1E4c_:nth-of-type(5)
 www.dailymotion.com##li.FooterSecondaryList__listItem___3xG_z:nth-of-type(2)
 www.dailymotion.com##.consentNotGiven.FooterLink__link___1j0-3
-consent.yahoo.com##.accept-all.secondary.btn
-consent.yahoo.com##div.content-section:nth-of-type(2)
-consent.yahoo.com##.manage-settings.mng-btn.secondary.btn
-www.yahoo.com##.List\(n\).Colmc\(2\).Pb\(10px\).P\(0\).Mt\(32px\).Mx\(0\)
-www.yahoo.com##.lw-nav-open_D\(n\).uh-mobile-nav-open_D\(n\).SideSlot-open_D\(n\).W\(100\%\).Cl\(b\).YDC-Bottom
-www.google.com##[href="/intl/ro/ads"]
-www.google.com##div.VfXErd:nth-of-type(3)
-www.google.com###gws-output-pages-elements-homepage_additional_languages__als
 www.janssen.com##.block--nodeblock-6679.block--nodeblock.block
 www.janssen.com##.block--nodeblock-81.block--nodeblock.block
 snspa.ro##.wh-footer.cbp-row
@@ -2570,8 +2598,6 @@ www.cnil.fr##.menu-footer-policy > ul > li:nth-of-type(7)
 www.cnil.fr##.menu-footer-policy > ul > li:nth-of-type(4)
 maggotpolity.com
 www.highrevenuegate.com
-||accounts.google.com/gsi/iframe/select?client_id=705819728788-b2c1kcs7tst3b7ghv7at0hkqmtc68ckl.apps.googleusercontent.com&auto_select=true&ux_mode=popup&ui_mode=bottom_sheet&as=D1paZgCTX%2FhZs7xpbkK8kA&is_itp=true&channel_id=10e4d4d2a4f6615545cfe38e77b2c5fc6144276157e2b1b12fc65f75f3d66e4a&origin=https%3A%2F%2Fwww.reddit.com$subdocument
-||accounts.google.com/gsi/iframe/select$subdocument
 www.reddit.com###credential_picker_iframe
 m.mediafax.ro##.thumb_list > div:nth-of-type(10)
 m.mediafax.ro##.thumb_list > div:nth-of-type(7)
@@ -2861,12 +2887,6 @@ about.google###cookieBar
 aquaphor.com##.is-show.js-cookies.cookies
 aquaphor.com##.is-show.js-cookies.cookies
 www.nirsoft.net/utils/chrome_cookies_view.html
-consent.google.com##.contentText
-consent.google.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .searchButton.button.basebutton
-consent.google.com##.customButtonContainer
-google.com##.contentText
-google.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .searchButton.button.basebutton
-google.com##.customButtonContainer
 amazinghiring.com##footer
 www.camere-ascunse.ro##.whatsappfloat
 www.andreeatrandafirescu.ro###toTop
@@ -3068,8 +3088,6 @@ redesteptarea.ro###cookie-law-info-bar
 www.sun-plaza.ro##.gdpr-body
 www.sun-plaza.ro##.gdpr_bg
 www.sun-plaza.ro##div.container-fluid:nth-of-type(1)
-www.youtube.com###dialog
-www.youtube.com##.opened
 m.mediafax.ro###ot-sdk-btn
 www.libertatea.ro###ot-sdk-btn
 www.digionline.ro##.active.gdpr
@@ -3448,7 +3466,7 @@ www.cdp.net##.cookie_dismiss_container.cookie_banner
 www.cookiescan.com##body > div:nth-of-type(6)
 www.zdnet.com##.ot-fade-in.onetrust-pc-dark-filter
 wordpress.com##.a8c-cookie-banner-v1.a8c-cookie-banner
-https://www.cookielaw.org
+www.cookielaw.org
 www.cookielaw.org###onetrust-consent-sdk
 uxdesign.cc##body > div:nth-of-type(2)
 www.businessinsider.com###sp_message_container_364841
@@ -5084,8 +5102,6 @@ www.thereformation.com##.gdpr-alert
 www.monki.com##.parbase.cookieMessage
 www.missguidedus.com##.cookie-banner.site-notice
 m.digi24.ro##.gdpr-iframe-fix.gdpr-social-media.gdpr-placeholder
-consent.youtube.com
-consent.google.com
 uefiscdi.gov.ro###athConsent
 www.antena3.ro##.body
 www.myfitnesspal.it##.jss120
@@ -5153,8 +5169,6 @@ tunein.com##div:nth-of-type(17) > div:nth-of-type(1) > div:nth-of-type(2)
 accounts.google.com##div:nth-of-type(17) > div:nth-of-type(1) > div:nth-of-type(2)
 medford-airport.com##.popup > div
 www.agerpres.ro##.cookie-section
-www.google.com##.cookie-section
-www.google.com##.cookie-section
 www.digi24.ro###gdpr
 www.freedomnewspaper.com###pshntfydlg
 silverhand.ro###cookies-box
@@ -5162,7 +5176,6 @@ www.stiripesurse.ro##.social-icons--mobile
 fapforfun.net###cliSettingsPopup
 fapforfun.net###cookie-law-info-bar
 mega.io##.common-dialogs
-www.google.com##.USRMqe
 rapidgator.net###cookie-dlg
 mega.io##div.fm-dialog-overlay:nth-of-type(141)
 mega.io##div.fm-dialog-overlay:nth-of-type(16)
@@ -5606,9 +5619,6 @@ go.tv2.dk###tv2cookiebar
 gocompare.com##.CookiePolicyContainer
 goldenline.pl###topReminder
 golem.de###golem-cookie-accept
-google.com##[class="gb_hb gb_kb gb_xa"]
-google.com##[class="gb_ib gb_lb gb_ya"]
-google.dk##.fbar
 gosc.pl##div[style^="border: 10px solid rgb(138, 138, 138);"]
 gov.uk##.js-cookies-banner
 group.barclays.com##.dialogMask
@@ -5907,22 +5917,7 @@ www.dolomitisuperski.com###pc-cookie-notice
 www.espn.co.uk##.cookie-overlay
 www.flickr.com##.cookie-banner-view
 www.futura-sciences.com###fs-cookiewarning
-www.google.at###pushdown
-www.google.be###pushdown
-www.google.co.uk###pushdown
-www.google.com###pushdown
-www.google.cz###pushdown
-www.google.de###pushdown
-www.google.es###pushdown
-www.google.fr###pushdown
-www.google.gr###pushdown
-www.google.ie###pushdown
-www.google.it###pushdown
-www.google.nl###pushdown
-www.google.pl###pushdown
-www.google.pt###pushdown
-www.google.ru###pushdown
-www.google.si###pushdown
+
 www.gvcc.net###footer > .cookieleiste
 www.itv.com##.wrapp-cookie
 www.lagazettedescommunes.com###bandeauCookies
@@ -5994,7 +5989,6 @@ rk.dk###lbmodal-overlay, #lbmodal
 krsystem.pl###cook, .cook
 shelldriversclub.co.uk###modal_container
 boards.ie###notify-container
-plus.google.com###gba.gb_Ec
 katowice-airport.com##body > div:not([id]):not([class])
 oferia.pl##body > div:not([id]):not([class])
 grafoteka.pl###info-container
