@@ -46,6 +46,8 @@ google.com##.customButtonContainer
 consent.yahoo.com##.accept-all.secondary.btn
 consent.yahoo.com##div.content-section:nth-of-type(2)
 consent.yahoo.com##.manage-settings.mng-btn.secondary.btn
+consent.yahoo.com###consent-text
+consent.yahoo.com##._yb_1ool5._yb_b9sct
 www.yahoo.com##.List\(n\).Colmc\(2\).Pb\(10px\).P\(0\).Mt\(32px\).Mx\(0\)
 www.yahoo.com##.lw-nav-open_D\(n\).uh-mobile-nav-open_D\(n\).SideSlot-open_D\(n\).W\(100\%\).Cl\(b\).YDC-Bottom
 www.google.com##[href="/intl/ro/ads"]
@@ -73,6 +75,7 @@ google.dk##.fbar
 www.google.com##.USRMqe
 www.google.com##.cookie-section
 www.google.com##.cookie-section
+||gothub.com
 appuals.com##.show-top-button.go-to-top-button
 www.ionos.com##.btn-top.btn
 www.computerhope.com###tt
