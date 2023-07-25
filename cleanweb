@@ -73,6 +73,12 @@ google.dk##.fbar
 www.google.com##.USRMqe
 www.google.com##.cookie-section
 www.google.com##.cookie-section
+appuals.com##.show-top-button.go-to-top-button
+www.ionos.com##.btn-top.btn
+www.computerhope.com###tt
+www.techradar.com##li:nth-of-type
+www.techradar.com##li:nth-of-type11
+www.sandiegouniontribune.com##div.sm\:w-1\/2.w-35:nth-of-type(1)
 www.xvideos.com###disclaimer_background
 ||cdn77-pic.xvideos-cdn.com/videos/thumbs169l/1e/b1/f7/1eb1f72b1f82635f89897ce31f5e2f10/1eb1f72b1f82635f89897ce31f5e2f10.14.jpg$image
 consent.youtube.com##.w5himb.FCY2lb > .lssxud
