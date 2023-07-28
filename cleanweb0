@@ -36,7 +36,21 @@ consent.yahoo.com##^responseheader(set-cookie)
 consent.yahoo.com##+js(cookie-remover, CONSENT)
 consent.yahoo.com###consent-text
 consent.yahoo.com##._yb_1ool5._yb_b9sct
-||gothub.com
+gothub.com
+www.airdroid.com##.back-top
+www.airdroid.com##div.footer-security.dd:nth-of-type(8)
+chatwatch.net##.link-is-visible.go-top
+www.technologysage.com##.menu-item-9219.td-normal-menu.td-menu-item.menu-item-object-page.menu-item-type-post_type.menu-item
+apk.technologysage.com##.mh-back-to-top
+www.businessinsider.com##.--fade-in.back-to-top.component
+www.gadgetsnow.com##.Gg0bl
+www.gadgetsnow.com##._380lG
+www.digifm.ro##.gdpr-social-media.gdpr-placeholder
+redactia.ro###post-279345 > .mrf-heightLocked.mrf-adv__wrapper--placeholder.mrf-adv__wrapper
+redactia.ro##.entry-content > div.mrf-heightLocked.mrf-adv__wrapper--placeholder.mrf-adv__wrapper:nth-of-type(1)
+redactia.ro##.mrf-heightLocked.mrf-adv__wrapper--bottom.mrf-adv__wrapper--placeholder.mrf-adv__wrapper
+redactia.ro##div.mrf-heightLocked.mrf-adv__wrapper--placeholder.mrf-adv__wrapper:nth-of-type(2)
+redactia.ro##li.mrf-customFooter__linkItem:nth-of-type(7)
 appuals.com##.show-top-button.go-to-top-button
 www.ionos.com##.btn-top.btn
 www.computerhope.com###tt
