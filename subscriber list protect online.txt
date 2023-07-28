@@ -117,3 +117,5 @@ https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/
 https://raw.githubusercontent.com/gioxx/xfiles/master/siteblock.txt
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/ROad-Block.txt
 https://anti-ad.net/domains.txt
+
+H830fh__-79whxoJdicj__hu7---gai628x0v____000111011010010101_7482910h_738297390_GIRNOzhdGs_Firefox
