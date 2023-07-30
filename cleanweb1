@@ -152,7 +152,16 @@ m.youtube.com##YTM-COMPANION-AD-RENDERER
 m.youtube.com##IMG#player-thumbnail-overlay
 m.youtube.com##ads
 m.youtube.com##consent
-www.xvideos.com###disclaimer_background
+www.xvideos.com##[href="https://info.xvideos.net/parents/"]
+www.xvideos.com##.disclaimer-enter-gay.btn-primary.btn
+www.xvideos.com##.disclaimer-enter-shemale.btn-primary.btn
+www.xvideos.com##.btn-primary.btn
+www.xvideos.com##.disclaimer-manage_cookies.btn-default.btn
+www.xvideos.net##[href="https://info.xvideos.net/parents/"]
+www.xvideos.net##.disclaimer-enter-gay.btn-primary.btn
+www.xvideos.net##.disclaimer-enter-shemale.btn-primary.btn
+www.xvideos.net##.btn-primary.btn
+www.xvideos.net##.disclaimer-manage_cookies.btn-default.btn
 www.lifewire.com##.footer-inner
 www.techadvisor.com###menu-secondary-footer-menu-en-gb
 www.techadvisor.com##.primaryFooter-bottom
@@ -200,11 +209,6 @@ www.redtube.com##li.footer_links_item:nth-of-type(9)
 hentai2w.com##footer
 hentai2w.com###scrollUp
 nakedteens.fun##.foot
-www.xvideos.com##.disclaimer-enter-shemale.btn-primary.btn
-www.xvideos.com##.disclaimer-enter-gay.btn-primary.btn
-www.xvideos.com###disclaimer-accept_cookies
-www.xvideos.com##.btn-primary.btn
-www.xvideos.com###disclaimer-content > div:nth-of-type(2)
 cdn.discordapp.com
 www.qbebe.ro##body > .ros
 www.qbebe.ro##article > .billboard
@@ -314,8 +318,6 @@ www.howtogeek.com##[href^="https://getadmiral.com/pb/"]
 www.howtogeek.com##p.bhkuoz.Text-azid7f-0:nth-of-type(2)
 www.howtogeek.com##p.bhkuoz.Text-azid7f-0:nth-of-type(1)
 www.howtogeek.com##.ccdgWR.cXghWF.a__sc-3vtlsk-2.Card__CardBody-sc-1s2p2gv-2
-xvideo.net##^responseheader(set-cookie)    
-xvideo.net##+js(cookie-remover, CONSENT)
 www.mercurynews.com##.dfm-site-info
 www.mercurynews.com##.site-footer
 www.nutaku.net##.fnt-small-2.flx-column.copyright
@@ -370,8 +372,6 @@ www.hotnews.ro##[href="/prelucrarea_datelor"] > .info
 www.hotnews.ro###div-sticky
 ||www.hotnews.ro/static/assets/logos/*g$image
 www.reddit.com##.m-no.NSFWInterstitial__button
-www.xvideos.com###disclaimer-content > div:nth-of-type(1)
-www.xvideos.com###disclaimer-content > div:nth-of-type(2)
 www.animesexdoll.net##.vas-actions
 www.animesexdoll.net###verify-age-main
 www.nakedoll.com##.btn-beta.btn
