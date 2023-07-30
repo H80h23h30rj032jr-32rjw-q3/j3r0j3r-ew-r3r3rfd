@@ -145,6 +145,20 @@ yahoo.com##^responseheader(set-cookie)
 yahoo.com##+js(cookie-remover, CONSENT)
 consent.yahoo.com##^responseheader(set-cookie)    
 consent.yahoo.com##+js(cookie-remover, CONSENT)
+playtech.ro##div.mg-bottom-20.height-md-400.height-xs-300.strawberry-ads
+playtech.ro##.padding-top-10.padding-bottom-20.container-fluid
+www.viva.ro##.d-block.mg-bottom-50.hidden-lg.hidden-md.hidden-sm.branding-mobile-bottom
+www.viva.ro##.single--container-js.container > .strawberry-ads
+www.viva.ro##.newsbee-banner__bubble
+www.viva.ro##div.strawberry-ads
+www.libertatea.ro##.hidden-large-desktop.hidden-desktop.hidden-large-tablet.hidden-tablet.mobile-only.banner.strawberry-ads
+www.libertatea.ro##.articlead-970.gray-bg-desktop.gray-bg-tablet.strawberry-ads
+www.libertatea.ro##.sda--tnetnoc-elcitra.js-copy-text.article-body > div.strawberry-ads
+newsweek.ro##.z-50.shadow.py-3.w-full.bottom-0.text-gb.bg-red.fixed
+newsweek.ro###subscription-banner-mobile
+www.reddit.com##.text-14.m-0.text-neutral-content.text-center
+www.reddit.com##.justify-center.inline-flex.button.button-secondary.px-\[length\:var\(--rem14\)\].button-medium.hover\:no-underline.outline-none.w-100
+www.reddit.com###RESOURCES > faceplate-tracker:nth-of-type(2)
 music-store.co###scrollToTopButton
 arenait.ro##.topButton
 aniwatch.to###wrapper > .active
