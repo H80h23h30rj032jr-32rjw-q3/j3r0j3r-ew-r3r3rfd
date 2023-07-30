@@ -145,6 +145,44 @@ yahoo.com##^responseheader(set-cookie)
 yahoo.com##+js(cookie-remover, CONSENT)
 consent.yahoo.com##^responseheader(set-cookie)    
 consent.yahoo.com##+js(cookie-remover, CONSENT)
+music-store.co###scrollToTopButton
+arenait.ro##.topButton
+aniwatch.to###wrapper > .active
+www.srilankan.com##.right-bottom-chat.st-actionContainer
+www.srilankan.com##[href="/en_uk/Corporate/advertising-with-sriLankan"]
+www.srilankan.com##.copyright
+lankasri.com###footer
+www.reuters.com##.site-footer__legal__3NAzt
+www.lonelyplanet.com##.pb-12.lg\:pb-0.duration-300.transition-all.md\:max-h-full.overflow-hidden.jsx-21109142f51e79b3 > li.jsx-21109142f51e79b3:nth-of-type(3) > .md\:mt-2.mt-6.block.text-sm.text-black-400.jsx-21109142f51e79b3
+www.lonelyplanet.com##.pb-12.lg\:pb-0.duration-300.transition-all.md\:max-h-full.overflow-hidden.jsx-21109142f51e79b3 > li.jsx-21109142f51e79b3:nth-of-type(10)
+www.usnews.com##.eFGqdH.Info__Grow-sc-1vdhah7-1
+www.dertour.ro##[href="/cookie-consent"]
+www.dertour.ro##.bs.bf-box1
+news24.ro##.full-width.site-footer
+news24.ro##.fa-arrow-up.fa
+news24.ro##.fade-out2.fade-out1.is-visible.back-top
+www.bbc.co.uk##.orb-footer-cookies.domestic
+www.bbc.co.uk##footer
+www.romedic.ro###container_principal > div:nth-of-type(6)
+www.romedic.ro###footer_st
+www.9am.ro##.mb-1.text-center.container
+misterio.ro##.footer2
+||basilica.ro/img/resize/basilica.ro/images/2016/stiri/01_ianuarie/01/g/art2/Anunt_5_w720_h800_q90.jpg$image
+www.descoperaeuropa.ro##.active.back-to-top
+doxologia.ro##.backgriinchis
+doxologia.ro##.large-4.medium-12.small-12.cell > .meniu-footer
+www.avocatnet.ro##footer
+vdocumente.com##footer
+orasulciteste.ro##.shareBlockStickyFooter.shareBlockSticky.shareBlock
+orasulciteste.ro##.scroll-top
+orasulciteste.ro##.site-link
+www.proz.com###footer_secondary-links > li:nth-of-type(3)
+economie.hotnews.ro##div.footer-row > div
+economie.hotnews.ro##.menu-items > [href="/prelucrarea_datelor"]
+www.edituraherald.ro###scroll-to-top-arrow
+wpstackable.com##.menu-item-18861.menu-item-object-page.menu-item-type-post_type.menu-item
+wpstackable.com##.menu-item-18871.menu-item-object-custom.menu-item-type-custom.menu-item.cli_manage_current_consent
+www.markuptag.com##.generate-back-to-top__show.generate-back-to-top
 m.youtube.com##DIV.companion-ad-body-container
 m.youtube.com##DIV.companion-ad-container
 m.youtube.com##YTM-COMPANION-SLOT.scwnr-content.single-column-watch-next-modern-panels[data-content-type='result']
