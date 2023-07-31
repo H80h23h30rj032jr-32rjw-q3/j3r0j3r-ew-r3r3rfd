@@ -145,6 +145,10 @@ yahoo.com##^responseheader(set-cookie)
 yahoo.com##+js(cookie-remover, CONSENT)
 consent.yahoo.com##^responseheader(set-cookie)    
 consent.yahoo.com##+js(cookie-remover, CONSENT)
+www.avast.com##.os-android.os-detect > .sticky-content
+www.avast.com##.article.body-grey > .container
+www.hackread.com##.menu-item-22037.menu-item-object-page.menu-item-type-post_type.menu-item
+www.osintcombine.com##.wix-blog-hide-in-print.iAHSYN.Y3P79X.QUICK_ACTION_BAR
 playtech.ro##div.mg-bottom-20.height-md-400.height-xs-300.strawberry-ads
 playtech.ro##.padding-top-10.padding-bottom-20.container-fluid
 www.viva.ro##.d-block.mg-bottom-50.hidden-lg.hidden-md.hidden-sm.branding-mobile-bottom
