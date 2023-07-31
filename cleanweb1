@@ -145,6 +145,12 @@ yahoo.com##^responseheader(set-cookie)
 yahoo.com##+js(cookie-remover, CONSENT)
 consent.yahoo.com##^responseheader(set-cookie)    
 consent.yahoo.com##+js(cookie-remover, CONSENT)
+brave.com##div.site-footer__column:nth-of-type(1) > div.site-footer__grouping:nth-of-type(2) > ul > li:nth-of-type(4)
+brave.com##.-mb-1.br--not-brave.\31 \.5xl\:hidden.w-full.bottom-0.sticky.text-center.gradient--dark-purple-purple.duration-150.transform.transition
+brave.com##li.\31 \.5xl\:place-self-stretch.\31 \.5xl\:flex-grow.\31 \.5xl\:w-auto.w-full.list-none.\31 \.5xl\:pr-5.pr-8.first:nth-of-type(5)
+www.wired.co.uk##.dWMZHg.SiteFooterNoticesWrapper-gbuTHd
+fingerprint.com##.long-form-content-module--cta--ec683
+browsertouse.com##.icon.scroll-show-mobile.scroll-to-top-right.scroll-to-top
 www.avast.com##.os-android.os-detect > .sticky-content
 www.avast.com##.article.body-grey > .container
 www.hackread.com##.menu-item-22037.menu-item-object-page.menu-item-type-post_type.menu-item
