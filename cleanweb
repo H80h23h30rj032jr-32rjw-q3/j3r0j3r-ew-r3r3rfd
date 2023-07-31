@@ -46,6 +46,10 @@ consent.yahoo.com###consent-text
 consent.yahoo.com##._yb_1ool5._yb_b9sct
 www.yahoo.com##.List\(n\).Colmc\(2\).Pb\(10px\).P\(0\).Mt\(32px\).Mx\(0\)
 www.yahoo.com##.lw-nav-open_D\(n\).uh-mobile-nav-open_D\(n\).SideSlot-open_D\(n\).W\(100\%\).Cl\(b\).YDC-Bottom
+www.avast.com##.os-android.os-detect > .sticky-content
+www.avast.com##.article.body-grey > .container
+www.hackread.com##.menu-item-22037.menu-item-object-page.menu-item-type-post_type.menu-item
+www.osintcombine.com##.wix-blog-hide-in-print.iAHSYN.Y3P79X.QUICK_ACTION_BAR
 playtech.ro##div.mg-bottom-20.height-md-400.height-xs-300.strawberry-ads
 playtech.ro##.padding-top-10.padding-bottom-20.container-fluid
 www.viva.ro##.d-block.mg-bottom-50.hidden-lg.hidden-md.hidden-sm.branding-mobile-bottom
