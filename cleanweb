@@ -37,6 +37,28 @@ consent.google.com##.customButtonContainer
 google.com##.contentText
 google.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .searchButton.button.basebutton
 google.com##.customButtonContainer
+m.youtube.com##.consent-bump-v2-lightbox-header-eom
+m.youtube.com##.consent-bump-v2-lightbox
+www.google.com##div.VfXErd:nth-of-type(3) > span:nth-of-type(1)
+www.google.com##div.VfXErd:nth-of-type(1) > span:nth-of-type(1)
+www.google.com##.prmo
+www.google.com##div.VfXErd:nth-of-type(2) > span:nth-of-type(2)
+www.google.com##a[href^="https://www.google.com/setprefs"]:nth-of-type(2)
+www.google.com###SIvCob
+www.google.com##[href^="/tools/feedback/survey/xhtml"]
+www.google.com##div.VfXErd:nth-of-type(3) > span:nth-of-type(1)
+www.google.com##div.VpbkVe:nth-of-type(1) > .VfXErd
+www.google.com##div.VpbkVe:nth-of-type(1)
+www.google.com##[href^="/support/websearch/bin/answer.py"]
+www.google.com##[href^="/about"]
+www.google.com##div.VfXErd:nth-of-type(3) > span:nth-of-type(2)
+www.google.com##[href="/intl/ro/policies/terms/"]
+www.google.com##.ads
+www.google.com##div.VpbkVe:nth-of-type(2)
+www.google.com###footer
+www.google.com##div.VfXErd:nth-of-type(1) > span:nth-of-type(1)
+policies.google.com##.BXXR1b.M9Bg4d.ThQiWd.XHsn7e.U26fgb
+policies.google.com##.SGBcfd
 ||accounts.google.com/gsi/iframe/select?client_id=705819728788-b2c1kcs7tst3b7ghv7at0hkqmtc68ckl.apps.googleusercontent.com&auto_select=true&ux_mode=popup&ui_mode=bottom_sheet&as=D1paZgCTX%2FhZs7xpbkK8kA&is_itp=true&channel_id=10e4d4d2a4f6615545cfe38e77b2c5fc6144276157e2b1b12fc65f75f3d66e4a&origin=https%3A%2F%2Fwww.reddit.com$subdocument
 ||accounts.google.com/gsi/iframe/select$subdocument
 consent.yahoo.com##.accept-all.secondary.btn
@@ -491,6 +513,7 @@ acookie.aliexpress.com
 pcookie.aliexpress.com
 click.aliexpress.com
 s.click.aliexpress.com
+ads.aliexpress.com
 kb.netgear.com###articlePage\:frm\:j_id121
 www.gadgets360.com##.scrollToTop
 www.gadgets360.com##._ftcpytxt
@@ -805,8 +828,6 @@ www.mozilla.org##.mzp-c-sidemenu-main > ul > .mzp-is-current
 www.mozilla.org##.mzp-js-toggle.mzp-c-sidemenu-summary > ul > .mzp-is-current
 www.mozilla.org##h1
 support.mozilla.org##.mzp-c-footer-secondary
-click.aliexpress.com
-s.aliexpress.com
 www.meta.com##.x14z7tpn.x1dshhg4.x137jj4x.x8lmfi4.x1gnvfkl.x1s0dajt.x1jcwenj.xhuz21x.x3yeff4.x11b69tj.x1p4a80c.x10rn61k.x2lah0s.x1c4vz4f.xdl72j9.x9f619.xh8yej3.x193iq5w
 scoala9.ro##footer.xs > .content > div.row.menu > .column > [href="/politica-de-cookies/"]
 www.ziarulincomod.ro##.menu-item-150201.menu-item-object-page.menu-item-type-post_type.menu-item
@@ -893,8 +914,6 @@ monitorizari.hotnews.ro##div.footer-row:nth-of-type(1)
 www.apple.com##.ac-gf-footer
 apps.apple.com###ac-globalfooter
 blogger.googleusercontent.com
-cdn.embed.ly
-cdnjs.cloudflare.com
 vjs.zencdn.net
 adflex.vn
 adpia.vn
@@ -994,7 +1013,6 @@ yomedia.vn
 http://35.227.234.222
 huya.com
 binance.com
-stackpath.bootstrapcdn.com
 https://akazginhapping.com
 akazginhapping.com
 https://weeksth.com
@@ -1203,7 +1221,6 @@ facebook.com##Sponsored
 co.uk.edgekey.net
 cdn.optimizely.com
 cumm.top
-cloudflareinsights.com
 connect.idocdn.com
 cdn.embed.ly
 cdn.filimenabrighid.xyz
@@ -2090,26 +2107,7 @@ www.ladbible.com##.css-15kj64l-textAlign-margin.footer
 imscan.net###scrollUp
 www.tpu.ro##.pointer.well-sm.well
 www.tpu.ro###footer
-www.google.com##div.VfXErd:nth-of-type(3) > span:nth-of-type(1)
-www.google.com##div.VfXErd:nth-of-type(1) > span:nth-of-type(1)
-www.google.com##.prmo
-www.google.com##div.VfXErd:nth-of-type(2) > span:nth-of-type(2)
-www.google.com##a[href^="https://www.google.com/setprefs"]:nth-of-type(2)
-www.google.com###SIvCob
-www.google.com##[href^="/tools/feedback/survey/xhtml"]
-www.google.com##div.VfXErd:nth-of-type(3) > span:nth-of-type(1)
-www.google.com##div.VpbkVe:nth-of-type(1) > .VfXErd
-www.google.com##div.VpbkVe:nth-of-type(1)
-www.google.com##[href^="/support/websearch/bin/answer.py"]
-www.google.com##[href^="/about"]
-www.google.com##div.VfXErd:nth-of-type(3) > span:nth-of-type(2)
-www.google.com##[href="/intl/ro/policies/terms/"]
-www.google.com##.ads
-www.google.com##div.VpbkVe:nth-of-type(2)
-www.google.com###footer
-www.google.com##div.VfXErd:nth-of-type(1) > span:nth-of-type(1)
-policies.google.com##.BXXR1b.M9Bg4d.ThQiWd.XHsn7e.U26fgb
-policies.google.com##.SGBcfd
+
 webrate.org##.fc-dialog-overlay
 webrate.org##.fc-choice-dialog.fc-dialog > .fc-dialog-content
 webrate.org##.fc-secondary-button.fc-data-preferences-accept-all.fc-button > .fc-button-label
@@ -2159,8 +2157,6 @@ micromedica.ro###cookie-law-info-bar
 micromedica.ro##.menu-item-5258.menu-item-privacy-policy.menu-item-object-page.menu-item-type-post_type.menu-item
 micromedica.ro##.menu-item-5256.menu-item-object-page.menu-item-type-post_type.menu-item
 smartliving.ro##.footer-bottom
-m.youtube.com##.consent-bump-v2-lightbox-header-eom
-m.youtube.com##.consent-bump-v2-lightbox
 www.xxxlutz.ro##._33HV8mOBeTLHDVcB
 geek.ro##.my-3.text-left.footer-widgets > .container > .row > div.col:nth-of-type(4)
 24beauty.ro##.chatbot.ccw_plugin.dd-whatsapp
@@ -2284,6 +2280,8 @@ oixro.com
 olxro.com
 olx.ro.xyz
 ro-livrare.mobi
+cookielaw.com
+www.cookielaw.com
 cookiebot.com
 www.cookiebot.com
 onetrust.com
