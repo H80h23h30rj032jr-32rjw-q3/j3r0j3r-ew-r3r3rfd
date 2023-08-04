@@ -198,6 +198,11 @@ lajumate.ro###header_download_apps
 lajumate.ro###container > .bottom_shadow.rounded
 blog.mozilla.org##[href^="https://www.mozilla.org/privacy/websites/#cookies"]
 gothub.com
+www.nessainy.com
+nessainy.net
+cloudflareinsights.com
+cdn.embed.ly
+cdnjs.cloudflare.com
 www.xvideos.com##.disclaimer-enter-label
 www.xvideos.com###disclaimer-parents
 www.xvideos.com##.disclaimer-enter-gay.btn-primary.btn
@@ -6136,7 +6141,6 @@ www.dolomitisuperski.com###pc-cookie-notice
 www.espn.co.uk##.cookie-overlay
 www.flickr.com##.cookie-banner-view
 www.futura-sciences.com###fs-cookiewarning
-
 www.gvcc.net###footer > .cookieleiste
 www.itv.com##.wrapp-cookie
 www.lagazettedescommunes.com###bandeauCookies
