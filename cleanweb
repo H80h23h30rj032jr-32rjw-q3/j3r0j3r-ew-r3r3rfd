@@ -68,6 +68,10 @@ consent.yahoo.com###consent-text
 consent.yahoo.com##._yb_1ool5._yb_b9sct
 www.yahoo.com##.List\(n\).Colmc\(2\).Pb\(10px\).P\(0\).Mt\(32px\).Mx\(0\)
 www.yahoo.com##.lw-nav-open_D\(n\).uh-mobile-nav-open_D\(n\).SideSlot-open_D\(n\).W\(100\%\).Cl\(b\).YDC-Bottom
+www.libertatea.ro###ot-sdk-btn
+www.libertatea.ro##div.gray-bg-desktop.gray-bg-tablet.strawberry-ads:nth-of-type(2)
+www.libertatea.ro##div.gray-bg-desktop.gray-bg-tablet.strawberry-ads:nth-of-type(3)
+www.libertatea.ro##.links > .secondary-nav-item.menu-item-2562077.menu-item-object-custom.menu-item-type-custom.menu-item
 www.avast.com##.os-android.os-detect > .sticky-content
 www.avast.com##.article.body-grey > .container
 www.hackread.com##.menu-item-22037.menu-item-object-page.menu-item-type-post_type.menu-item
@@ -203,6 +207,8 @@ nessainy.net
 cloudflareinsights.com
 cdn.embed.ly
 cdnjs.cloudflare.com
+https://apicdn90.one
+apicdn90.one
 www.xvideos.com##.disclaimer-enter-label
 www.xvideos.com###disclaimer-parents
 www.xvideos.com##.disclaimer-enter-gay.btn-primary.btn
