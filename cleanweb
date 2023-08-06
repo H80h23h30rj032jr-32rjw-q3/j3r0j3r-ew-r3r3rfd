@@ -203,7 +203,6 @@ lajumate.ro###container > .bottom_shadow.rounded
 blog.mozilla.org##[href^="https://www.mozilla.org/privacy/websites/#cookies"]
 gothub.com
 gotub.com
-cloudflareinsights.com
 componentupdater.brave.com
 nessainy.net
 www.nessainy.net
@@ -220,11 +219,6 @@ https://apicdn95.one
 cdn.apicdn95.one
 apicdn.one
 static.xx.fbcdn.net
-jsdelivr.org
-jsdelivr.xyz
-abysscdn.net
-abysscdn.org
-abysscdn.xyz
 nessainy.net
 cdn.embed.ly
 cdnjs.cloudflare.com
@@ -238,6 +232,13 @@ mtalk.google.com
 ak583.anime-kage.eu##.center.modal-body > p:nth-of-type(2)
 https://fugcgfilma.com/1980083
 fugcgfilma.com
+static.doubleclick.net
+betotodilea.com
+golochmenacer.com
+wsrv.nl
+unpkg.com
+edgecastcdn.net
+connect.facebook.net
 www.xvideos.com##.disclaimer-enter-label
 www.xvideos.com###disclaimer-parents
 www.xvideos.com##.disclaimer-enter-gay.btn-primary.btn
