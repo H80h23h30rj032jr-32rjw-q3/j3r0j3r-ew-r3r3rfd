@@ -22,6 +22,9 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+community.brave.com###ember12 > div.container:nth-of-type(1)
+www.dozaanimata.ro##.has-single.right-position.chaty-widget
+www.anisearch.com##body > span:nth-of-type(1)
 adblockultimate.net##.cc-color-override--305207752.cc-left.cc-bottom.cc-theme-dark-bottom.cc-type-info.cc-floating.cc-window
 adblockultimate.net##.back-to-top--show.back-to-top
 www.animecharactersdatabase.com###notice1
