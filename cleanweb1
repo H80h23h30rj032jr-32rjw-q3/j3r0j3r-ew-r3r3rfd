@@ -104,6 +104,15 @@ adevarul.ro##.svelte-1azwx5r.popup
 www.peroz.ro##.active.gdpr
 www.peroz.ro##.article-page-widget-question
 www.peroz.ro##.footer
+peroz.ro###gdpr > .container
+peroz.ro##.footer-top
+peroz.ro##.active.gdpr
+peroz.ro##.footer-top
+peroz.ro##.container > .gdpr-trigger.gdpr-button
+peroz.ro##.gdpr-modal-trigger.gdpr-button
+peroz.ro##.gdpr-modal-trigger.gdpr-link
+s.iw.ro
+||s.iw.ro
 www.gandul.ro##.popup__visible.popup
 www.gandul.ro##.cvauto.footer
 newsweek.ro##.mt-4.p-4.bg-white
