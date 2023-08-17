@@ -99,6 +99,38 @@ m.sohu.com##.cbd-backtop
 sina.cn##.fl_suspension_box
 comic.sina.cn##.mSuspensionTop
 comic.sina.cn##.mSuspensionBar
+www.myploiesti.ro##.position-right.sunfw-scrollup
+adevarul.ro##.svelte-1azwx5r.popup
+www.peroz.ro##.active.gdpr
+www.peroz.ro##.article-page-widget-question
+www.peroz.ro##.footer
+www.gandul.ro##.popup__visible.popup
+www.gandul.ro##.cvauto.footer
+newsweek.ro##.mt-4.p-4.bg-white
+editiadedimineata.ro###amp-mobile-version-switcher
+editiadedimineata.ro##.amp-wp-footer
+playtech.ro###footer
+playtech.ro##.top > .social
+www.filmnow.ro##p.gdpr-social-media.gdpr-placeholder:nth-of-type(7)
+www.filmnow.ro##p.gdpr-social-media.gdpr-placeholder:nth-of-type(10)
+www.stiripesurse.ro##.slicknav_nav > li.menu-item:nth-of-type(17)
+tvhappy.ro##.controller > ul:nth-of-type(1) > li:nth-of-type(5)
+tvhappy.ro##.controller > ul:nth-of-type(1) > li:nth-of-type(6)
+tvhappy.ro##.controller > ul:nth-of-type(1) > li:nth-of-type(1)
+tvhappy.ro##.controller > ul:nth-of-type(1) > li:nth-of-type(10)
+useit.ro##div.col:nth-of-type(4)
+evz.ro##.footer-navigation > .row > div.col-md-3:nth-of-type(2)
+www.gsp.ro##.footer--articol.footer.cookieInfo
+www.tion.ro###mainFooter
+www.agerpres.ro##div.footer_r:nth-of-type(3)
+www.agerpres.ro##div.footer_r:nth-of-type(2) > .row > .col-lg-10 > .ul_footer > li.li_footer:nth-of-type(8)
+www.7est.ro###wpd-bubble > svg
+www.7est.ro###wpd-bubble-wrapper
+www.romaniatv.net##.trending
+newskeeper.ro##.fm_clean.left-bottom.feedback_trigger_closed.feedback_trigger
+www.business-adviser.ro##.td-scroll-up-visible.td-scroll-up
+www.business-adviser.ro##.gdpr-privacy-preferences.gdpr
+www.business-adviser.ro##.gdpr-general-confirmation.gdpr
 www.writtenchinese.com##.cn-position-bottom.cookie-revoke-hidden.cookie-notice-hidden
 youtube.com##+js(cookie-remover, CONSENT)
 consent.youtube.com##^responseheader(set-cookie)    
