@@ -248,6 +248,9 @@ lajumate.ro###container > .bottom_shadow.rounded
 blog.mozilla.org##[href^="https://www.mozilla.org/privacy/websites/#cookies"]
 ||gothub.com
 ||gotub.com
+about.google
+sustainability.google
+static.ads-twitter.com
 do.am
 imasdk.googleapis.com
 i.imgur.com
@@ -1207,7 +1210,6 @@ imasdk.googleapis.com
 googletagmanager.com
 yourbestlandever.com
 d3qygewatvuv28.cloudfront.net
-quic://maxcdn.bootstrapcdn.com
 ebxcdn.com
 adtlgc.com
 cxense.com
