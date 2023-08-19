@@ -195,6 +195,19 @@ anime.stackexchange.com##div.site-footer--col:nth-of-type(2)
 a1.ro##footer
 adultgameson.com##.color_footer-bottom.height_auto.align_center_xs.us_custom_020a95dc.wpb_row.l-section
 appuals.com##.show-top-button.go-to-top-button
+academiarealitatea.ro##.scrollToTop
+adevarul.ro##.google-ads-billboard_small.google-adposition
+adevarul.ro##.google-ads-billboard.google-adposition
+adevarul.ro##.google-ads-smallStandard.google-adposition
+adevarul.ro##.svelte-1wb4m60.legal
+adevarul.ro###ot-sdk-btn
+baby.unica.ro##.row > .col-sm-6
+baby.unica.ro##.footer-nav
+baby.unica.ro##div.col-sm-3:nth-of-type(3)
+baby.unica.ro##.copyright.container-fluid
+baby.unica.ro##div.strawberry_ads_container
+baby.unica.ro##.col-md-4
+baby.unica.ro##div.strawberry-ads
 browsertouse.com##.icon.scroll-show-mobile.scroll-to-top-right.scroll-to-top
 blog.mozilla.org##[href^="https://www.mozilla.org/privacy/websites/#cookies"]
 brave.com##div.site-footer__column:nth-of-type(1) > div.site-footer__grouping:nth-of-type(2) > ul > li:nth-of-type(4)
@@ -239,8 +252,40 @@ copro.pw###btn-scrollup
 community.brave.com###ember12 > div.container:nth-of-type(1)
 comicbook.com##ul:nth-of-type(3) > li:nth-of-type(5)
 cylex.ro##div:nth-of-type(6)
+dilemaveche.ro##.google-ads-billboard_small
+dilemaveche.ro##.google-ads-billboard
+dilemaveche.ro##.svelte-fercqp.legal
+duckduckgo.com##.footer--mobile
 fr.cylex-canada.ca##div:nth-of-type(6)
 fr.cylex-belgie.be##div:nth-of-type(5)
+historia.ro##.svelte-hyhflk.google-ads-billboard_small.gads
+historia.ro##.svelte-hyhflk.google-ads-billboard.gads
+historia.ro##.svelte-jiky12.adsbyvli
+m.digi24.ro##.active.gdpr
+m.digi24.ro##.js_smartbanner.smartbanner--android.smartbanner
+m.digi24.ro##.footer-bottom
+m.digisport.ro##.active.gdpr
+m.digisport.ro##.js_smartbanner.smartbanner--android.smartbanner
+m.digisport.ro##.footer-top
+m.mediafax.ro###footer
+m.mediafax.ro##.masterContainer
+m.mediafax.ro##.thumb_list > div:nth-of-type(6)
+m.mediafax.ro##div:nth-of-type(7)
+m.mediafax.ro##.thumb_list > div:nth-of-type(10)
+m.mediafax.ro###ot-sdk-btn
+okmagazine.ro##.svelte-hyhflk.google-ads-billboard_small.gads
+okmagazine.ro##.svelte-hyhflk.google-ads-billboard.gads
+okmagazine.ro##.adsbyvli
+okmagazine.ro##.svelte-dz1s8x.legal
+okmagazine.ro###ot-sdk-btn
+retete.unica.ro###footer
+stirileprotv.ro##.tableCross
+stirileprotv.ro###first > .outer-wrapper
+stirileprotv.ro###left-next-two > .outer-wrapper
+stirileprotv.ro##.main-container-sticky
+stirileprotv.ro##.daily-titles.hp-left-content > div.outer-wrapper:nth-of-type(1)
+stirileprotv.ro##div.outer-wrapper:nth-of-type(2)
+stirileprotv.ro###alte-stiri
 www.animax.co.jp##.o-footer-page-top-button
 www.axn.ro###footer-legal
 www.axnspin.ro###footer-legal
@@ -251,6 +296,12 @@ www.antena3.ro##footer
 www.animeazu.net##.back-top
 www.animeazu.net##.back-top
 www.antena3.ro##footer
+www.avantaje.ro##.newsbee-banner
+www.avantaje.ro###ot-sdk-btn
+www.avantaje.ro##.footer-nav
+www.avantaje.ro##.copyright.container-fluid
+www.avantaje.ro##div.strawberry-ads
+www.avantaje.ro##.col-sm-6
 www.bbc.com##footer
 www.bbc.co.uk##.e1k195vp4.ssrcss-1wnvszv-FooterStack
 www.bbc.com##footer
@@ -275,4 +326,56 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+www.cancan.ro##div.height-sm-250.height-xs-250.strawberry-ads-manager-container
+www.digi.ro##.widget-message-content
+www.digi.ro##.active.gdpr
+www.elle.ro##.newsbee-banner
+www.elle.ro###ot-sdk-btn
+www.elle.ro##div.strawberry_ads_container
+www.elle.ro##.optanon-category-C0002
+www.elle.ro##div.footer-nav
+www.elle.ro##.newsletter
+www.hotnews.ro##div.footer-row:nth-of-type(1)
+www.hotnews.ro##[href="https://www.hotnews.ro/info/publicitate"]
+www.hotnews.ro##.header
+www.libertatea.ro###ot-sdk-btn
+www.libertatea.ro##.links > .secondary-nav-item.menu-item-2562077.menu-item-object-custom.menu-item-type-custom.menu-item
+www.libertatea.ro##div.strawberry-ads
+www.libertatea.ro##.widget-ejobs-home.news-container
+www.libertatea.ro##.banner-gam-homep
+www.libertatea.ro##.custom-html-widget.textwidget
+www.libertateapentrufemei.ro##.newsbee-banner
+www.libertateapentrufemei.ro###ot-sdk-btn
+www.libertateapentrufemei.ro##.hidden-xl.hidden-lg.hidden-md.hidden-sm.mobile-only.banner.mg-top-30.mg-bottom-40.strawberry-ads
+www.libertateapentrufemei.ro##.container.section1
+www.libertateapentrufemei.ro##section.section-full-ads--small.section-full-ads
+www.libertateapentrufemei.ro##.min-width-10.mg-top-20.mg-bottom-30.strawberry-ads
+www.libertateapentrufemei.ro##.min-width-10.mg-bottom-40.strawberry-ads
+www.libertateapentrufemei.ro##.font-size36.font-second.text-center.width-620-lg.content-recipe
+www.libertateapentrufemei.ro##.newsman-subscribe-widget
+www.libertateapentrufemei.ro##.lpf
 www.new-york.cylex.us.com##div:nth-of-type(6)
+www.realitatea.net##.rnet-advert-970-250-m-300-250.advert-placeholder.flex-row.w-100.justify-content-center.d-flex
+www.realitatea.net##.realitatea-footer-copyright
+www.realitatea.net##.realitatea-emisiuni-advertiser
+www.realitatea.net##center
+www.realitatea.net##.preview.progressive.realitatea-footer-logo
+www.realitatea.net##nav
+www.realitatea.net##.realitatea-category-block-button
+www.realitatea.net##.preview.progressive.realitatea-footer
+www.realitateasportiva.net##.p-scrolltop-enter-done.p-component.p-link.p-scrolltop
+www.unica.ro##.newsbee-banner
+www.unica.ro###ot-sdk-btn
+www.unica.ro##.hidden-sm.strawberry-ads
+www.unica.ro##.box-wrapper.container.strawberry-ads
+www.unica.ro##div.col-sm-4.col-xs-6:nth-of-type(2)
+www.unica.ro##.site-footer__container.container
+www.viva.ro###ot-sdk-btn
+www.viva.ro##.nav-up.menu-mobile-js.d-inline-block.menu-mobile > .open-menu-js.bg-section.d-flex.align-center.float-l.open-menu.menu-mobile__btn
+www.viva.ro##.font-size14.font-second.clearboth.text-menu
+www.viva.ro##.nav-up.menu-mobile-js.d-inline-block.menu-mobile > .search-open-js.bg-section.align-center.d-flex.float-l.menu-mobile__btn
+www.viva.ro##.hidden-lg.hidden-md.hidden-sm.scroll-articles.banner-branding.strawberry-ads
+www.viva.ro##div.strawberry-ads
+www.viva.ro##section.ovf-hidden.z-index-1.mg-bottom-60.rlt.pd-top-30.padding-bottom-30.bg-section.tmp-four-art-inline-bg
+www.viva.ro##.lazyloaded.clearboth.clearfix.rlt.section-footer
+www.viva.ro##.menu-mobile__btn.newsbee-banner
