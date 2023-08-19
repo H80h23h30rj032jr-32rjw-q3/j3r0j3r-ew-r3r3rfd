@@ -29,6 +29,7 @@ betotodilea.com
 browser-update.org
 bngprl.com
 blg-1216lb.com
+blockadsnot.com
 bypassadblock.com
 bypassadblock.org
 bylassadblock.co
@@ -74,6 +75,7 @@ cxsense.com
 chartbeat.com
 displayvertising.com
 demand.supply
+datatechonert.com
 doubleclick.net
 doubleclick.com
 doubleclick.org
@@ -102,6 +104,7 @@ histats.com
 hprofits.com
 imasdk.googleapis.com
 indexww.com
+improving.duckduckgo.com
 jwpsrv.com
 jsdelivr.net
 kesodgqt.xyz
@@ -148,6 +151,7 @@ storage.googleapis.com
 sustainability.google
 static.ads-twitter.com
 tawk.to
+tzegilo.com
 tsyndicate.com
 twinrdsrv.com
 tfosrv.com
@@ -167,6 +171,7 @@ wxcdn.com
 xlirdr.com
 yandex.ru
 ypncdn.com
+yourbestlandever.com
 yomeno.xyz
 zencdn.net
 17ebook.com
@@ -201,6 +206,11 @@ adevarul.ro##.google-ads-billboard.google-adposition
 adevarul.ro##.google-ads-smallStandard.google-adposition
 adevarul.ro##.svelte-1wb4m60.legal
 adevarul.ro###ot-sdk-btn
+alephnews.ro###sliderContainer
+alephnews.ro###colophon
+alephnews.ro###tertiary
+alephnews.ro##.rec-list > .widget_aleph_news_promoiframe.widget > .top-news.news-list
+alephnews.ro##.top-news.news-list
 baby.unica.ro##.row > .col-sm-6
 baby.unica.ro##.footer-nav
 baby.unica.ro##div.col-sm-3:nth-of-type(3)
@@ -256,11 +266,23 @@ dilemaveche.ro##.google-ads-billboard_small
 dilemaveche.ro##.google-ads-billboard
 dilemaveche.ro##.svelte-fercqp.legal
 duckduckgo.com##.footer--mobile
+economedia.ro###ot-sdk-btn
+economedia.ro##.animated.bounceInup.ta_upscr
+economedia.ro###footer
+economedia.ro###ai_widget-5
+economedia.ro##.code-block-15.code-block
+ecompedia.ro###catapult-cookie-bar
+ecompedia.ro##.go-up
+ecompedia.ro###footer
+filmehd.se###utwxmws
 fr.cylex-canada.ca##div:nth-of-type(6)
 fr.cylex-belgie.be##div:nth-of-type(5)
 historia.ro##.svelte-hyhflk.google-ads-billboard_small.gads
 historia.ro##.svelte-hyhflk.google-ads-billboard.gads
 historia.ro##.svelte-jiky12.adsbyvli
+live.actualitate.net###klaro
+live.actualitate.net##li.svelte-1szk8b4:nth-of-type(3)
+m.ziuanews.ro##li:nth-of-type(13)
 m.digi24.ro##.active.gdpr
 m.digi24.ro##.js_smartbanner.smartbanner--android.smartbanner
 m.digi24.ro##.footer-bottom
@@ -273,12 +295,34 @@ m.mediafax.ro##.thumb_list > div:nth-of-type(6)
 m.mediafax.ro##div:nth-of-type(7)
 m.mediafax.ro##.thumb_list > div:nth-of-type(10)
 m.mediafax.ro###ot-sdk-btn
+m.rfi.ro###ot-sdk-btn
+media9.ro##.banner-wrapper
+media9.ro##.widget-area.widget_custom_html.widget_text
+media9.ro##.lazy-loaded.wp-image-30280.aligncenter.lazy
 okmagazine.ro##.svelte-hyhflk.google-ads-billboard_small.gads
 okmagazine.ro##.svelte-hyhflk.google-ads-billboard.gads
 okmagazine.ro##.adsbyvli
 okmagazine.ro##.svelte-dz1s8x.legal
 okmagazine.ro###ot-sdk-btn
+paginadeseriale.ro##.gotop
+paginadeseriale.ro##.bdaia-footer-e3-desktop
+paginadeseriale.ro##.theia_sticky.bd-sidebar
+paginadeseriale.ro##.bdaia-footer
 retete.unica.ro###footer
+romanialibera.ro##.td-pb-row.wpb_row.tdi_63.vc_row
+romanialibera.ro###ot-sdk-btn
+romanialibera.ro###tdi_241
+romanialibera.ro##.tdc-element-style.td-pb-row.wpb_row.tdi_191.vc_row
+romanialibera.ro##.menu-item-651780.tdb-normal-menu.tdb-menu-item.menu-item-object-page.menu-item-type-post_type.menu-item
+romanialibera.ro##.menu-item-651778.tdb-normal-menu.tdb-menu-item.menu-item-privacy-policy.menu-item-object-page.menu-item-type-post_type.menu-item
+renasterea.ro##.cli-modal-content.cli-bar-popup
+renasterea.ro##.social-box
+renasterea.ro##.top
+renasterea.ro##.btn
+renasterea.ro###site-navigation
+renasterea.ro##.link-fb
+renasterea.ro##.custom-html-widget.textwidget
+renasterea.ro###colophon
 stirileprotv.ro##.tableCross
 stirileprotv.ro###first > .outer-wrapper
 stirileprotv.ro###left-next-two > .outer-wrapper
@@ -286,6 +330,20 @@ stirileprotv.ro##.main-container-sticky
 stirileprotv.ro##.daily-titles.hp-left-content > div.outer-wrapper:nth-of-type(1)
 stirileprotv.ro##div.outer-wrapper:nth-of-type(2)
 stirileprotv.ro###alte-stiri
+suceavanews.ro##.marginright3.side-ads-container
+suceavanews.ro##.cat-item-3.cat-item > [href]
+suceavanews.ro###top-bar
+suceavanews.ro##[src="https://suceavanews.ro/wp-content/uploads/2022/05/banner-allianz-trade.jpg"]
+suceavanews.ro##div.ads-class > [href] > [src]
+suceavanews.ro##[src="https://suceavanews.ro/wp-content/uploads/2018/04/stas-mobila-Jud-BT-330x150px.gif"]
+suceavanews.ro##.widget-title
+suceavanews.ro###footer
+suceavanews.ro##.InMargin_Top
+subs.ro###cookie-consent
+subs.ro##footer.bg-\[\#EDEBDC\]
+vivo-shopping.com##.site-footer__meta
+vivo-shopping.com##.scrollToTopSideButton
+ziardecluj.ro##.footer-menu
 www.animax.co.jp##.o-footer-page-top-button
 www.axn.ro###footer-legal
 www.axnspin.ro###footer-legal
@@ -302,6 +360,7 @@ www.avantaje.ro##.footer-nav
 www.avantaje.ro##.copyright.container-fluid
 www.avantaje.ro##div.strawberry-ads
 www.avantaje.ro##.col-sm-6
+www.blockadsnot.com
 www.bbc.com##footer
 www.bbc.co.uk##.e1k195vp4.ssrcss-1wnvszv-FooterStack
 www.bbc.com##footer
@@ -326,15 +385,44 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+www.cotidianul.ro##.mh-copyright-wrap
+www.cotidianul.ro##.widget_media_image.mh-home-12.mh-widget
+www.cotidianul.ro##.mh-header-widget-2.mh-col-2-3
+www.cotidianul.ro##.ai-viewport-3.ai_widget.mh-widget-col-2.mh-home-2.mh-widget
+www.cotidianul.ro##.ai_widget.mh-home-6.mh-widget
+www.cotidianul.ro###ai_widget-67
+www.cotidianul.ro##.ai_widget.mh-home-12.mh-widget
 www.cancan.ro##div.height-sm-250.height-xs-250.strawberry-ads-manager-container
 www.digi.ro##.widget-message-content
 www.digi.ro##.active.gdpr
+www.digi-world.tv###gdpr
+www.digi-world.tv##.footer-top
+www.digi-animalworld.tv###gdpr
+www.digi-animalworld.tv##.footer-top
+www.digi-life.tv###gdpr
+www.digi-life.tv##.footer-top
 www.elle.ro##.newsbee-banner
+www.digifm.ro###gdpr
+www.digifm.ro##.footer-content
+www.dancefm.ro###gdpr
+www.dancefm.ro##.footer-content
 www.elle.ro###ot-sdk-btn
 www.elle.ro##div.strawberry_ads_container
 www.elle.ro##.optanon-category-C0002
 www.elle.ro##div.footer-nav
 www.elle.ro##.newsletter
+www.fanatik.ro##.fc-primary-button.fc-cta-consent.fc-button
+www.fanatik.ro##.fc-dialog-overlay
+www.fanatik.ro##.fc-choice-dialog.fc-dialog > .fc-dialog-content > .fc-dialog-scrollable-content
+www.fanatik.ro##.fc-secondary-button.fc-data-preferences-accept-all.fc-button
+www.fanatik.ro##.fc-secondary-button.fc-vendor-preferences-accept-all.fc-button
+www.fanatik.ro##.footer
+www.fanatik.ro##nav.navbar--center.navbar:nth-of-type(2)
+www.filmnow.ro###gdpr
+www.filmnow.ro##.footer-top
+www.g4media.ro###ot-sdk-btn
+www.g4media.ro##.cd-fade-out.cd-is-visible.cd-top
+www.g4media.ro##.site-footer
 www.hotnews.ro##div.footer-row:nth-of-type(1)
 www.hotnews.ro##[href="https://www.hotnews.ro/info/publicitate"]
 www.hotnews.ro##.header
@@ -355,6 +443,15 @@ www.libertateapentrufemei.ro##.font-size36.font-second.text-center.width-620-lg.
 www.libertateapentrufemei.ro##.newsman-subscribe-widget
 www.libertateapentrufemei.ro##.lpf
 www.new-york.cylex.us.com##div:nth-of-type(6)
+www.profm.ro###gdpr
+www.profm.ro##.footer-content
+www.paginademedia.ro###pushinstruments_popup
+www.paginademedia.ro###hai-sus
+www.paginademedia.ro##.bg-inverse.site-footer
+www.paginademedia.ro##div.demand-supply
+www.paginademedia.ro##footer
+www.paginademedia.ro##.text-center.box
+www.paginademedia.ro##.box-newsletter.box
 www.realitatea.net##.rnet-advert-970-250-m-300-250.advert-placeholder.flex-row.w-100.justify-content-center.d-flex
 www.realitatea.net##.realitatea-footer-copyright
 www.realitatea.net##.realitatea-emisiuni-advertiser
@@ -364,12 +461,21 @@ www.realitatea.net##nav
 www.realitatea.net##.realitatea-category-block-button
 www.realitatea.net##.preview.progressive.realitatea-footer
 www.realitateasportiva.net##.p-scrolltop-enter-done.p-component.p-link.p-scrolltop
+www.risco.ro##.cc_b_ok
+www.risco.ro##.cc_overlay_lock
+www.risco.ro##div.mb-5.mb-md-0.col-12.col-sm-6.col-md-4.col-xl-3:nth-of-type(3)
+www.stirisuceava.net##.show-webpushr-notification-card
+www.stirisuceava.net##.show.btn.back-top
+www.stirisuceava.net##.site-footer
+www.stirisuceava.net##.HTML.widget
 www.unica.ro##.newsbee-banner
 www.unica.ro###ot-sdk-btn
 www.unica.ro##.hidden-sm.strawberry-ads
 www.unica.ro##.box-wrapper.container.strawberry-ads
 www.unica.ro##div.col-sm-4.col-xs-6:nth-of-type(2)
 www.unica.ro##.site-footer__container.container
+www.utv.ro###gdpr
+www.utv.ro##.footer-copyright
 www.viva.ro###ot-sdk-btn
 www.viva.ro##.nav-up.menu-mobile-js.d-inline-block.menu-mobile > .open-menu-js.bg-section.d-flex.align-center.float-l.open-menu.menu-mobile__btn
 www.viva.ro##.font-size14.font-second.clearboth.text-menu
@@ -379,3 +485,13 @@ www.viva.ro##div.strawberry-ads
 www.viva.ro##section.ovf-hidden.z-index-1.mg-bottom-60.rlt.pd-top-30.padding-bottom-30.bg-section.tmp-four-art-inline-bg
 www.viva.ro##.lazyloaded.clearboth.clearfix.rlt.section-footer
 www.viva.ro##.menu-mobile__btn.newsbee-banner
+www.ziar.com##body > div > p
+www.ziaruldeiasi.ro##[href="http://www.ziaruldeiasi.ro/anunturi"]
+www.ziaruldeiasi.ro##.head-menu-right > ul
+www.ziaruldeiasi.ro##.custom-menu > ul > li:nth-of-type(1)
+www.ziaruldeiasi.ro##.ad-right
+1music.ro##.active.gdpr
+1music.ro###goTop
+1music.ro###footer
+1music.ro##.page-item-116759.page_item
+1music.ro###TOP_REC > [href="https://1music.ro"]
