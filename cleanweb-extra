@@ -96,6 +96,8 @@ betano.ro
 buf.lemonde.fr
 byambipoman.com
 bxgvswht.com
+cdn.privacy-mgmt.com
+cookie-clicker2.com
 clickiocdn.com
 cagesscan.com
 cdn.apicdn22.one
@@ -146,6 +148,11 @@ crpcruynxxc.com
 cdn.next-analytics.com
 cryptoinfotop.com
 connect.facebook.net
+clearancejoinjavelin.com
+d-slide.cfd
+d-spill.cfd
+d-torch.cfd
+d-abbey.cfd
 displayvertising.com
 demand.supply
 datatechonert.com
@@ -158,6 +165,8 @@ dns.google
 deductionkeepingbabysitter.com
 doruffleton.com
 delivery.com
+do-not-tracker.org
+eviltracker.net
 exdynsrv.com
 eviltracker.com
 extanalytics.com
@@ -201,10 +210,18 @@ improving.duckduckgo.com
 jurorstalar.uno
 jwpsrv.com
 jnn-pa.googleapis.com
+jocurisiscoruri.com
+js-agent.newrelic.com
+js.hs-scripts.com
+js.hs-banner.com
+js.hs-analytics.net
+js.hsforms.net
+js.hsadspixel.net
 kindleantiquarian.com
 kesodgqt.xyz
 kuezfqvztt.com
 ku2d3a7pa8mdi.com
+known.sbs
 lukdliketobepa.info
 lintensciurid.top
 lumupu.xyz
@@ -214,6 +231,16 @@ latoken.com
 latoken.ro
 latoken.net
 l.google.com
+locked1.com
+locked2.com
+locked3.com
+locked4.com
+locked5.com
+locked6.com
+locked7.com
+locked8.com
+locked9.com
+locked10.com
 makingnude.com
 mx-content-delivery.com
 mixpanel.com
@@ -275,6 +302,7 @@ rsntcgoowyxsu.com
 rsntcgoowyxsu.net
 rsnjmocfenkewq.com
 ro-livrare.mobi
+s10.histats.com
 somvprqshxr.com
 simplewebanalysis.com
 scptpx.com
@@ -325,6 +353,9 @@ twitter.map.fastly.net
 traf.danil.me
 twinrdsrv.com
 twinrdack.com
+trafficjunky.net
+trafficjunky.com
+thumb.cdncache.xyz
 upsweephalms.com
 unseenreport.com
 uvihslkx.com
@@ -625,12 +656,15 @@ www.filmnow.ro##.footer-top
 www.g4media.ro###ot-sdk-btn
 www.g4media.ro##.cd-fade-out.cd-is-visible.cd-top
 www.g4media.ro##.site-footer
+www.google-analytics.com
+www.googletagmanager.com
 www.hybrid-analysis.com
 www.hotnews.ro##div.footer-row:nth-of-type(1)
 www.hotnews.ro##[href="https://www.hotnews.ro/info/publicitate"]
 www.hotnews.ro##.header
-www.google-analytics.com
-www.googletagmanager.com
+itch.io##.base_widget.youtube_mobile_banner_widget
+itch.io##.footer
+itch.io##.base_widget.content_warning_widget
 www.libertatea.ro###ot-sdk-btn
 www.libertatea.ro##.links > .secondary-nav-item.menu-item-2562077.menu-item-object-custom.menu-item-type-custom.menu-item
 www.libertatea.ro##div.strawberry-ads
@@ -701,3 +735,4 @@ www.ziaruldeiasi.ro##.ad-right
 1music.ro##.page-item-116759.page_item
 1music.ro###TOP_REC > [href="https://1music.ro"]
 34.102.137.201
+123.456.789.999
