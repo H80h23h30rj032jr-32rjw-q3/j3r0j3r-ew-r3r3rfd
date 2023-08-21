@@ -191,6 +191,7 @@ fanc0urier.ro
 ff4475f219af125ca1.backendapi075.cfd
 ft.com
 fd.nl
+fundingchoicesmessages.google.com
 google-analytics.net
 gitcdn.github.io
 gaufaine.com
@@ -449,7 +450,13 @@ alephnews.ro###tertiary
 alephnews.ro##.rec-list > .widget_aleph_news_promoiframe.widget > .top-news.news-list
 alephnews.ro##.top-news.news-list
 apkpure.com##.float-button-second.float-request-notification-permission-button
-nguoiviet.tv##.in.fade.right.x-scroll-top
+animemotivation.com##.active.circle.left.is-outline.z-1.bottom.fixed.plain.invert.icon.button.back-to-top
+animemotivation.com###menu-footer-menu-services > .menu-item-150532.menu-item-object-page.menu-item-type-post_type.menu-item
+animemotivation.com##.menu-item-51131.menu-item-object-page.menu-item-type-post_type.menu-item
+animemotivation.com##ul.nav-slide.nav-uppercase.nav-vertical.nav-sidebar.nav:nth-of-type(2) > .menu-item-150532.menu-item-object-page.menu-item-type-post_type.menu-item
+anime-access.ro##.dashicons-arrow-up-alt2.dashicons
+aoi-fansub.ro###close-teaser
+aoi-fansub.ro##.floatingchat-container-wrap-mobi
 baby.unica.ro##.row > .col-sm-6
 baby.unica.ro##.footer-nav
 baby.unica.ro##div.col-sm-3:nth-of-type(3)
@@ -516,11 +523,37 @@ ecompedia.ro###footer
 filmehd.se###utwxmws
 fr.cylex-canada.ca##div:nth-of-type(6)
 fr.cylex-belgie.be##div:nth-of-type(5)
+fap-nation.com##.container > p:nth-of-type(5)
+gamecax.com##.footer-wrapper
 historia.ro##.svelte-hyhflk.google-ads-billboard_small.gads
 historia.ro##.svelte-hyhflk.google-ads-billboard.gads
 historia.ro##.svelte-jiky12.adsbyvli
+hentaihay.cc##.catfish.xx-ads
+hentai88.vip###back-to-top
+hentaivl.tv##.catfix.ads-mobile.xx-ads
+heo69.top##.ads-header.ads-mobile.xx-ads
+heo69.top##.catfix.ads-mobile.xx-ads
+heo69.top##div.ads-mobile.xx-ads:nth-of-type(5)
+hentaiapk.com##.ads_single_center.ads
+hentaiapk.com##.ads_home.ads > [href^="https://indiatiktok.vip/"]
+hentaihay.cc##.catfish.xx-ads
+hentai88.vip###back-to-top
+hentaivl.tv##.catfix.ads-mobile.xx-ads
+hentaivideos.net###head_hv
+hentai4life.ro##.th
+hanime.tv##.primary.theme--dark.btn--right.btn--fixed.btn--floating.btn--bottom.btn.elevation-3.search-fab
+hanime.tv##div.footer__column.flex:nth-of-type(4) > .footer__list > li.footer__item:nth-of-type(2)
+hanime.tv##div.footer__column.flex:nth-of-type(4) > .footer__list > li.footer__item:nth-of-type(7)
+hentai.tv##section:nth-of-type(3) > .group > li:nth-of-type(4)
+itch.io##.base_widget.youtube_mobile_banner_widget
+itch.io##.footer
+itch.io##.base_widget.content_warning_widget
+i.imgur.com/byBf7vu.gif$image
+kimochi.info##div.layout-simple.col-sm-12.col-md-6.col-lg-4:nth-of-type(4)
+lenlut.net##.catfix.ads-mobile.xx-ads
 live.actualitate.net###klaro
 live.actualitate.net##li.svelte-1szk8b4:nth-of-type(3)
+lenlut.net##.catfix.ads-mobile.xx-ads
 m.ziuanews.ro##li:nth-of-type(13)
 m.digi24.ro##.active.gdpr
 m.digi24.ro##.js_smartbanner.smartbanner--android.smartbanner
@@ -550,6 +583,13 @@ paginadeseriale.ro##.gotop
 paginadeseriale.ro##.bdaia-footer-e3-desktop
 paginadeseriale.ro##.theia_sticky.bd-sidebar
 paginadeseriale.ro##.bdaia-footer
+peroz.ro###gdpr > .container
+peroz.ro##.footer-top
+peroz.ro##.active.gdpr
+peroz.ro##.footer-top
+peroz.ro##.container > .gdpr-trigger.gdpr-button
+peroz.ro##.gdpr-modal-trigger.gdpr-button
+peroz.ro##.gdpr-modal-trigger.gdpr-link
 retete.unica.ro###footer
 romanialibera.ro##.td-pb-row.wpb_row.tdi_63.vc_row
 romanialibera.ro###ot-sdk-btn
@@ -565,6 +605,16 @@ renasterea.ro###site-navigation
 renasterea.ro##.link-fb
 renasterea.ro##.custom-html-widget.textwidget
 renasterea.ro###colophon
+rule34video.com##input.button:nth-of-type(2)
+rule34video.com##.heading_title
+site.a-evolution.ro###wpfront-scroll-top-container
+site.a-evolution.ro##.post-box
+hentaiapk.com##.ads_single_center.ads
+hentaiapk.com##.ads_home.ads > [href^="https://indiatiktok.vip/"]
+steamygamer.com##.gpg-container-footer.xy-center.matryo-main-container
+site.a-evolution.ro###wpfront-scroll-top-container
+site.a-evolution.ro##.post-box
+steamygamer.com##.gpg-container-footer.xy-center.matryo-main-container
 stirileprotv.ro##.tableCross
 stirileprotv.ro###first > .outer-wrapper
 stirileprotv.ro###left-next-two > .outer-wrapper
@@ -583,11 +633,17 @@ suceavanews.ro###footer
 suceavanews.ro##.InMargin_Top
 subs.ro###cookie-consent
 subs.ro##footer.bg-\[\#EDEBDC\]
+site.a-evolution.ro###wpfront-scroll-top-container
+site.a-evolution.ro##.post-box
 telem.ro###block
 telem.ro###block-
 telem.ro##.aft-sticky-sidebar.widget-area
 vivo-shopping.com##.site-footer__meta
 vivo-shopping.com##.scrollToTopSideButton
+vl3x.net##.catfix.ads-mobile.xx-ads
+xnxxpro.net###showpreload
+xnxxpro.net##.catfish.ads-mobile.xx-ads
+xnxxpro.net##body > .ad-header.ad-content
 ziardecluj.ro##.footer-menu
 www.animax.co.jp##.o-footer-page-top-button
 www.axn.ro###footer-legal
@@ -605,6 +661,13 @@ www.avantaje.ro##.footer-nav
 www.avantaje.ro##.copyright.container-fluid
 www.avantaje.ro##div.strawberry-ads
 www.avantaje.ro##.col-sm-6
+www.adultgamesapk.com##.visible.dark.epcl-button
+www.adultgamesapk.com##.border-effect.published
+www.adultgamesapk.com##div.tablet-grid-50.grid-33:nth-of-type(3)
+www.adultgamesapk.com##.grid-container.epcl-banner-below_header.mobile-grid-100.textcenter.epcl-banner
+www.blog.adultgamesapk.com##[src="https://www.blog.adultgamesapk.com/wp-content/themes/reco/assets/images/top-arrow.svg"]
+www.blog.adultgamesapk.com##.visible.dark.epcl-button
+www.blog.adultgamesapk.com##.border-effect.published
 www.bbc.com##footer
 www.bbc.co.uk##.e1k195vp4.ssrcss-1wnvszv-FooterStack
 www.bbc.com##footer
@@ -629,6 +692,9 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+www.cartoonpornvideos.com##.grow.py-1.modal-body
+www.cartoonpornvideos.com##.text-center.mt-4.modal-footer > .mt-4
+www.cartoonpornvideos.com##.show.scroll-top-btn
 www.cotidianul.ro##.mh-copyright-wrap
 www.cotidianul.ro##.widget_media_image.mh-home-12.mh-widget
 www.cotidianul.ro##.mh-header-widget-2.mh-col-2-3
@@ -673,9 +739,11 @@ www.hybrid-analysis.com
 www.hotnews.ro##div.footer-row:nth-of-type(1)
 www.hotnews.ro##[href="https://www.hotnews.ro/info/publicitate"]
 www.hotnews.ro##.header
-itch.io##.base_widget.youtube_mobile_banner_widget
-itch.io##.footer
-itch.io##.base_widget.content_warning_widget
+www.ixxx.com##.grow.py-1.modal-body
+www.ixxx.com##.text-center.mt-4.modal-footer > .mt-4
+www.ixxx.com##.show.scroll-top-btn
+www.ixxx.com##.text-md.my-2.grid
+www.ixxx.com##.text-md.mobile\:grid-cols-1.grid-cols-2.gap-2.grid
 www.libertatea.ro###ot-sdk-btn
 www.libertatea.ro##.links > .secondary-nav-item.menu-item-2562077.menu-item-object-custom.menu-item-type-custom.menu-item
 www.libertatea.ro##div.strawberry-ads
@@ -692,7 +760,18 @@ www.libertateapentrufemei.ro##.min-width-10.mg-bottom-40.strawberry-ads
 www.libertateapentrufemei.ro##.font-size36.font-second.text-center.width-620-lg.content-recipe
 www.libertateapentrufemei.ro##.newsman-subscribe-widget
 www.libertateapentrufemei.ro##.lpf
+www.mercurynews.com##.dfm-site-info
+www.mercurynews.com##.site-footer
+www.nutaku.net##p:nth-of-type(3)
+www.nutaku.net##p:nth-of-type(2)
+www.nutaku.net##p:nth-of-type(4)
+www.nutaku.net##.sct-3.scrollbar.col-light-blue-gray.text.flx
+www.nutaku.net##.fnt-small-2.flx-column.copyright
 www.new-york.cylex.us.com##div:nth-of-type(6)
+www.pocket-lint.com###adsninja-ad-zone-adsninja-ad-unit-1688072157049-5ff4aed9ff37f8
+www.pocket-lint.com###dynamically-injected-refresh-ad-zone-div-gpt-ad-1599675187012-ccr-REPEAT2 > .ad-current
+www.pocket-lint.com###adsninja-ad-zone-div-gpt-ad-1599675187012-ccr3
+www.pocket-lint.com###dynamically-injected-refresh-ad-zone-div-gpt-ad-1599675187012-ccr-REPEAT4 > .ad-current
 www.profm.ro###gdpr
 www.profm.ro##.footer-content
 www.paginademedia.ro###pushinstruments_popup
@@ -702,6 +781,9 @@ www.paginademedia.ro##div.demand-supply
 www.paginademedia.ro##footer
 www.paginademedia.ro##.text-center.box
 www.paginademedia.ro##.box-newsletter.box
+www.peroz.ro##.active.gdpr
+www.peroz.ro##.article-page-widget-question
+www.peroz.ro##.footer
 www.realitatea.net##.rnet-advert-970-250-m-300-250.advert-placeholder.flex-row.w-100.justify-content-center.d-flex
 www.realitatea.net##.realitatea-footer-copyright
 www.realitatea.net##.realitatea-emisiuni-advertiser
@@ -711,6 +793,9 @@ www.realitatea.net##nav
 www.realitatea.net##.realitatea-category-block-button
 www.realitatea.net##.preview.progressive.realitatea-footer
 www.realitateasportiva.net##.p-scrolltop-enter-done.p-component.p-link.p-scrolltop
+www.reddit.com##.text-14.m-0.text-neutral-content.text-center
+www.reddit.com##.justify-center.inline-flex.button.button-secondary.px-\[length\:var\(--rem14\)\].button-medium.hover\:no-underline.outline-none.w-100
+www.reddit.com###RESOURCES > faceplate-tracker:nth-of-type(2)
 www.risco.ro##.cc_b_ok
 www.risco.ro##.cc_overlay_lock
 www.risco.ro##div.mb-5.mb-md-0.col-12.col-sm-6.col-md-4.col-xl-3:nth-of-type(3)
@@ -718,6 +803,14 @@ www.stirisuceava.net##.show-webpushr-notification-card
 www.stirisuceava.net##.show.btn.back-top
 www.stirisuceava.net##.site-footer
 www.stirisuceava.net##.HTML.widget
+www.sexxdolls.co###age-check-prompt > p
+www.sexxdolls.co###button-exit
+www.sexxdolls.co###age-check-prompt > span
+www.sexxdolls.co###prompt-background
+www.sexdolls.com###disagree_btn
+www.sexdolls.com###preview_sub_header_text
+www.sexdolls.com##.disagree
+www.sexdolls.com##.coca-cowi.coca-clean
 www.unica.ro##.newsbee-banner
 www.unica.ro###ot-sdk-btn
 www.unica.ro##.hidden-sm.strawberry-ads
@@ -735,6 +828,19 @@ www.viva.ro##div.strawberry-ads
 www.viva.ro##section.ovf-hidden.z-index-1.mg-bottom-60.rlt.pd-top-30.padding-bottom-30.bg-section.tmp-four-art-inline-bg
 www.viva.ro##.lazyloaded.clearboth.clearfix.rlt.section-footer
 www.viva.ro##.menu-mobile__btn.newsbee-banner
+www.visele.ro###footer > strong
+www.visele.ro##body > strong
+www.xhentai.pro##.to-top-button
+www.xvideos.com###disclaimer-warning-p
+www.xvideos.com###disclaimer-top
+www.xvideos.com###disclaimer-over18
+www.xvideos.com##.disclaimer-enter-label
+www.xvideos.com###disclaimer-parents
+www.xvideos.com##.disclaimer-enter-gay.btn-primary.btn
+www.xvideos.com##.disclaimer-enter-shemale.btn-primary.btn
+www.xvideos.com###disclaimer-accept_cookies
+www.xvideos.com##.disclaimer-manage_cookies.btn-default.btn
+www.xhentai.pro##.to-top-button
 www.ziar.com##body > div > p
 www.ziaruldeiasi.ro##[href="http://www.ziaruldeiasi.ro/anunturi"]
 www.ziaruldeiasi.ro##.head-menu-right > ul
