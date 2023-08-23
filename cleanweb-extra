@@ -511,6 +511,7 @@ dilemaveche.ro##.google-ads-billboard_small
 dilemaveche.ro##.google-ads-billboard
 dilemaveche.ro##.svelte-fercqp.legal
 duckduckgo.com##.footer--mobile
+dexonline.ro###scrollTopButton
 economedia.ro###ot-sdk-btn
 economedia.ro##.animated.bounceInup.ta_upscr
 economedia.ro###footer
@@ -523,6 +524,7 @@ filmehd.se###utwxmws
 fr.cylex-canada.ca##div:nth-of-type(6)
 fr.cylex-belgie.be##div:nth-of-type(5)
 fap-nation.com##.container > p:nth-of-type(5)
+fapforfun.net###scroll-top
 gamecax.com##.footer-wrapper
 historia.ro##.svelte-hyhflk.google-ads-billboard_small.gads
 historia.ro##.svelte-hyhflk.google-ads-billboard.gads
@@ -544,6 +546,8 @@ hanime.tv##.primary.theme--dark.btn--right.btn--fixed.btn--floating.btn--bottom.
 hanime.tv##div.footer__column.flex:nth-of-type(4) > .footer__list > li.footer__item:nth-of-type(2)
 hanime.tv##div.footer__column.flex:nth-of-type(4) > .footer__list > li.footer__item:nth-of-type(7)
 hentai.tv##section:nth-of-type(3) > .group > li:nth-of-type(4)
+hentaiapk.com##.ads_single_center.ads
+hentaiapk.com##.ads_home.ads > [href^="https://indiatiktok.vip/"]
 itch.io##.base_widget.youtube_mobile_banner_widget
 itch.io##.footer
 itch.io##.base_widget.content_warning_widget
@@ -608,8 +612,6 @@ rule34video.com##input.button:nth-of-type(2)
 rule34video.com##.heading_title
 site.a-evolution.ro###wpfront-scroll-top-container
 site.a-evolution.ro##.post-box
-hentaiapk.com##.ads_single_center.ads
-hentaiapk.com##.ads_home.ads > [href^="https://indiatiktok.vip/"]
 steamygamer.com##.gpg-container-footer.xy-center.matryo-main-container
 site.a-evolution.ro###wpfront-scroll-top-container
 site.a-evolution.ro##.post-box
