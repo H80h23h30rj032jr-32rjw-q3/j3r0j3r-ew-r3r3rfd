@@ -17,7 +17,6 @@
 // @match        https://*.search.yahoo.com/*
 // @match        https://www.ecosia.org/*
 // @match        https://www.qwant.com/*
-// @match        https://*.youtube.com/*
 // @match        https://*.dailymotion.com/*
 // @match        https://*.reddit.com/*
 // @include      /^https://metager.[a-z]*/
