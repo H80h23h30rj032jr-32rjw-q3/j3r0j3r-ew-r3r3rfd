@@ -11,6 +11,7 @@
 // @match        https://www.bing.com/images/search?*
 // @match        https://www.bing.com/videos/search?*
 // @match        https://www.bing.com/news/search?*
+// @match        https://www.bing.com/search?q=*
 // @match        https://duckduckgo.com/?q=*
 // @match        https://duckduckgo.com/?q=*&t=fpas&iar=images
 // @match        https://yep.com/*
