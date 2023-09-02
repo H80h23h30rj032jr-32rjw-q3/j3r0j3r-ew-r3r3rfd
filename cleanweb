@@ -181,8 +181,6 @@ consent.google.com##.customButtonContainer
 google.com##.contentText
 google.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .searchButton.button.basebutton
 google.com##.customButtonContainer
-m.youtube.com##.consent-bump-v2-lightbox-header-eom
-m.youtube.com##.consent-bump-v2-lightbox
 www.google.com##div.VfXErd:nth-of-type(3) > span:nth-of-type(1)
 www.google.com##div.VfXErd:nth-of-type(1) > span:nth-of-type(1)
 www.google.com##.prmo
@@ -203,8 +201,6 @@ www.google.com###footer
 www.google.com##div.VfXErd:nth-of-type(1) > span:nth-of-type(1)
 policies.google.com##.BXXR1b.M9Bg4d.ThQiWd.XHsn7e.U26fgb
 policies.google.com##.SGBcfd
-||accounts.google.com/gsi/iframe/select?client_id=705819728788-b2c1kcs7tst3b7ghv7at0hkqmtc68ckl.apps.googleusercontent.com&auto_select=true&ux_mode=popup&ui_mode=bottom_sheet&as=D1paZgCTX%2FhZs7xpbkK8kA&is_itp=true&channel_id=10e4d4d2a4f6615545cfe38e77b2c5fc6144276157e2b1b12fc65f75f3d66e4a&origin=https%3A%2F%2Fwww.reddit.com$subdocument
-||accounts.google.com/gsi/iframe/select$subdocument
 consent.yahoo.com##.accept-all.secondary.btn
 consent.yahoo.com##div.content-section:nth-of-type(2)
 consent.yahoo.com##.manage-settings.mng-btn.secondary.btn
