@@ -625,6 +625,7 @@ mediagalaxy.ro##div.is-hidden-in-mobile-app
 medline-center.ro##.scroll-top
 medline-center.ro##.textwidget
 m.mediafax.ro##.thumb_list > div
+m.soundcloud.com##nav
 nguoiviet.tv##.in.fade.right.x-scroll-top
 noaddict-clinica.ro##.menu-links
 noaddict-clinica.ro##.floating-button
@@ -638,6 +639,7 @@ okmagazine.ro##.svelte-hyhflk.google-ads-billboard.gads
 okmagazine.ro##.adsbyvli
 okmagazine.ro##.svelte-dz1s8x.legal
 okmagazine.ro###ot-sdk-btn
+otakukart.com###colophon
 plafaria.ro##.notification.module-notification-137.module-notification.module
 plafaria.ro##.scroll-top-active.scroll-top
 paginadeseriale.ro##.gotop
@@ -698,9 +700,11 @@ subs.ro##footer.bg-\[\#EDEBDC\]
 site.a-evolution.ro###wpfront-scroll-top-container
 site.a-evolution.ro##.post-box
 support.apple.com##.footer-wrapper
+static-homepage-en.pluto.tv##.MuiGrid-grid-xs-12-253.MuiGrid-item-209.MuiGrid-container-208.jss202.MuiGrid-root-207
 telem.ro###block
 telem.ro###block-
 telem.ro##.aft-sticky-sidebar.widget-area
+twinfinite.net###site-footer
 unblocksite.org###cookie-notice
 unblockit.pages.dev##.feedback
 vivo-shopping.com##.site-footer__meta
@@ -793,6 +797,9 @@ www.cotidianul.ro###media_image-1
 www.cotidianul.ro###media_image-2
 www.cotidinaul.ro###media_image-3
 www.cotidianul.ro##p:nth-of-type(7)
+www.cbr.com##.wrapper.w-footer
+www.cbr.com##.adsninja-ad-zone
+www.cbr.com###menu-features > li.sidenav-elements:nth-of-type(3)
 www.digi.ro##.widget-message-content
 www.digi.ro##.active.gdpr
 www.digi-world.tv###gdpr
@@ -801,7 +808,6 @@ www.digi-animalworld.tv###gdpr
 www.digi-animalworld.tv##.footer-top
 www.digi-life.tv###gdpr
 www.digi-life.tv##.footer-top
-www.elle.ro##.newsbee-banner
 www.digifm.ro###gdpr
 www.digifm.ro##.footer-content
 www.dancefm.ro###gdpr
@@ -816,6 +822,7 @@ www.draeger.com##.copylinecontent
 www.daciaplant.ro###back-top
 www.daciaplant.ro##.ft-copyright.row
 www.dedeman.ro##.application-bar-wrap
+www.elle.ro##.newsbee-banner
 www.euronews.com##.list-open.js-accordion.o-template-footer__element-3.c-footer-sitemap__list
 www.elle.ro###ot-sdk-btn
 www.elle.ro##div.strawberry_ads_container
@@ -844,12 +851,16 @@ www.hybrid-analysis.com
 www.hotnews.ro##div.footer-row:nth-of-type(1)
 www.hotnews.ro##[href="https://www.hotnews.ro/info/publicitate"]
 www.hotnews.ro##.header
+www.hidive.com##.grecaptcha-badge
+www.hidive.com##.overflow-auto.tb-padding-10
 www.ixxx.com##.grow.py-1.modal-body
 www.ixxx.com##.text-center.mt-4.modal-footer > .mt-4
 www.ixxx.com##.show.scroll-top-btn
 www.ixxx.com##.text-md.my-2.grid
 www.ixxx.com##.text-md.mobile\:grid-cols-1.grid-cols-2.gap-2.grid
 www.impact.ro##div.strawberry-ads
+indianexpress.com###custom_sticky_ads
+indianexpress.com##.hide_utm_paytm_phonepe.js-btm-nav
 www.libertatea.ro###ot-sdk-btn
 www.libertatea.ro##.links > .secondary-nav-item.menu-item-2562077.menu-item-object-custom.menu-item-type-custom.menu-item
 www.libertatea.ro##div.strawberry-ads
