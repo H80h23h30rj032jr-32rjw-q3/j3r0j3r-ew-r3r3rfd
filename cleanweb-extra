@@ -589,6 +589,14 @@ hanime.tv##div.footer__column.flex:nth-of-type(4) > .footer__list > li.footer__i
 hentai.tv##section:nth-of-type(3) > .group > li:nth-of-type(4)
 hentaiapk.com##.ads_single_center.ads
 hentaiapk.com##.ads_home.ads > [href^="https://indiatiktok.vip/"]
+hdsex2.com##.cookies-modal
+hdsex2.com##.player__inline-container
+hdsex2.com##.player__inline
+hdsex2.com##.player-section__ads-banners
+hdsex2.com##div.ads-el.video
+hdsex.org##.player-section__ads-banners
+hdsex.org##div.ads-el.video
+hentaixyuri.com##.active.go-to-top
 herbalrom.ro###contact_menu_mix
 herbalrom.ro##.awfm-warp-content
 itch.io##.base_widget.youtube_mobile_banner_widget
@@ -1043,3 +1051,5 @@ www.ziaruldeiasi.ro##.hidetopsite.center
 139.45.197.242
 188.114.97.2
 35.227.234.222
+62.122.171.6
+188.72.219.36
