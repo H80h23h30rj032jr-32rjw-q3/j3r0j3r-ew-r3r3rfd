@@ -551,6 +551,7 @@ clinic-centr.com##.show
 clinica-aliat.ro###qlwapp
 comenzi.bebetei.ro##div.footer-column.col-md-3.col-sm-6.col-12:nth-of-type(2)
 cybernews.com##.cookie-policy--is-open.cookie-policy
+duckduckgo.com##.footer--mobile
 drvorobjev.com##.laim-widget
 drvorobjev.com##.scrollactive.__mPS2id.scrollToTop
 dilemaveche.ro##.google-ads-billboard_small
@@ -635,6 +636,7 @@ m.mediafax.ro###ot-sdk-btn
 m.rfi.ro###ot-sdk-btn
 m.olx.ro##.css-ozd8i2
 m.olx.ro##.css-11l6j54
+m.ok.ru##.invite-block
 media9.ro##.banner-wrapper
 media9.ro##.widget-area.widget_custom_html.widget_text
 media9.ro##.lazy-loaded.wp-image-30280.aligncenter.lazy
@@ -1053,6 +1055,8 @@ www.xvideos.com##.disclaimer-enter-shemale.btn-primary.btn
 www.xvideos.com###disclaimer-accept_cookies
 www.xvideos.com##.disclaimer-manage_cookies.btn-default.btn
 www.xhentai.pro##.to-top-button
+www.youtube.com###redirect-backto-safety-button
+www.youtube.com###invalid-token-redirect-warning-text
 www.ziar.com##body > div > p
 www.ziaruldeiasi.ro##[href="http://www.ziaruldeiasi.ro/anunturi"]
 www.ziaruldeiasi.ro##.head-menu-right > ul
@@ -1122,3 +1126,12 @@ www.ziaruldeiasi.ro##.hidetopsite.center
 192.161.187.200
 209.141.38.71
 107.161.23.204
+173.194.222.95
+142.251.209.138
+142.251.41.10
+142.251.36.170
+142.250.203.106
+216.239.32.21
+216.239.34.21
+216.239.38.21
+216.239.36.21
