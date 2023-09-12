@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Disable safesearch
-// @namespace    http://tampermonkey.net/
+// @namespace    http://tampermonkey.net/https://github.com/H80h23h30rj032jr-32rjw-q3/j3r0j3r-ew-r3r3rfd/edit/main/off-safesearch
 // @version      0.1.4
 // @description  Set off safesearch on Bing, DuckDuckGo, Yep, You, Yahoo, Ecosia, Qwant, Metager, Startpage, brave
 // @author       You
 
-// @include      https://*.google.*/search*
-// @include      https://*.google.*/imgres*
+// @match        https://*.google.*/search*
+// @match        https://*.google.*/imgres*
 // @match        https://www.bing.com/search?*
 // @match        https://www.bing.com/images/search?*
 // @match        https://www.bing.com/videos/search?*
@@ -19,15 +19,15 @@
 // @match        https://*.search.yahoo.com/*
 // @match        https://www.ecosia.org/*
 // @match        https://www.qwant.com/*
-// @match        https://*.dailymotion.com/*
-// @match        https://*.reddit.com/*
-// @include      /^https://metager.[a-z]*/
+// @match        /^https://metager.[a-z]*/
 // @match        https://www.startpage.com/*
 // @match        https://search.brave.com/*
+// @match        https://search.brave.com/images/search?*
+// @match        https://search.brave.com/videos/search?*
+// @match        https://search.brave.com/news/search?*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bing.com
 // @grant        none
 // @run-at       document-start
-// @version     1.01
 
 // ==/UserScript==
     var url = window.location.href;
