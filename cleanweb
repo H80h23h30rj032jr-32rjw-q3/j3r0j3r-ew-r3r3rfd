@@ -125,7 +125,7 @@ www.anuntul.ro###btn-back-to-top
 www.jobradar24.ro##.show.modal-backdrop
 figeterpiazine.com
 ||p2p.$xmlhttprequest,websocket,ping,domain=~huya.com|~binance.com
-sendvid.com/embed/null
+https://sendvid.com/embed/null
 huya.com
 binance.com
 region1.app-measurement.com
@@ -135,7 +135,6 @@ imgur.com
 refinery89.com
 s3.us-east-1.amazonaws.com
 seedtag.com
-clarity.ms
 cdn.unblockia.com
 apicdn08.one
 cdnz023.one
@@ -713,7 +712,6 @@ imgix.net
 snap.licdn.com
 tr.snapchat.com
 api.appcues.net
-www.clarity.ms
 s.twitter.com
 star-mini.c10r.facebook.com
 q.quora.com
@@ -1148,7 +1146,6 @@ snap.licdn.com
 static.ads-twitter.com
 static.twimg.com
 bat.bing.com
-www.clarity.ms
 tracking.g2crowd.com
 www.gstatic.cn
 gstatic.cn
@@ -1649,7 +1646,6 @@ applets.ebxcdn.com
 securepubads.g.doubleclick.net
 fundingchoicesmessages.google.com
 analytics.afirstsoft.cn
-www.clarity.ms
 clearancejoinjavelin.com
 s10.histats.com
 alleviatepracticableaddicted.com
@@ -2723,8 +2719,6 @@ www.cookielaw.com
 cookiebot.com
 www.cookiebot.com
 onetrust.com
-www.quantcast.com
-quantcast.com
 m.digisport.ro##.js_smartbanner.smartbanner--android.smartbanner
 m.digisport.ro##.gdpr-embed-service.gdpr-social-media.gdpr-placeholder
 m.digisport.ro##.article-story.article > .gdpr-social-media.gdpr-placeholder
@@ -2746,7 +2740,6 @@ www.apeaksoft.com##ul.active:nth-of-type(4) > li:nth-of-type(6)
 www.apeaksoft.com##.problems_tab > ul
 www.apeaksoft.com##.problems_tab
 analytics.afirstsoft.cn
-www.clarity.ms
 clearancejoinjavelin.com
 s10.histats.com
 lifehacker.com##.js_footer-container
