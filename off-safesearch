@@ -43,7 +43,7 @@
 // @match        https://www.qwant.com/?t=videos&q=*
 // @match        /^https://metager.[a-z]*/
 // @match        https://www.startpage.com/sp/search
-// @match        https://search.brave.com/*
+// @match        https://search.brave.com/settings
 // @match        https://search.brave.com/search?q=*&source=web
 // @match        https://search.brave.com/images?q=*
 // @match        https://search.brave.com/videos?q=*
