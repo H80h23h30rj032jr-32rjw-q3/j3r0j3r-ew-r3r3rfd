@@ -8,9 +8,10 @@
 // @match        https://*.google.*/search*
 // @match        https://*.google.*/imgres*
 // @match        https://www.bing.com/search?*
-// @match        https://www.bing.com/images/search?*
-// @match        https://www.bing.com/videos/search?*
-// @match        https://www.bing.com/news/search?*
+// @match        https://www.bing.com/images/search?q=*&FORM=HDRSC3
+// @match        https://www.bing.com/videos/search?q=*&FORM=HDRSC4
+// @match        https://www.bing.com/news/search?q=*&FORM=HDRSC7
+// @match        https://www.bing.com/search?q=*&FORM=HDRSC1
 // @match        https://www.bing.com/search?q=*
 // @match        https://duckduckgo.com/?q=*
 // @match        https://duckduckgo.com/?q=*&t=fpas&iar=images
