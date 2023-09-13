@@ -5,14 +5,8 @@
 // @description  Set off safesearch on Bing, DuckDuckGo, Yep, You, Yahoo, Ecosia, Qwant, Metager, Startpage, brave
 // @author       You
 
-// @match        https://www.google.com/safesearch#spf=1694580190090
-// @match        https://www.google.com/search?q=*&sca_esv=564912168&tbm=isch&ved=0ahUKEwjw9dbA4qaBAxXGg_0HHTMgBzwQ_AUIBigB
-// @match        https://www.google.com/search?q=*&sca_esv=564912168&tbm=vid&ved=0ahUKEwjcnJrs46aBAxUb57sIHW8OBhUQ_AUICA
-// @match        https://www.google.com/search?q=*&sca_esv=564912168&tbm=isch
-// @match        https://www.google.com/search?q=*&sca_esv=564912168&tbm=shop&ved=0ahUKEwiLqL3746aBAxWc_bsIHXTNCToQ_AUICCgD
-// @match        https://www.google.com/search?q=*&sca_esv=564912168&tbm=nws&ved=0ahUKEwiqjIuS5KaBAxU7gv0HHQUsCOgQ_AUIBw
-// @match        https://www.google.com/search?q=*&sca_esv=564912168&tbm=bks&ved=0ahUKEwiP2OSh5KaBAxW0hP0HHSe0CbAQ_AUICygG
-// @match        https://www.google.com/safesearch#spf=1694580588347
+// @include      https://*.google.*/search*
+// @include      https://*.google.*/imgres*
 // @match        https://www.bing.com/search?*
 // @match        https://www.bing.com/images/search?q=*&FORM=HDRSC3
 // @match        https://www.bing.com/videos/search?q=*&FORM=HDRSC4
@@ -62,6 +56,11 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bing.com
 // @grant        none
 // @run-at       document-start
+// @include      /^https://metager.[a-z]*/
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=bing.com
+// @grant        none
+// @run-at       document-start
+// @version      1.01
 
 // ==/UserScript==
     var url = window.location.href;
