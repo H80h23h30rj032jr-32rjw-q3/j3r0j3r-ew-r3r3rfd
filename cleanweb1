@@ -58,6 +58,7 @@ m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.
 duckduckgo.com##.footer--mobile
 www.youtube.com###redirect-backto-safety-button
 www.youtube.com###invalid-token-redirect-warning-text
+m.youtube.com##ytm-reel-shelf-renderer.item
 m.ok.ru##.invite-block
 m.soundcloud.com##li:nth-of-type(9)
 ytmp3.cc###footer
