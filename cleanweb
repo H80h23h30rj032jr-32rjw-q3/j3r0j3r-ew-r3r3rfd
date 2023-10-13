@@ -64,6 +64,8 @@ xanimu.com###before-list-boxes-mobile-sing
 xanimu.com##.as-cover.has-visible-layers.xp-Player > div:nth-of-type(3)
 xanimu.com###dclm_modal_screen
 xanimu.com###dclm_modal_content
+altex.ro###__next > div.is-hidden-in-mobile-app:nth-of-type(3)
+www.gog.com##.main-footer.footer-microservice
 www.peroz.ro##.footer-top
 news.yahoo.com##li.My\(16px\).native-ad-item.stream-ad
 www.wall-street.ro##.mobile.sharebox.list-unstyled
@@ -75,8 +77,6 @@ m.downloadatoz.com##.back-home
 www.youtube.com##.glue-cookie-notification-bar
 www.gtabase.com##.cd-is-visible.cd-top
 m.youtube.com##.big-shorts-singleton
-m.youtube.com##.ytm-bottom-sheet-overlay-container
-m.youtube.com##ytm-reel-shelf-renderer.item
 www.mattca.ro##.amgdprjs-bar-template
 www.clario.ro##.menu-item-13191.menu-item-object-page.menu-item-type-post_type.menu-item
 q-vision.ro##.elementor-section-height-default.elementor-section-boxed.elementor-element-13705cf6.elementor-element.elementor-top-section.elementor-section
@@ -97,8 +97,6 @@ roadesimerinde.ro##.button-show.scrollToTop
 veera.ro###overlay
 m.spectacola.ro##footer
 rum.me-medical.com##.active.radius6.scroll-top
-m.youtube.com##ytm-rich-section-renderer
-m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(3)
 www.easycodeway.com###HTML6 > .widget-content > ul
 www.computerworld.com##.about
 www.digitalcitizen.life###back2top
@@ -186,7 +184,6 @@ extensionworkshop.com##[href="https://www.mozilla.org/privacy/websites/#cookies"
 mp3cut.net##.top.ad
 networthpost.org##.post-footer-on-mobile.post-footer
 www.realitatea.net##.realitatea-mobile-advert-under-description.rnet-advert-300-250-only-mobile.mb-5.mt-5.flex-row.w-100.justify-content-center.d-flex
-m.youtube.com##.yt-core-attributed-string__link--call-to-action-color.yt-core-attributed-string__link--display-type.yt-core-attributed-string__link
 ||www.undelucram.ro/img/frontend/layout/images/ul-plus.png$image
 ||www.undelucram.ro/img/frontend/layout/images/ul-*.png$image
 www.undelucram.ro##.notifyjs.error
