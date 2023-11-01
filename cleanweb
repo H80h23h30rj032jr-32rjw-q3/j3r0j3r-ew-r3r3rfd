@@ -22,6 +22,21 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+www.peroz.ro##p.gdpr-social-media.gdpr-placeholder
+www.peroz.ro##p.gdpr-social-media.gdpr-placeholder:nth-of-type(0)
+www.peroz.ro##p.gdpr-social-media.gdpr-placeholder:nth-of-type(1)
+www.peroz.ro##p.gdpr-social-media.gdpr-placeholder:nth-of-type(2)
+www.peroz.ro##p.gdpr-social-media.gdpr-placeholder:nth-of-type(3)
+www.peroz.ro##p.gdpr-social-media.gdpr-placeholder:nth-of-type(4)
+www.peroz.ro##p.gdpr-social-media.gdpr-placeholder:nth-of-type(5)
+www.peroz.ro##p.gdpr-social-media.gdpr-placeholder:nth-of-type(6)
+www.peroz.ro##p.gdpr-social-media.gdpr-placeholder:nth-of-type(7)
+www.peroz.ro##p.gdpr-social-media.gdpr-placeholder:nth-of-type(8)
+www.peroz.ro##p.gdpr-social-media.gdpr-placeholder:nth-of-type(9)
+www.peroz.ro##p.gdpr-social-media.gdpr-placeholder:nth-of-type(10)
+www.peroz.ro##p.gdpr-social-media.gdpr-placeholder:nth-of-type(11)
+www.101figurine.ro###myBtn
+www.101figurine.ro##[href="/static/politica-de-utilizare-cookie-uri/"]
 24iasi.ro##.animated.bounceInup.ta_upscr
 colegiuladamachi.ro##[href="https://colegiuladamachi.ro/cookie-policy-eu/"]
 m.facebook.com##.bottom.fixed-container.m
@@ -924,34 +939,15 @@ www.radiounirea.ro##.mvp_ad_widget.widget-container
 okteve.com###gototop
 posturi.live##.mt-3.p-2.colorize.footer
 peroz.ro##hidden
-www.peroz.ro###gdpr
-www.peroz.ro##gdpr
-peroz.ro###gdpr
-peroz.ro##gdpr
 www.peroz.ro##.gdpr-modal-trigger.gdpr-link
-www.peroz.ro##.active.gdpr
-peroz.ro##active.gdpr
-peroz.ro###active.gdpr
-peroz.ro##.inactive.gdpr
-peroz.ro###inactive.gdpr
-peroz.ro##inactive.gdpr
-peroz.ro##consent
-peroz.ro###consent
-peroz.ro##banner
-peroz.ro###banner
-peroz.ro##cookie
-peroz.ro###cookie
 www.peroz.ro###gdpr > .container
-www.peroz.ro##.active.gdpr
 www.peroz.ro##.footer
 www.peroz.ro##.gdpr-list-item
 www.peroz.ro##.gdpr
 www.peroz.ro##.gdpr-modal-box
 brat.ro
 www.peroz.ro##.gdpr-modal
-www.peroz.ro##.gdpr.gdpr
 www.peroz.ro##td
-www.peroz.ro##.gdpr-modal-box
 www.peroz.ro##.gdpr-modal-trigger.gdpr-button
 www.peroz.ro##.gdpr-subtitle
 www.peroz.ro##.gdpr-title
@@ -962,6 +958,8 @@ www.peroz.ro##.gdpr-modal-trigger.gdpr-link
 www.peroz.ro##.gdpr-trigger.gdpr-button
 www.peroz.ro##.v-center-container
 www.peroz.ro##span
+www.peroz.ro##+js(json-prune, overlay.cosentBumpV2Renderer)
+www.peroz.ro##+js(json-prune, overlay.cosentBumpV3Renderer)
 www.bugetul.ro##.terms.footer-mare
 astelus.com##.cli-modal-content.cli-bar-popup
 us.norton.com##.c-footer__legalfooter
@@ -1264,6 +1262,13 @@ www.google.com##.ads
 www.google.com##div.VpbkVe:nth-of-type(2)
 www.google.com###footer
 www.google.com##div.VfXErd:nth-of-type(1) > span:nth-of-type(1)
+youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer, undefined)
+youtube.com##+js(json-prune, overlay.consentBumpV2Renderer)
+m.youtube.com##+js(json-prune, overlay.cosentBumpV2Renderer)
+google.com##+js(json-prune, overlay.cosentBumpV2Renderer)
+cosent.google.com##+js(json-prune, overlay.cosentBumpV2Renderer)
+cosent.google.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer, undefined)
+google.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer, undefined)
 policies.google.com##.BXXR1b.M9Bg4d.ThQiWd.XHsn7e.U26fgb
 policies.google.com##.SGBcfd
 consent.yahoo.com##.accept-all.secondary.btn
@@ -1271,6 +1276,12 @@ consent.yahoo.com##div.content-section:nth-of-type(2)
 consent.yahoo.com##.manage-settings.mng-btn.secondary.btn
 consent.yahoo.com###consent-text
 consent.yahoo.com##._yb_1ool5._yb_b9sct
+consent.yahoo.com##+js(json-prune, overlay.cosentBumpV2Renderer)
+consent.yahoo.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer, undefined)
+consent.yahoo.com###+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer, undefined)
+consent.yahoo.com###+js(json-prune, overlay.cosentBumpV2Renderer)
+yahoo.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer, undefined)
+yahoo.com##+js(json-prune, overlay.cosentBumpV2Renderer)
 www.yahoo.com##.List\(n\).Colmc\(2\).Pb\(10px\).P\(0\).Mt\(32px\).Mx\(0\)
 www.yahoo.com##.lw-nav-open_D\(n\).uh-mobile-nav-open_D\(n\).SideSlot-open_D\(n\).W\(100\%\).Cl\(b\).YDC-Bottom
 www.gismeteo.ro##.cookienotify
