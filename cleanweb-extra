@@ -808,6 +808,12 @@ xanimu.com###before-list-boxes-mobile-singl
 xanimu.com##.as-cover.has-visible-layers.xp-Player > div:nth-of-type(3)
 xanimu.com###dclm_modal_screen
 xanimu.com###dclm_modal_content
+www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope
+www.youtube.com##.opened
+www.youtube.com##.yt-playability-error-supported-renderers.style-scope > .ytd-enforcement-message-view-model.style-scope
+www.youtube.com###container > .yt-playability-error-supported-renderers.style-scope
+www.youtube.com###error-screen > .yt-playability-error-supported-renderers.style-scope
+www.youtube.com###error-screen
 ziardecluj.ro##.footer-menu
 www.animax.co.jp##.o-footer-page-top-button
 www.axn.ro###footer-legal
