@@ -22,6 +22,12 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope
+www.youtube.com##.opened
+www.youtube.com##.yt-playability-error-supported-renderers.style-scope > .ytd-enforcement-message-view-model.style-scope
+www.youtube.com###container > .yt-playability-error-supported-renderers.style-scope
+www.youtube.com###error-screen > .yt-playability-error-supported-renderers.style-scope
+www.youtube.com###error-screen
 www.peroz.ro##p.gdpr-social-media.gdpr-placeholder
 www.peroz.ro##p.gdpr-social-media.gdpr-placeholder:nth-of-type(0)
 www.peroz.ro##p.gdpr-social-media.gdpr-placeholder:nth-of-type(1)
