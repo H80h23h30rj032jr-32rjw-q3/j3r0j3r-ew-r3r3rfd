@@ -29,6 +29,10 @@ www.youtube.com###container > .yt-playability-error-supported-renderers.style-sc
 www.youtube.com###error-screen > .yt-playability-error-supported-renderers.style-scope
 www.youtube.com###error-screen
 dpepsc.ps2.ro##.scrollup
+ioanaspune.ro###footer-area
+phoneswiz.com##.scroll-visible.vs-sm-true.vs-md-true.vs-lg-true.scroll-up-style-outline.scroll-up-side-right.scroll-ignore.scroll-up-wrap.kadence-scroll-to-top
+www.cezinfo.ro##[href="https://www.cezinfo.ro/cookies/"]
+phoneswiz.com###kt-scroll-up
 www.palasmall.ro##.overlay-email
 www.palasmall.ro##.js-cookie-consent.cookie-bar
 www.palasmall.ro##[href="https://www.palasmall.ro/en/cookies"]
