@@ -28,6 +28,10 @@ www.youtube.com##.yt-playability-error-supported-renderers.style-scope > .ytd-en
 www.youtube.com###container > .yt-playability-error-supported-renderers.style-scope
 www.youtube.com###error-screen > .yt-playability-error-supported-renderers.style-scope
 www.youtube.com###error-screen
+www.demandhub.co###demandhub-webchat-widget-root
+ytmp3hub.com##.opacity-75.bg-gray-500.inset-0.absolute
+noembed.co
+cdn.plyr.io
 www.doc.ro##.in.fade.modal-backdrop
 www.doc.ro##.description.col-12
 www.doc.ro##.gift.flex-center.modal-footer
