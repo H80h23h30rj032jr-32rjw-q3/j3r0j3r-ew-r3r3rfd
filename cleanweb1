@@ -28,6 +28,8 @@ www.youtube.com##.yt-playability-error-supported-renderers.style-scope > .ytd-en
 www.youtube.com###container > .yt-playability-error-supported-renderers.style-scope
 www.youtube.com###error-screen > .yt-playability-error-supported-renderers.style-scope
 www.youtube.com###error-screen
+bivoli.ro##.fa-chevron-double-up.fal
+bivoli.ro##.scrollup
 api.whatsapp.com
 api.whatsapp.com/send?phone=40726666690
 whatsapp.com
