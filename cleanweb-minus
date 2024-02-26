@@ -205,6 +205,21 @@ googleadservices.com
 www.googleadservices.com
 consent.google.com##.contentText
 consent.google.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .searchButton.button.basebutton
+m.youtube.com##.eom-accept > .yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--filled.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response-inverse.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
+m.youtube.com##ul
+m.youtube.com##div.legal-text > .yt-core-attributed-string
+m.youtube.com##.yt-spec-touch-feedback-shape--touch-response-inverse.yt-spec-touch-feedback-shape
+m.youtube.com##.dialog-topbar
+m.youtube.com##.privacy-terms
+m.youtube.com##.eom-accept
+m.youtube.com##ads
+m.youtube.com##.ads
+m.youtube.com##advertising
+m.youtube.com##cookie
+m.youtube.com##.ytp-ad-module.video-ads
+m.youtube.com##.icon-expand_more.show-more-button
+www.google.com##.AG96lb
+www.google.com###L2AGLb > .sy4vM.QS5gu
 www.reddit.com##shreddit-async-loader
 reddit.com##shreddit-async-loader
 m.reddit.com##shreddit-async-loader
