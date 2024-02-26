@@ -218,6 +218,17 @@ m.youtube.com##advertising
 m.youtube.com##cookie
 m.youtube.com##.ytp-ad-module.video-ads
 m.youtube.com##.icon-expand_more.show-more-button
+m.youtube.com##ad-slot-renderer
+m.youtube.com##ytm-reel-shelf-renderer.modern-typography.item
+m.youtube.com##ytm-info-panel-container-renderer
+www.youtube.com##ul.ytd-consent-bump-v2-lightbox.style-scope
+www.youtube.com##div.ytd-consent-bump-v2-lightbox.style-scope.legal-text
+www.youtube.com##.ytd-consent-bump-v2-lightbox.style-scope.termlinks
+www.youtube.com##.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--call-to-action.yt-spec-button-shape-next--outline.yt-spec-button-shape-next
+www.youtube.com##ytd-button-renderer.ytd-consent-bump-v2-lightbox.style-scope:nth-of-type(2) > yt-button-shape
+www.youtube.com##.ytd-ad-slot-renderer.style-scope
+www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
+www.youtube.com###player-ads
 www.google.com##.AG96lb
 www.google.com###L2AGLb > .sy4vM.QS5gu
 www.reddit.com##shreddit-async-loader
