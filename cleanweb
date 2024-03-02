@@ -57,6 +57,9 @@ m.youtube.com,music.youtube.com,youtubekids.com,youtube-nocookie.com##+js(json-p
 youtube.com##.ytlr-horizontal-list-renderer__items > .yt-virtual-list__container > .yt-virtual-list__item--visible.yt-virtual-list__item--selected.yt-virtual-list__item:has-text(Ad)
 ||googlevideo.com/initplayback?source=youtube*&c=TVHTML5&oad=$xhr,domain=youtube.com
 max-media.ro###back_to_top
+www.bestjobs.eu##.modal-backdrop-nth-1.show.fade.modal-backdrop
+tamiclinic.ro##b
+tamiclinic.ro##.on
 www.pxfuel.com##.aside
 www.pxfuel.com###ft
 www.pxfuel.com##.mr_mobile.ads
