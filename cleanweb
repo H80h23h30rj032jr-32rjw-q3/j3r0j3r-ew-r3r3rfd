@@ -56,6 +56,8 @@ m.youtube.com,music.youtube.com,tv.youtube.com,www.youtube.com,youtubekids.com,y
 m.youtube.com,music.youtube.com,youtubekids.com,youtube-nocookie.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots important)
 youtube.com##.ytlr-horizontal-list-renderer__items > .yt-virtual-list__container > .yt-virtual-list__item--visible.yt-virtual-list__item--selected.yt-virtual-list__item:has-text(Ad)
 ||googlevideo.com/initplayback?source=youtube*&c=TVHTML5&oad=$xhr,domain=youtube.com
+www.bucataria.lidl.ro##.noApp.js_oFooter.oFooter
+www.bucataria.lidl.ro##.mCompanyNav-link
 max-media.ro###back_to_top
 www.bestjobs.eu##.modal-backdrop-nth-1.show.fade.modal-backdrop
 tamiclinic.ro##b
