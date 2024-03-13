@@ -56,6 +56,9 @@ m.youtube.com,music.youtube.com,tv.youtube.com,www.youtube.com,youtubekids.com,y
 m.youtube.com,music.youtube.com,youtubekids.com,youtube-nocookie.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots important)
 youtube.com##.ytlr-horizontal-list-renderer__items > .yt-virtual-list__container > .yt-virtual-list__item--visible.yt-virtual-list__item--selected.yt-virtual-list__item:has-text(Ad)
 ||googlevideo.com/initplayback?source=youtube*&c=TVHTML5&oad=$xhr,domain=youtube.com
+cromite.en.uptodown.com###cookiescript_injected_wrapper
+cromite.en.uptodown.com##.login-uptodown
+m.digi24.ro##.video-player-embed
 www.bucataria.lidl.ro##.noApp.js_oFooter.oFooter
 www.bucataria.lidl.ro##.mCompanyNav-link
 max-media.ro###back_to_top
