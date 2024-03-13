@@ -54,6 +54,9 @@ youtube.com##.ytlr-horizontal-list-renderer__items > .yt-virtual-list__container
 news.sky.com##.sdc-article-body > .sdc-site-layout-sticky-region[data-format="floated-mpu"]
 news.sky.com##[data-label-text="Advertisement"]
 news.sky.com/story/robert-f-kennedy-jr-apologises-for-super-bowl-advert-resembling-jfk-campaign-13070616
+cromite.en.uptodown.com###cookiescript_injected_wrapper
+cromite.en.uptodown.com##.login-uptodown
+m.digi24.ro##.video-player-embed
 www.bucataria.lidl.ro##.noApp.js_oFooter.oFooter
 www.bucataria.lidl.ro##.mCompanyNav-link
 www.bestjobs.eu##.modal-backdrop-nth-1.show.fade.modal-backdrop
