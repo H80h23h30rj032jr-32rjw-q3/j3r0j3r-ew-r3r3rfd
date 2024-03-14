@@ -105,7 +105,6 @@ lumupu.xyz
 mail.ru
 makingnude.com
 miltlametta.com
-next-analytics.com
 qxqwgcnh.xyz
 realsrv.com
 refinery89.com
@@ -173,7 +172,6 @@ externalfavlink.com
 ak.koogreep.com
 overfitmanky.top
 writersurgence.top
-34.102.137.201
 pjvunkjgh.com
 ad.youdbox.site
 Ads.youbox.site
@@ -183,3 +181,5 @@ leaked-celebrities.com
 cdn1010.tnmr.org
 static.doubleclick.net
 media-imdb.com
+bet-romania.com
+converto_track.php
