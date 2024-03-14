@@ -64,3 +64,13 @@ i.mycdn.me
 otfwpnvyqt.com
 declareave.com
 movieplaycraze.com
+alwingulla.com
+onclickalgo.com
+pdqmwqcmsxhng.xyz
+ufpcdn.com
+zovidree.com
+bright-bridges.com
+ak.aungudie.com
+afu.php
+index.php
+crystevo.com
