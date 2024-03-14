@@ -34,10 +34,7 @@ downstairsnegotiatebarren.com
 documentaryselfless.com
 capaciousdrewreligion.com
 www.hcnxeqjc.com
-static.doodcdn.co
-img.doodcdn.co
 i.doodcdn.co
-cloudflare.com
 tunnel.websocketgate.com
 websocketgate.com
 freeimagecdn.net
@@ -54,7 +51,6 @@ ossmightyenar.net
 ptouckop.xyz
 oeufvkymknbie.com
 www.mozzartbet.ro
-img.luluvdo.com
 jtolkiamnax.com
 79b7ef984f.2a6d9e5059.com
 cvt1.sibnet.ru
@@ -68,7 +64,6 @@ alwingulla.com
 onclickalgo.com
 pdqmwqcmsxhng.xyz
 ufpcdn.com
-zovidree.com
 bright-bridges.com
 ak.aungudie.com
 afu.php
