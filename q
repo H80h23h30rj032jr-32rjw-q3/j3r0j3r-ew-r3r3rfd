@@ -7,12 +7,9 @@ h74v6kerf.com
 jaavnacsdw.com
 immerseweariness.com
 insectearly.com
-lylxan.com
 ku42hjr2e.com
 mawhhjoastprrd.com
 mucopussamkhya.com
-uppit.eu
-zovidree.com
 oaphoace.net
 papizedromon.life
 ungothoritator.com
@@ -28,7 +25,6 @@ tns-counter.ru
 takeplcdn.art
 rw7ljljeiyz.net
 kdnutwrx.com
-embedv.net
 dalyai.com
 grapsaidsee.net
 rohvyftxssn.com
@@ -58,7 +54,6 @@ ossmightyenar.net
 ptouckop.xyz
 oeufvkymknbie.com
 www.mozzartbet.ro
-luluvdo.com
 img.luluvdo.com
 jtolkiamnax.com
 79b7ef984f.2a6d9e5059.com
@@ -66,7 +61,6 @@ cvt1.sibnet.ru
 c.sibnet.ru
 st.mycdn.me
 i.mycdn.me
-fmoonembed.pro
 otfwpnvyqt.com
 declareave.com
 movieplaycraze.com
