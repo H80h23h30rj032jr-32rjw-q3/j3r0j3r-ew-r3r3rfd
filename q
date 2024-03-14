@@ -45,3 +45,11 @@ cloudflare.com
 tunnel.websocketgate.com
 websocketgate.com
 freeimagecdn.net
+www.zdljbrwosbymft.com
+onclickperformance.com
+onclickgenius.com
+goraccodisobey.com
+www.fvcdduqg.com
+cupoabie.net
+mc.yandex.ru
+oela888ly87x.enaak-cdn.com
