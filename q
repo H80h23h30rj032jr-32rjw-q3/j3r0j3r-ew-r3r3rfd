@@ -32,3 +32,16 @@ embedv.net
 dalyai.com
 grapsaidsee.net
 rohvyftxssn.com
+proftrafficcounter.com
+s1yos6hpnkhg.enaak-cdn.com
+downstairsnegotiatebarren.com
+documentaryselfless.com
+capaciousdrewreligion.com
+www.hcnxeqjc.com
+static.doodcdn.co
+img.doodcdn.co
+i.doodcdn.co
+cloudflare.com
+tunnel.websocketgate.com
+websocketgate.com
+freeimagecdn.net
