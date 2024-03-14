@@ -66,3 +66,7 @@ cvt1.sibnet.ru
 c.sibnet.ru
 st.mycdn.me
 i.mycdn.me
+fmoonembed.pro
+otfwpnvyqt.com
+declareave.com
+movieplaycraze.com
