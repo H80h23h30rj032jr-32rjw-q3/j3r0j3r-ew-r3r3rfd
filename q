@@ -183,3 +183,5 @@ static.doubleclick.net
 media-imdb.com
 bet-romania.com
 converto_track.php
+static.doodcdn.co
+img.doodcdn.co
