@@ -56,6 +56,13 @@ m.youtube.com,music.youtube.com,tv.youtube.com,www.youtube.com,youtubekids.com,y
 m.youtube.com,music.youtube.com,youtubekids.com,youtube-nocookie.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots important)
 youtube.com##.ytlr-horizontal-list-renderer__items > .yt-virtual-list__container > .yt-virtual-list__item--visible.yt-virtual-list__item--selected.yt-virtual-list__item:has-text(Ad)
 ||googlevideo.com/initplayback?source=youtube*&c=TVHTML5&oad=$xhr,domain=youtube.com
+developer.chrome.com##devsite-cookie-notification-bar
+www.reddit.com##shreddit-async-loader
+www.google.com##div.yS1nld
+www.google.com##div.eLZYyf
+www.google.com###L2AGLb
+www.google.com##.IczZ4b
+www.google.com##.cG0Dmf.XWlrff
 www.peroz.ro##p.gdpr-social-media.gdpr-placeholder
 evenimentulistoric.ro###ado300ap1
 evenimentulistoric.ro###ado300ap2
