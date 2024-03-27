@@ -16,7 +16,7 @@
 // @match        https://duckduckgo.com/?q=*
 // @match        https://duckduckgo.com/?q=*&t=fpas&iar=images
 // @match        https://yep.com/web?q=*
-// @match        https://yep.com/images?q=*
+// @match        https://yep.com/images?gl=RO&q=*
 // @match        https://yep.com/news?q=*
 // @match        https://you.com/*
 // @match        https://openverse.org/search/?q=*
@@ -38,11 +38,11 @@
 // @match        https://www.ecosia.org/images?q=*
 // @match        https://www.ecosia.org/videos?q=*
 // @match        https://www.ecosia.org/news?q=*
-// @match        https://www.qwant.com/?q=*&t=web
-// @match        https://www.qwant.com/?t=images&q=*
-// @match        https://www.qwant.com/?t=videos&q=*
+// @match        https://www.qwant.com/?s=0&t=images&q=*
+// @match        https://www.qwant.com/?s=0&t=web&q=*
+// @match        https://www.qwant.com/?s=0&q=*&t=videos
 // @match        /^https://metager.[a-z]*/
-// @match        https://www.startpage.com/sp/search
+// @match        https://www.startpage.com/search
 // @match        https://search.brave.com/settings
 // @match        https://search.brave.com/search?q=*&source=web
 // @match        https://search.brave.com/images?q=*
