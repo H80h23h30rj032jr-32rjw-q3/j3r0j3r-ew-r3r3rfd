@@ -57,6 +57,23 @@ m.youtube.com,music.youtube.com,youtubekids.com,youtube-nocookie.com##+js(json-p
 youtube.com##.ytlr-horizontal-list-renderer__items > .yt-virtual-list__container > .yt-virtual-list__item--visible.yt-virtual-list__item--selected.yt-virtual-list__item:has-text(Ad)
 ||googlevideo.com/initplayback?source=youtube*&c=TVHTML5&oad=$xhr,domain=youtube.com
 developer.chrome.com##devsite-cookie-notification-bar
+yoric.github.io##.suspension
+www.g2a.com##.go-to-top-icon
+www.g2a.com##.footer
+www.nytimes.com###btt_label
+www.nytimes.com##div._21dcd5e0:nth-of-type(3)
+voltromania.org##.lg\:gap-0.lg\:flex.text-purple-500.gap-5.grid > a.underline
+oameniliberi.com##.footer-tc-wrapper li
+asianngo.org##.sticky-container
+hentaiapk.com###backtotop
+hentaifromhell.org##.hvr-fade
+m.40407.com###back-to-top > [src]
+m.40407.com##.new-footer
+m.apkpure.com###credential_picker_iframe
+jujutsu-kaisen-phantom-parade.en.uptodown.com##.login-uptodown
+college-brawl.en.uptodown.com##.login-uptodown
+scatfile.com###scroll-top
+apkaward.com###goTop
 blogul-lui-atanase.ro###ez-cookie-dialog-wrapper
 m.ok.ru##.cookie-policy_cnt
 m.vk.com##.vkuiModalRoot
@@ -6730,9 +6747,6 @@ asfromania.ro###sp-cookie-consent
 afrocareromania.com##.jsFixedMessage.is-fixed-bottom.fixed-message-section.shopify-section
 www.ioanaspavel.ro##.obfx-cookie-bar-container
 www.opex.com##.optanon-alert-box-wrapper
-cookielaw.org
-cookiepro.com
-cdn.cookielaw.org
 talpalari.mmb.ro##.sliding-popup-bottom
 noriel.ro##.left-copy
 www.bestmarket.com.ro##.cc-color-override-688238583.cc-bottom.cc-theme-edgeless.cc-type-info.cc-floating.cc-window
@@ -8083,7 +8097,6 @@ www.worldcoinindex.com##.eupopup-container-block.eupopup-container.eupopup
 www.zainabchottani.com###eu-cookie-bar-notification
 www.moto24.ro###cookiePolicy
 www.rogroup.ro##.cc_banner-wrapper
-ag2.deseneanime.ro##.cookie-notice-visible.cn-effect-fade.cn-position-bottom.cookie-revoke-hidden
 gamcore.com##.cc_banner-wrapper
 www.amway.ro###cookiesPolicyWrapper
 pasta-de-dinti.compari.ro###cookie-disclaimer
