@@ -38,6 +38,13 @@ www.google.com##div.eLZYyf
 www.google.com###L2AGLb
 www.google.com##.IczZ4b
 www.google.com##.cG0Dmf.XWlrff
+a1.ro##.activate-social-media
+m.digi24.ro##.data-app-meta-article.data-app-meta.entry [src]
+ci-en.dlsite.com##.notAdult
+old.reddit.com##button.c-btn-primary.c-btn:nth-of-type(1)
+www.reddit.com##body > div:nth-of-type(1)
+www.reddit.com##xpromo-nsfw-blocking-modal
+www.reddit.com##body > div:nth-of-type(2)
 blogul-lui-atanase.ro###ez-cookie-dialog-wrapper
 m.ok.ru##.cookie-policy_cnt
 m.vk.com##.vkuiModalRoot
