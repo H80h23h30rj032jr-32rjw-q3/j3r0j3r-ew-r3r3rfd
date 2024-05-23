@@ -77,6 +77,13 @@ news.sky.com##[data-label-text="Advertisement"]
 news.sky.com/story/robert-f-kennedy-jr-apologises-for-super-bowl-advert-resembling-jfk-campaign-13070616
 www.tampermonkey.net##.show.clickable.back-to-top
 blog.mozilla.ai###ghost-portal-root
+www.google.com##body:style(overflow:auto!important;)
+!#if !env_firefox
+www.google.com##[href^="https://policies.google.com/privacy"]:upward([aria-label][aria-modal="true"][role="dialog"])
+!#endif
+!#if env_firefox
+www.google.com##^[href^="https://policies.google.com/privacy"]:upward([aria-label][aria-modal="true"][role="dialog"])
+!#endif
 twitter.com###credential_picker_iframe
 docs.github.com##footer
 jurnaluldeafaceri.ro##.popmake-content.pum-content
