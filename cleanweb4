@@ -84,6 +84,12 @@ blog.mozilla.ai###ghost-portal-root
 twitter.com###credential_picker_iframe
 docs.github.com##footer
 mezha.media##.b-top
+radio.vipotv.com###mytopBtn
+donaonline.ro##.fa-angle-up.fa
+m.sfatulmedicului.ro##header
+zombyfairfax.com
+illusiondramaexploration.com
+www.catalog-hypermarket.ro##div.card.top-a
 search.brave.com##section.svelte-1j58eib:nth-of-type(3) > .svelte-1j58eib.info > .svelte-1j58eib.text > .mb-0.t-primary.desktop-default-semibold
 search.brave.com##div.svelte-hx6e41.desktop-large-regular.page:nth-of-type(3)
 search.brave.com##div.svelte-hx6e41.desktop-large-regular.page:nth-of-type(2)
