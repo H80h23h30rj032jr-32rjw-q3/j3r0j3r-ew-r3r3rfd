@@ -76,6 +76,71 @@ m.youtube.com##.search-bar-entry-point-voice-search-button.search-bar-entry-poin
 m.youtube.com##.searchbox-voice-search-wrapper
 m.youtube.com##.icon-microphone_on.mobile-topbar-header-voice-search-button
 www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
+www.google.com##[href="/intl/ro/ads"]
+www.google.com##div.VfXErd:nth-of-type(3)
+www.google.com###gws-output-pages-elements-homepage_additional_languages__als
+www.google.at###pushdown
+www.google.be###pushdown
+www.google.co.uk###pushdown
+www.google.com###pushdown
+www.google.cz###pushdown
+www.google.de###pushdown
+www.google.es###pushdown
+www.google.fr###pushdown
+www.google.gr###pushdown
+www.google.ie###pushdown
+www.google.it###pushdown
+www.google.nl###pushdown
+www.google.pl###pushdown
+www.google.pt###pushdown
+www.google.ru###pushdown
+www.google.si###pushdown
+google.com##[class="gb_hb gb_kb gb_xa"]
+google.com##[class="gb_ib gb_lb gb_ya"]
+google.dk##.fbar
+www.google.com##.USRMqe
+www.google.com##.cookie-section
+www.google.com##.cookie-section
+consent.google.com##.FCY2lb > form:nth-of-type(1)
+consent.google.com##.Qhg5gf
+consent.google.com##.rjfsgd.QzsnAe
+consent.google.com##div.iWeOse.AaN0Dd.Usd1Ac.KC1dQ.VfPpkd-WsjYwc-OWXEXe-INsAgc.VfPpkd-WsjYwc:nth-of-type(3) > .uScs5d > div > .uScs5d > div:nth-of-type(2)
+consent.google.com##div.iWeOse.AaN0Dd.Usd1Ac.KC1dQ.VfPpkd-WsjYwc-OWXEXe-INsAgc.VfPpkd-WsjYwc:nth-of-type(4) > .uScs5d > div > .uScs5d > div:nth-of-type(2)
+consent.google.com##form.bBXLMd:nth-of-type(2)
+consent.google.com##.Nw1akf > .J7X4ye
+consent.google.com##.rjfsgd > .cRHNL > .Salxle > div.VfPpkd-dgl2Hf-ppHlrf-sM5MNb
+news.google.com##.i15yh > div:nth-of-type(2)
+ads.google.com
+ads.youtube.com
+ad.youtube.com
+youtubead.com
+adyoutube.com
+adsyoutube.com
+ad-youtube.com
+ads-youtube.com
+youtube-ad.com
+youtube-ads.com
+youtube.ad.com
+youtube.ads.com
+consent.youtube.com##.w5himb.FCY2lb > .lssxud
+m.youtube.com##.consent-bump-
+m.youtube.com##.dialog-topbar
+m.youtube.com##.dialog-body-eom
+m.youtube.com##.eom-accept
+m.youtube.com##.privacy-terms
+m.youtube.com##.eom-customize
+m.youtube.com##.show-more-container
+ads.yimg.com
+youtubeads.com
+consent.youtube.com##.a0gyw
+consent.youtube.com##.Qhg5gf
+consent.youtube.com##.w5himb.FCY2lb > form:nth-of-type(1)
+consent.youtube.com##.G4njw > .rjfsgd
+||youtube.com/pagead/
+||youtube.com/api/stats^
+/v1/log_event
+||youtube.com/ptracking?
+||doubleclick.net^
 news.sky.com##.sdc-article-body > .sdc-site-layout-sticky-region[data-format="floated-mpu"]
 news.sky.com##[data-label-text="Advertisement"]
 news.sky.com/story/robert-f-kennedy-jr-apologises-for-super-bowl-advert-resembling-jfk-campaign-13070616
@@ -4415,71 +4480,6 @@ www.business-adviser.ro##.gdpr-general-confirmation.gdpr
 www.reddit.com##.text-14.m-0.text-neutral-content.text-center
 www.reddit.com##.justify-center.inline-flex.button.button-secondary.px-\[length\:var\(--rem14\)\].button-medium.hover\:no-underline.outline-none.w-100
 www.reddit.com###RESOURCES > faceplate-tracker:nth-of-type(2)
-www.google.com##[href="/intl/ro/ads"]
-www.google.com##div.VfXErd:nth-of-type(3)
-www.google.com###gws-output-pages-elements-homepage_additional_languages__als
-www.google.at###pushdown
-www.google.be###pushdown
-www.google.co.uk###pushdown
-www.google.com###pushdown
-www.google.cz###pushdown
-www.google.de###pushdown
-www.google.es###pushdown
-www.google.fr###pushdown
-www.google.gr###pushdown
-www.google.ie###pushdown
-www.google.it###pushdown
-www.google.nl###pushdown
-www.google.pl###pushdown
-www.google.pt###pushdown
-www.google.ru###pushdown
-www.google.si###pushdown
-google.com##[class="gb_hb gb_kb gb_xa"]
-google.com##[class="gb_ib gb_lb gb_ya"]
-google.dk##.fbar
-www.google.com##.USRMqe
-www.google.com##.cookie-section
-www.google.com##.cookie-section
-consent.google.com##.FCY2lb > form:nth-of-type(1)
-consent.google.com##.Qhg5gf
-consent.google.com##.rjfsgd.QzsnAe
-consent.google.com##div.iWeOse.AaN0Dd.Usd1Ac.KC1dQ.VfPpkd-WsjYwc-OWXEXe-INsAgc.VfPpkd-WsjYwc:nth-of-type(3) > .uScs5d > div > .uScs5d > div:nth-of-type(2)
-consent.google.com##div.iWeOse.AaN0Dd.Usd1Ac.KC1dQ.VfPpkd-WsjYwc-OWXEXe-INsAgc.VfPpkd-WsjYwc:nth-of-type(4) > .uScs5d > div > .uScs5d > div:nth-of-type(2)
-consent.google.com##form.bBXLMd:nth-of-type(2)
-consent.google.com##.Nw1akf > .J7X4ye
-consent.google.com##.rjfsgd > .cRHNL > .Salxle > div.VfPpkd-dgl2Hf-ppHlrf-sM5MNb
-news.google.com##.i15yh > div:nth-of-type(2)
-ads.google.com
-ads.youtube.com
-ad.youtube.com
-youtubead.com
-adyoutube.com
-adsyoutube.com
-ad-youtube.com
-ads-youtube.com
-youtube-ad.com
-youtube-ads.com
-youtube.ad.com
-youtube.ads.com
-consent.youtube.com##.w5himb.FCY2lb > .lssxud
-m.youtube.com##.consent-bump-
-m.youtube.com##.dialog-topbar
-m.youtube.com##.dialog-body-eom
-m.youtube.com##.eom-accept
-m.youtube.com##.privacy-terms
-m.youtube.com##.eom-customize
-m.youtube.com##.show-more-container
-ads.yimg.com
-youtubeads.com
-consent.youtube.com##.a0gyw
-consent.youtube.com##.Qhg5gf
-consent.youtube.com##.w5himb.FCY2lb > form:nth-of-type(1)
-consent.youtube.com##.G4njw > .rjfsgd
-||youtube.com/pagead/
-||youtube.com/api/stats^
-/v1/log_event
-||youtube.com/ptracking?
-||doubleclick.net^
 adblockultimate.net##.cc-color-override--305207752.cc-left.cc-bottom.cc-theme-dark-bottom.cc-type-info.cc-floating.cc-window
 adblockultimate.net##.back-to-top--show.back-to-top
 www.animecharactersdatabase.com###notice1
