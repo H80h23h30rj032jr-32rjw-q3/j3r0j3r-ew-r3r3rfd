@@ -141,13 +141,6 @@ consent.youtube.com##.G4njw > .rjfsgd
 /v1/log_event
 ||youtube.com/ptracking?
 ||doubleclick.net^
-news.sky.com##.sdc-article-body > .sdc-site-layout-sticky-region[data-format="floated-mpu"]
-news.sky.com##[data-label-text="Advertisement"]
-news.sky.com/story/robert-f-kennedy-jr-apologises-for-super-bowl-advert-resembling-jfk-campaign-13070616
-www.tampermonkey.net##.show.clickable.back-to-top
-blog.mozilla.ai###ghost-portal-root
-twitter.com###credential_picker_iframe
-docs.github.com##footer
 pagead46.l.doubleclick.net
 pagead46.l.doubleclick.org
 pagead46.l.doubleclick.co
@@ -194,12 +187,9 @@ oqmwiisvw.io
 oqmwiisvw.xyz
 tds.favbet.ro
 image.pmgstatic.com
-search.brave.com##.svelte-bigf98
 pubtrky.com
 udvvqigup.com
 chatbro.com
-fsonline.vip##.darkmysite_switch_apple.darkmysite_bottom_left.darkmysite_switch
-cinepub.ro###moove_gdpr_cookie_info_bar
 vzlinks.com
 geozo.com
 https://cinepub.us10.list-manage.com
@@ -841,6 +831,16 @@ wa.me
 api.whatsapp.com
 api.whatsapp.com/send?phone=40726666690
 whatsapp.com
+search.brave.com##.svelte-bigf98
+fsonline.vip##.darkmysite_switch_apple.darkmysite_bottom_left.darkmysite_switch
+cinepub.ro###moove_gdpr_cookie_info_bar
+news.sky.com##.sdc-article-body > .sdc-site-layout-sticky-region[data-format="floated-mpu"]
+news.sky.com##[data-label-text="Advertisement"]
+news.sky.com/story/robert-f-kennedy-jr-apologises-for-super-bowl-advert-resembling-jfk-campaign-13070616
+www.tampermonkey.net##.show.clickable.back-to-top
+blog.mozilla.ai###ghost-portal-root
+twitter.com###credential_picker_iframe
+docs.github.com##footer
 stirileprotv.ro##.outer-wrapper
 stirileprotv.ro##.main-container-sticky
 rule34.xxx##.gdprinner
