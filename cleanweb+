@@ -76,6 +76,36 @@ m.youtube.com##.search-bar-entry-point-voice-search-button.search-bar-entry-poin
 m.youtube.com##.searchbox-voice-search-wrapper
 m.youtube.com##.icon-microphone_on.mobile-topbar-header-voice-search-button
 www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
+ads.youtube.com
+ad.youtube.com
+youtubead.com
+adyoutube.com
+adsyoutube.com
+ad-youtube.com
+ads-youtube.com
+youtube-ad.com
+youtube-ads.com
+youtube.ad.com
+youtube.ads.com
+consent.youtube.com##.w5himb.FCY2lb > .lssxud
+m.youtube.com##.consent-bump-
+m.youtube.com##.dialog-topbar
+m.youtube.com##.dialog-body-eom
+m.youtube.com##.eom-accept
+m.youtube.com##.privacy-terms
+m.youtube.com##.eom-customize
+m.youtube.com##.show-more-container
+ads.yimg.com
+youtubeads.com
+consent.youtube.com##.a0gyw
+consent.youtube.com##.Qhg5gf
+consent.youtube.com##.w5himb.FCY2lb > form:nth-of-type(1)
+consent.youtube.com##.G4njw > .rjfsgd
+||youtube.com/pagead/
+||youtube.com/api/stats^
+/v1/log_event
+||youtube.com/ptracking?
+||doubleclick.net^
 www.google.com##[href="/intl/ro/ads"]
 www.google.com##div.VfXErd:nth-of-type(3)
 www.google.com###gws-output-pages-elements-homepage_additional_languages__als
@@ -111,36 +141,6 @@ consent.google.com##.Nw1akf > .J7X4ye
 consent.google.com##.rjfsgd > .cRHNL > .Salxle > div.VfPpkd-dgl2Hf-ppHlrf-sM5MNb
 news.google.com##.i15yh > div:nth-of-type(2)
 ads.google.com
-ads.youtube.com
-ad.youtube.com
-youtubead.com
-adyoutube.com
-adsyoutube.com
-ad-youtube.com
-ads-youtube.com
-youtube-ad.com
-youtube-ads.com
-youtube.ad.com
-youtube.ads.com
-consent.youtube.com##.w5himb.FCY2lb > .lssxud
-m.youtube.com##.consent-bump-
-m.youtube.com##.dialog-topbar
-m.youtube.com##.dialog-body-eom
-m.youtube.com##.eom-accept
-m.youtube.com##.privacy-terms
-m.youtube.com##.eom-customize
-m.youtube.com##.show-more-container
-ads.yimg.com
-youtubeads.com
-consent.youtube.com##.a0gyw
-consent.youtube.com##.Qhg5gf
-consent.youtube.com##.w5himb.FCY2lb > form:nth-of-type(1)
-consent.youtube.com##.G4njw > .rjfsgd
-||youtube.com/pagead/
-||youtube.com/api/stats^
-/v1/log_event
-||youtube.com/ptracking?
-||doubleclick.net^
 pagead46.l.doubleclick.net
 pagead46.l.doubleclick.org
 pagead46.l.doubleclick.co
