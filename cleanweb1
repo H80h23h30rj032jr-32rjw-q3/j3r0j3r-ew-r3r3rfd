@@ -49,7 +49,8 @@ www.youtube.com##.yt-playability-error-supported-renderers.style-scope > .ytd-en
 www.youtube.com###container > .yt-playability-error-supported-renderers.style-scope
 www.youtube.com###error-screen > .yt-playability-error-supported-renderers.style-scope
 www.youtube.com###error-screen
-m.youtube.com##.YtDislikeButtonViewModelHost
+m.youtube.com##ad-slot-renderer
+youtube.com##ad-slot-renderer
 m.youtube.com##.ytm-bottom-sheet-overlay-container
 m.youtube.com###global-loader
 m.youtube.com##.search-bar-entry-point-voice-search-button.search-bar-entry-point-button > .search-bar-entry-point-icon > .yt-spec-icon-shape.yt-icon-shape
