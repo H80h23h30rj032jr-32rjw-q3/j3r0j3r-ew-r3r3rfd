@@ -1305,12 +1305,6 @@ adblockconverter.com
 trymask.com
 howtoremoveadblock.com
 blockadblock.com
-www.reddit.com##shreddit-async-loader.theme-beta
-mysexgamer.com##.candySides
-m.bilibili.com##.play-page-gotop
-www.stefanuta.ro###scroll-top > div
-food.techinfus.com###footer
-food.techinfus.com###slidebox
 brave.com##submit-llm-button
 search.brave.com###summarizer-infobox-main
 search.brave.com##.suggestion.llm
@@ -1320,6 +1314,12 @@ brave.com##[href="/ro/privacy/advertiser/"]
 brave.com##h5.site-footer__sub-heading:nth-of-type(2)
 brave.com##.brave-tooltip-parent
 search.brave.com##.svelte-bigf98
+www.reddit.com##shreddit-async-loader.theme-beta
+mysexgamer.com##.candySides
+m.bilibili.com##.play-page-gotop
+www.stefanuta.ro###scroll-top > div
+food.techinfus.com###footer
+food.techinfus.com###slidebox
 cdn.privacy-mgmt.co
 cdn.privacy-mgmt.com
 www.magazine.co.uk##div.footer-links-grid__item:nth-of-type(4)
